@@ -90,7 +90,7 @@
       <section id="main-content">
 			  <section class="wrapper">
              <div class="row">
-                 <div class="col-lg-6 main-chart">
+                 <div class="col-lg-6 main chart">
              			 <div class="showback">
 <h1><span class="li_lab"></span>  About me </h1>
 <h3> I'm a PhD candidate working with <a href="daphnia.ecology.uga.edu/drakelab">John Drake</a> at University of Georgia's <a href="ecology.uga.edu"> Odum School of Ecology </a>. My dissertation work uses a zooplankton-microparasite model system to investigate how factors such as excess nutrients, temperature fluctuations, and competition mediate epidemic dynamics. I use a combination of experimental (e.g., microcosms) and theoretical (e.g., epidemiological models) approaches in order to address these questions (see <a href="research.html">Research</a>).</h3> 
@@ -125,7 +125,7 @@
                   
       <!-- ****************  RIGHT SIDEBAR CONTENT ***************** -->                  
                   
-                  <div class="col-lg-6 ds">
+                  <div class="col-lg-4 ds">
     				<h3> News </h3>
               <!-- First Action -->
                    <div class="desc">
