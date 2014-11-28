@@ -93,7 +93,7 @@
                  <div class="col-lg-6 main-chart">
              			 <div class="showback">
 <h1><span class="li_lab"></span>  About me </h1>
-<h3> I'm a PhD candidate working with <a href="daphnia.ecology.uga.edu/drakelab">John Drake</a> at University of Georgia's <a href="ecology.uga.edu"> Odum School of Ecology </a>. My dissertation work uses a zooplankton-microparasite model system to investigate how factors such as excess nutrients, temperature fluctuations, and competition mediate epidemic dynamics. I use a combination of experimental (e.g., microcosms) and theoretical (e.g., epidemiological models) approaches in order to address these questions (see <a href="research.html">Research</a>).</h3> 
+<h3> I'm a PhD candidate working with <a href="http://daphnia.ecology.uga.edu/drakelab">John Drake</a> at University of Georgia's <a href="http://ecology.uga.edu"> Odum School of Ecology </a>. My dissertation work uses a zooplankton-microparasite model system to investigate how factors such as excess nutrients, temperature fluctuations, and competition mediate epidemic dynamics. I use a combination of experimental (e.g., microcosms) and theoretical (e.g., epidemiological models) approaches in order to address these questions (see <a href="research.html">Research</a>).</h3> 
 						</div>
 	
 
@@ -127,6 +127,19 @@
                   
         <div class="col-lg-4 ds">
     				<h3> News </h3>
+								<div class="desc">
+                 	<div class="thumb">
+                 		<span class="badge bg-theme"><i class="fa fa-rocket"></i></span>
+                      	</div>
+                      	<div class="details">
+                      		<p><muted>19 November 2014 </muted></p>
+                      		  </h4> I recently took part in an interview on Open Access publishin as part of a series of interviews with scientists at Emory, UGA, and others. If you listen to GA public radio at 3am, you may just hear it live. If not, <a href="assets/files/OAinterview.wav"> click here </a>. <br/></h4>
+                      	</div>
+                      </div>
+
+
+
+
               <!-- First Action -->
                    <div class="desc">
                       	<div class="thumb">
