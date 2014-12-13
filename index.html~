@@ -73,6 +73,19 @@
                       </a>
                   </li>
 
+               <li class="mt">
+                      <a href="code.html" >
+                          <h4><i class=" fa fa-code"></i> Code </h4>
+                      </a>
+                  </li>
+
+
+						   <li class="mt">
+                  <a href="research.html" >
+              <h4><i class=" fa fa-volume-up"></i> Music </h4>
+                      </a>
+                  </li>
+
 
 
               </ul>
@@ -83,9 +96,12 @@
       
 
 
+      
 
 
- <!-- *************  MAIN CONTENT  ************************ -->
+
+
+ <!-- *************  MAIN CONTENT  ************** -->
       <!--main content start-->
       <section id="main-content">
 			  <section class="wrapper">
@@ -123,10 +139,12 @@
 
                   
                   
-      <!-- ****************  RIGHT SIDEBAR CONTENT ***************** -->                  
+      <!-- ************  RIGHT SIDEBAR CONTENT ********** -->                  
                   
         <div class="col-lg-4 ds">
     				<h3> News </h3>
+
+   				  <!-- OA interview  -->
 								<div class="desc">
                  	<div class="thumb">
                  		<span class="badge bg-theme"><i class="fa fa-rocket"></i></span>
@@ -137,10 +155,7 @@
                       	</div>
                       </div>
 
-
-
-
-              <!-- First Action -->
+              <!--  updated  -->
                    <div class="desc">
                       	<div class="thumb">
                       		<span class="badge bg-theme"><i class="fa fa-rocket"></i></span>
