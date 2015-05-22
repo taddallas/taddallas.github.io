@@ -1,0 +1,13 @@
+#markdown: kramdown
+
+# For related posts
+# lsi: true
+# highlighter: pygments
+
+permalink: pretty
+
+safe: true
+
+title: Tad Dallas
+subtitle: Aspiring Disease Ecologist
+production_url: http://taddallas.github.io

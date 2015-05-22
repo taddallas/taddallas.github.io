@@ -1,0 +1,10 @@
+<ul class="left">
+   <li><a href="/"><img src="/resources/favicon.png" height="50"></img></a></li>
+</ul>
+
+<ul class="right">
+   <li {%if page.title == 'Research' %}class="active"{% endif %}><a href="/research/"> <i class="fa fa-flask"></i>  Research</a></li>
+   <li {%if page.title == 'Papers' %}class="active"{% endif %}><a href="/papers/"><i class="fa fa-book"></i>  Papers</a></li>
+   <li {%if page.title == 'Software' %}class="active"{% endif %}><a href="/software/"><i class="fa fa-cogs"></i>   Software</a></li>
+  <li {%if page.title == 'Music' %}class="active"{% endif %}><a href="/music/"><i class="fa fa-volume-up"></i>   Music</a></li>
+</ul>
