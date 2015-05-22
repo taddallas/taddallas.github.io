@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-description: Want to know more about what we do?
+description: Scientific currency.
 ---
 
 
@@ -9,9 +9,18 @@ description: Want to know more about what we do?
 
 <div class="pure-u-1 copy" markdown="1">
 
+# In press
+
++ Park, A., C. Cleveland, **T. Dallas**, and J. Corn. Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission. Parasitology. 
+
++ Presley, S.J., **T. Dallas**, B.T. Klingbeil, and M.R. Willig. Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents. Biological Journal of the Linnean Society. 
+
+
+
 # 2015
 
-+ 
+
+
 
 # 2014
 + <i style="color:HotPink" class=" fa fa-unlock"></i>  **Dallas,T.** and J.M. Drake 2014. Relative Importance of Environmental, Geographic, and Spatial Variables on Zooplankton Metacommunities. Ecosphere. 5:art104. [Site](http://www.esajournals.org/doi/full/10.1890/ES14-00071.1) [PDF](ELSmetacom.pdf) 
