@@ -4,16 +4,11 @@ title: Papers
 description: Scientific currency.
 ---
 
-
-
-
 <div class="pure-u-1 copy" markdown="1">
 
 # In press
 
 + Park, A., C. Cleveland, **T. Dallas**, and J. Corn. Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission. Parasitology. 
-
-
 
 # 2015
 
