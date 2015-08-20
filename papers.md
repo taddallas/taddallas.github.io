@@ -10,7 +10,10 @@ description: Scientific currency.
 
 + Park, A., C. Cleveland, **T. Dallas**, and J. Corn. Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission. Parasitology. 
 
+
 # 2015
+
++ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.** and E. Cornelius. 2015. Co-extinction in a host-parasite network: identifying key hosts for network stability. Nature Scientific Reports. [DOI: 10.1038/srep13185](http://www.nature.com/articles/srep13185)
 
 + Presley, S.J., **T. Dallas**, B.T. Klingbeil, and M.R. Willig. Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents. Biological Journal of the Linnean Society. [Site](http://onlinelibrary.wiley.com/doi/10.1111/bij.12601/abstract) &nbsp; [PDF](phyloParasites2015.pdf)
 
