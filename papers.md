@@ -6,6 +6,11 @@ description: Scientific currency.
 
 <div class="pure-u-1 copy" markdown="1">
 
+# In press
+
++ **Dallas, T, JM Drake, R Hall 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. 
+
+
 
 # 2015
 

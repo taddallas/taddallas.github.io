@@ -26,3 +26,17 @@ One of the central goals of community ecology is to understand what shapes speci
 Questions of population synchrony and stability in fluctuating environments have always interested me. What causes populations to crash, and can we predict population extinction? What is the frequency distribution of extinction times when populations are essentially identical? How does the environment influence this distribution? So many questions I would love to answer. I'm currently investigating how fluctuating temperature may increase population cycle amplitude, and how this alteration may impact the distribution of extinction times. 
 </div>
 
+
+
+<div class="pure-u-1 copy" markdown="1">
+# Open Science
+
+I build tools for [accessing](https://github.com/ropensci/parasiteR) and [analyzing](https://github.com/taddallas/metacom) ecological data. I also maintain an [open lab notebook](http://taddallas.github.io/LabNotebook/), and have been [interviewed by Georgia public radio](https://beta.prx.org/stories/138032) about Open Access publishing (John Drake and I are around the 15 minute mark). I try to be as open with my science as I can, but I still likely have lots of room for improvement.  
+
+
+
+</div>
+
+
+
+
