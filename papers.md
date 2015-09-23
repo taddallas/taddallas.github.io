@@ -8,17 +8,16 @@ description: Scientific currency.
 
 # In press
 
-+ **Dallas, T**, JM Drake, R Hall 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. 
-
++ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. 
 
 
 # 2015
 
-+ Park, A., C. Cleveland, **T. Dallas**, and J. Corn. Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission. Parasitology. [Site](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9879478&fileId=S0031182015000578) &nbsp; [PDF](park2015.pdf)
++ Park, A., C. Cleveland, **T. Dallas**, and J. Corn. 2015. Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission. Parasitology. [Site](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9879478&fileId=S0031182015000578) &nbsp; [PDF](park2015.pdf)
 
-+ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.** and E. Cornelius. 2015. Co-extinction in a host-parasite network: identifying key hosts for network stability. Nature Scientific Reports. [Site](http://www.nature.com/articles/srep13185) &nbsp; [PDF](fishNest2015.pdf)
++ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.** and E. Cornelius. 2015. Co-extinction in a host-parasite network: identifying key hosts for network stability. Nature Scientific Reports. [Site](http://www.nature.com/articles/srep13185) &nbsp; [PDF](fishNest2015.pdf) &nbsp; [Press Release](http://www.eurekalert.org/pub_releases/2015-09/uog-sec092115.php#.VgBcqm3NVjk.facebook)
 
-+ Presley, S.J., **T. Dallas**, B.T. Klingbeil, and M.R. Willig. Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents. Biological Journal of the Linnean Society. [Site](http://onlinelibrary.wiley.com/doi/10.1111/bij.12601/abstract) &nbsp; [PDF](phyloParasites2015.pdf)
++ Presley, S.J., **T. Dallas**, B.T. Klingbeil, and M.R. Willig. 2105. Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents. Biological Journal of the Linnean Society. [Site](http://onlinelibrary.wiley.com/doi/10.1111/bij.12601/abstract) &nbsp; [PDF](phyloParasites2015.pdf)
 
 
 # 2014
