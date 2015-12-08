@@ -24,7 +24,7 @@ code{
 
 body{
   color: #333;
-  height: calc(100%-32px);
+  height: calc(90%-32px);
   background: rgb(255, 255, 255);
   background-position: center center;
   background-attachment: fixed;
@@ -44,17 +44,17 @@ body{
   font-family: "Open Sans";
   z-index: 3 !important;
   background: @blue !important;
-  top: 45px;
+  top: 25px;
   position: fixed;
-  padding: 20px 10px;
+  padding: 10px 10px;
   line-height: 20px !important;
   .pure-menu-heading{
-    padding: 5px 10px;
+    padding: 5px 5px;
   }
   a{
     &:hover{
       color: white;
-			font-size: 130% ;
+			font-size: 150% ;
       background: none !important;
     }
   }
@@ -77,10 +77,10 @@ body{
     width: 10em;
     vertical-align: bottom;
     text-align: center;
-    font-size: 110%;
+    font-size: 100%;
     &.active{
       a{
-        color: #32CD32;
+        color: @green !important;
       }
     }
     a{
@@ -102,7 +102,7 @@ body{
     text-decoration: none;
 
     &:hover{
-      border-bottom: 1px solid #32CD32 ;
+      border-bottom: 1px solid @green !important ;
     }
   }
   z-index: 2;
