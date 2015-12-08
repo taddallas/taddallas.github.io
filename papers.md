@@ -8,9 +8,9 @@ description: Scientific currency.
 
 # In press
 
-+ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](http://www.esajournals.org/doi/pdf/10.1890/15-0305.1)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](pdf)  [<i style='color:Violet' class="fa fa-database"></i>](http://datadryad.org/)
++ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://www.esajournals.org/doi/pdf/10.1890/15-0305.1)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](pdf)  [<i style='color:Violet' class="fa fa-database"></i>](http://datadryad.org/)
 
-+ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.**, M. Holtackers, and J. Drake. 2015. Costs of resistance and infection by a generalist pathogen. Ecology and Evolution. [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](http://www.linkToPaper.com)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](pdf)  [<i style='color:Violet' class="fa fa-database"></i>](http://dx.doi.org/10.5061/dryad.20234)
++ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.**, M. Holtackers, and J. Drake. 2015. Costs of resistance and infection by a generalist pathogen. Ecology and Evolution. [<i class="fa fa-chrome"></i>](http://)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](pdf)  [<i style='color:Violet' class="fa fa-database"></i>](http://dx.doi.org/10.5061/dryad.20234)
 
 
 # 2015
