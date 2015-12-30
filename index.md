@@ -30,5 +30,5 @@ I will graduate in May 2016.
 
 
 <div class="pure-u-1-2" markdown ="1">
-    <img src = "img/graph5.png" width="300">
+    <img src = "img/daphnia.png" width="300">
 </div>
