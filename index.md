@@ -3,11 +3,10 @@ layout: page
 title: Home
 ---
 
-
 <div class="pure-u-1-2 copy landing" markdown="1">
 # Hello!
 
-I'm Tad. Currently, I'm a PhD candidate working with John Drake at University of Georgia's Odum School of Ecology.
+I'm Tad.  I'm a PhD candidate working with John Drake at University of Georgia's Odum School of Ecology on questions in population and disease ecology.
 
 I will graduate in May 2016.
 
@@ -31,5 +30,5 @@ I will graduate in May 2016.
 
 
 <div class="pure-u-1-2" markdown ="1">
-<img src="img/daphnia.png" width="300">
+    <img src="img/graph5.png" width="350">
 </div>

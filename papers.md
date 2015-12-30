@@ -19,7 +19,7 @@ description: Scientific currency.
 
 + <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.** and E. Cornelius. 2015. Co-extinction in a host-parasite network: identifying key hosts for network stability. Nature Scientific Reports. [<i class="fa fa-chrome"></i>](http://www.nature.com/articles/srep13185) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](fishNest2015.pdf)  [<i style='color:Indigo' class="fa fa-bullhorn"></i>](http://www.eurekalert.org/pub_releases/2015-09/uog-sec092115.php#.VgBcqm3NVjk.facebook)
 
-+ Presley, S.J., **T. Dallas**, B.T. Klingbeil, and M.R. Willig. 2105. Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents. Biological Journal of the Linnean Society. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/bij.12601/abstract) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](phyloParasites2015.pdf) [<i style='color:Violet' class="fa fa-database"></i>](http://datadryad.org/resource/doi:10.5061/dryad.bp62d)
++ Presley, S.J., **T. Dallas**, B.T. Klingbeil, and M.R. Willig. 2105. Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents. Biological Journal of the Linnean Society. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/bij.12601/abstract) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](phyloParasites2015.pdf)[<i style='color:Violet' class="ai ai-dryad"></i>](http://datadryad.org/resource/doi:10.5061/dryad.bp62d)
 
 
 
