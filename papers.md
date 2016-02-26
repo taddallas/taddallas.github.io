@@ -41,7 +41,7 @@ description: Scientific currency
 
 # 2013
 
-+ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas,T.** & J. Drake 2013. Nitrate enrichment alters a _Daphnia_-microparasite interaction through multiple pathways. Ecology and Evolution. DOI: 10.1002/ece3.925 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1002/ece3.925/full") [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](nitrate.pdf)
++ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas,T.** & J. Drake 2013. Nitrate enrichment alters a _Daphnia_-microparasite interaction through multiple pathways. Ecology and Evolution. DOI: 10.1002/ece3.925 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1002/ece3.925/abstract") [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](nitrate.pdf)
 
 
 + **Dallas, T.**, S. Foré 2013. Chemical attraction of _Dermacentor variabilis_ ticks parasitic to _Peromyscus leucopus_ based on host body mass and sex. Experimental and Applied Acarology. DOI: 10.1007/s10493-013-9690-x [<i class="fa fa-chrome"></i>](http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10493-013-9690-x) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](chemattract.pdf)
