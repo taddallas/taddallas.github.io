@@ -4,10 +4,14 @@ title: Research
 description: The science that I do
 ---
 
+<br/>
+<br/>
+
+
 <div class="pure-u-1 copy" markdown="1">
 # Disease Ecology
 
- The majority of my research experience is on the ecology of infectious disease, using a _Daphnia_ -microparasite interaction as a model system to test epidemiological and ecological theory. This system is ideal, as the host is clonal (i.e., no genetic nonsense unless I want it there), fast-reproducing, and perfectly sized (i.e., hundreds upon hundereds can coexist in a few liters of water). Current investigations with this system are exploring the impact of interspecific competition on epidemic dynamics, temperature variability as an infection driver, and the relative impact of pathogen exposure on fitness of different host species (i.e., "costs of resistance"). 
+ The majority of my research experience is on the ecology of infectious disease, using a _Daphnia_ -microparasite interaction as a model system to test epidemiological and ecological theory. This system is ideal, as the host is clonal (i.e., no genetic nonsense unless I want it there), fast-reproducing, and perfectly sized (i.e., hundreds upon hundereds can coexist in a few liters of water). Current investigations with this system are exploring the impact of interspecific competition on epidemic dynamics, temperature variability as an infection driver, and the relative impact of pathogen exposure on fitness of different host species (i.e., "costs of resistance").
 
 </div>
 
@@ -24,7 +28,7 @@ One of the central goals of community ecology is to understand what shapes speci
 <div class="pure-u-1 copy" markdown="1">
 # Population Ecology
 
-Questions of population synchrony and stability in fluctuating environments have always interested me. What causes populations to crash, and can we predict population extinction? What is the frequency distribution of extinction times when populations are essentially identical? How does the environment influence this distribution? So many questions I would love to answer. I'm currently investigating how fluctuating temperature may increase population cycle amplitude, and how this alteration may impact the distribution of extinction times. 
+Questions of population synchrony and stability in fluctuating environments have always interested me. What causes populations to crash, and can we predict population extinction? What is the frequency distribution of extinction times when populations are essentially identical? How does the environment influence this distribution? So many questions I would love to answer. I'm currently investigating how fluctuating temperature may increase population cycle amplitude, and how this alteration may impact the distribution of extinction times.
 
 </div>
 
@@ -38,7 +42,3 @@ I build tools for [accessing](https://github.com/ropensci/parasiteR) and [analyz
 
 
 </div>
-
-
-
-
