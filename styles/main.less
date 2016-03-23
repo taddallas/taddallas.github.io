@@ -42,19 +42,19 @@ body{
 
 .top-bar{
   font-family: "Open Sans";
-  z-index: 3 !important;
-  background: @blue !important;
-  top: 25px;
+  z-index: 3!important;
+  background: fade(@blue, 40%) !important;
+  top: 30px;
   position: fixed;
-  padding: 10px 10px;
-  line-height: 20px !important;
+  padding: 0px 0px;
+  line-height: 70px !important;
   .pure-menu-heading{
-    padding: 5px 5px;
+    padding: 20px 0px;
   }
   a{
     &:hover{
-      color: white;
-			font-size: 150% ;
+      color: black;
+      font-size: 90% ;
       background: none !important;
     }
   }
@@ -80,14 +80,8 @@ body{
     font-size: 100%;
     &.active{
       a{
-        color: @green !important;
+        color: @light-green !important;
       }
-    }
-    a{
-      padding: 4px 10px;
-      color: white;
-      text-transform: lowercase;
-      font-weight: 400;
     }
   }
 }
@@ -102,7 +96,7 @@ body{
     text-decoration: none;
 
     &:hover{
-      border-bottom: 1px solid @green !important ;
+      border-bottom: 2px solid @green !important ;
     }
   }
   z-index: 2;
