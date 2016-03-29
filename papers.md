@@ -12,10 +12,15 @@ description: Scientific currency
 
 # in press
 
-+ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://www.esajournals.org/doi/abstract/10.1890/15-0305.1)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Competition.pdf)
+<br/>
+
+---
 
 
 # 2016
+
++ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1890/15-0305.1/abstract)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Competition.pdf)
+
 
 + **Dallas, T** 2016. `helminthR`: An R interface to the London Natural History Museum's Host-Parasite Database. Ecography doi: 10.1111/ecog.02131 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02131/pdf)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016helminthR.pdf)[<i style='color:Coral' class="fa fa-github-alt"></i>](https://github.com/ropensci/helminthR)
 
