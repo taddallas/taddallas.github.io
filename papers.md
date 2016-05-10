@@ -8,7 +8,7 @@ description: Scientific currency
 
 # Multimedia
 
-+ [<i class="fa fa-2x fa-video-camera" style="color:DodgerBlue "></i>](https://dx.doi.org/10.6084/m9.figshare.3175594) Dallas, Tad (2016): Dissertation defense. figshare.
++ [<i class="fa fa-2x fa-video-camera" style="color:DodgerBlue "></i>](https://dx.doi.org/10.6084/m9.figshare.3175594) Dallas, Tad (2016): "Biotic and abiotic factors influencing Daphnia host - fungal pathogen interactions". Dissertation defense. Odum School of Ecology.
 
 
 
@@ -33,7 +33,7 @@ description: Scientific currency
 
 ## 2016
 
-+ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1890/15-0305.1/abstract)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Competition.pdf)
++ **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1890/15-0305.1/abstract)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Competition.pdf) [<i style='color:Violet' class="ai ai-figshare"></i>](https://dx.doi.org/10.6084/m9.figshare.3159349.v1)
 
 
 + <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T** 2016. `helminthR`: An R interface to the London Natural History Museum's Host-Parasite Database. Ecography doi: 10.1111/ecog.02131 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02131/pdf)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016helminthR.pdf)[<i style='color:Coral' class="fa fa-github-alt"></i>](https://github.com/ropensci/helminthR)
