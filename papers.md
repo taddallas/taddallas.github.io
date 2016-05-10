@@ -6,6 +6,9 @@ description: Scientific currency
 
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 <div class="pure-u-1 copy" markdown="1">
 
@@ -13,8 +16,8 @@ description: Scientific currency
 # in press
 
 <br/>
+<br/>
 
----
 
 
 # 2016
@@ -22,7 +25,7 @@ description: Scientific currency
 + **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1890/15-0305.1/abstract)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Competition.pdf)
 
 
-+ **Dallas, T** 2016. `helminthR`: An R interface to the London Natural History Museum's Host-Parasite Database. Ecography doi: 10.1111/ecog.02131 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02131/pdf)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016helminthR.pdf)[<i style='color:Coral' class="fa fa-github-alt"></i>](https://github.com/ropensci/helminthR)
++ <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T** 2016. `helminthR`: An R interface to the London Natural History Museum's Host-Parasite Database. Ecography doi: 10.1111/ecog.02131 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02131/pdf)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016helminthR.pdf)[<i style='color:Coral' class="fa fa-github-alt"></i>](https://github.com/ropensci/helminthR)
 
 + <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.**, M. Holtackers, and J. Drake. 2016. Costs of resistance and infection by a generalist pathogen. Ecology and Evolution. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1889/full)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Costs.pdf)  [<i style='color:Violet' class="ai ai-dryad"></i>](http://dx.doi.org/10.5061/dryad.20234)
 
