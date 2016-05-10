@@ -4,11 +4,6 @@ title: Papers
 description: Scientific currency
 ---
 
-<br/>
-<br/>
-
-
-
 <div class="pure-u-1 copy" markdown="1">
 
 # Multimedia

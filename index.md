@@ -3,9 +3,6 @@ layout: page
 title: Home
 ---
 
-
-<br/>
-
 <div class="pure-u-1-2 copy landing" markdown="1">
 
 # Hello!
@@ -37,6 +34,5 @@ Feel free to [contact me](mailto:tdallas@uga.edu)
 </div>
 
 
-<br/>
 <br/>
 <br/>
