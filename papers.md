@@ -6,8 +6,7 @@ description: Scientific currency
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <div class="pure-u-1 copy" markdown="1">
@@ -37,7 +36,7 @@ description: Scientific currency
 
 
 
-# 2016
+## 2016
 
 + **Dallas, T**, R Hall, and JM Drake. 2015. Competition-mediated feedbacks in experimental multi-species epizootics. Ecology. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1890/15-0305.1/abstract)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Competition.pdf)
 
@@ -47,7 +46,7 @@ description: Scientific currency
 + <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas, T.**, M. Holtackers, and J. Drake. 2016. Costs of resistance and infection by a generalist pathogen. Ecology and Evolution. [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1889/full)  [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](Dallas2016Costs.pdf)  [<i style='color:Violet' class="ai ai-dryad"></i>](http://dx.doi.org/10.5061/dryad.20234)
 
 
-# 2015
+## 2015
 
 + Park, A., C. Cleveland, **T. Dallas**, and J. Corn. 2015. Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission. Parasitology. [<i class="fa fa-chrome"></i>](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9879478&fileId=S0031182015000578) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](park2015.pdf)
 
@@ -57,7 +56,7 @@ description: Scientific currency
 
 
 
-# 2014
+## 2014
 + <i style="color:HotPink" class=" fa fa-unlock"></i>  **Dallas,T.** and J.M. Drake 2014. Relative Importance of Environmental, Geographic, and Spatial Variables on Zooplankton Metacommunities. Ecosphere. 5:art104. [<i class="fa fa-chrome"></i>](http://www.esajournals.org/doi/full/10.1890/ES14-00071.1) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](ELSmetacom.pdf)
 
 + <i style="color:HotPink"  class=" fa fa-unlock"></i> **Dallas,T.** 2014. _metacom_: an R package for the analysis of metacommunity structure. Ecography. DOI:10.1111/j.1600-0587.2013.00695.x [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2013.00695.x/abstract) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](metacomnote.pdf)
@@ -67,7 +66,7 @@ description: Scientific currency
 + Kim, H.J., J.E. Cavanaugh, **T. Dallas**, & S. Foré 2014. Model selection criteria for count data with overdispersion and its application to the host-parasite relationship. Environmental and Ecological Statistics DOI: 10.1007/s10651-013-0257-0 [<i class="fa fa-chrome"></i>](http://link.springer.com/article/10.1007%2Fs10651-013-0257-0) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](modselect.pdf)
 
 
-# 2013
+## 2013
 
 + <i style="color:HotPink" class=" fa fa-unlock"></i> **Dallas,T.** & J. Drake 2013. Nitrate enrichment alters a _Daphnia_-microparasite interaction through multiple pathways. Ecology and Evolution. DOI: 10.1002/ece3.925 [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1002/ece3.925/abstract") [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](nitrate.pdf)
 
@@ -75,7 +74,7 @@ description: Scientific currency
 + **Dallas, T.**, S. Foré 2013. Chemical attraction of _Dermacentor variabilis_ ticks parasitic to _Peromyscus leucopus_ based on host body mass and sex. Experimental and Applied Acarology. DOI: 10.1007/s10493-013-9690-x [<i class="fa fa-chrome"></i>](http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10493-013-9690-x) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](chemattract.pdf)
 
 
-# 2012
+## 2012
 + <i style="color:HotPink"  class=" fa fa-unlock"></i> **Dallas, T.**, S. Foré, & H.J. Kim 2012. Modeling the influence of _Peromyscus leucopus_ body mass, sex and habitat on immature _Dermacentor variabilis_ burdens. Journal of Vector Ecology. 37(2) DOI: 10.1111/j.1948-7134.2012.00236.x [<i class="fa fa-chrome"></i>](http://onlinelibrary.wiley.com/doi/10.1111/j.1948-7134.2012.00236.x/full) [<i style='color:LimeGreen' class="fa fa-file-pdf-o"></i>](pldvfield.pdf)
 
 

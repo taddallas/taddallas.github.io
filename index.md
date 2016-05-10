@@ -5,7 +5,6 @@ title: Home
 
 
 <br/>
-<br/>
 
 <div class="pure-u-1-2 copy landing" markdown="1">
 
@@ -37,8 +36,7 @@ Feel free to [contact me](mailto:tdallas@uga.edu)
 <img src ="img/lakeErie.png" width="500">
 </div>
 
-</br>
-<br/>
+
 <br/>
 <br/>
 <br/>

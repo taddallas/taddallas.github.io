@@ -4,9 +4,6 @@ title: Research
 description: The science that I do
 ---
 
-<br/>
-<br/>
-
 
 <div class="pure-u-1 copy" markdown="1">
 # Disease Ecology

@@ -3,10 +3,6 @@ layout: page
 title: Software
 ---
 
-<br/>
-<br/>
-
-
 <div class="pure-u-1 copy" markdown="1">
 
 # R packages for science
