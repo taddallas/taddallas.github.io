@@ -42,19 +42,18 @@ body{
 
 .top-bar{
   font-family: "Open Sans";
-  z-index: 3!important;
-  background: fade(@blue, 40%) !important;
+  background: @bar!important;
   top: 30px;
   position: fixed;
   padding: 0px 0px;
   line-height: 70px !important;
   .pure-menu-heading{
-    padding: 20px 0px;
+    padding: 10px 0px;
   }
   a{
     &:hover{
       color: black;
-      font-size: 90% ;
+      font-size: 100% ;
       background: none !important;
     }
   }
@@ -108,7 +107,6 @@ body{
   }
 }
 
-
 .landing{
   padding: 2em 2em;
   font-size: 1.2em;
@@ -119,4 +117,84 @@ body{
   p{
     line-height: 1.8em;
   }
+}
+
+.pi {
+  color: @me;
+  border-bottom: 1px solid @high;
+}
+
+.student {
+  color: @dark-grey;
+}
+
+.text-muted {
+  color: #A3B2A2;
+}
+
+.text-primary {
+  color: @low;
+}
+
+.main {
+    padding-top: 120px;
+}
+@media (min-width: 750px) {
+    .main {
+        padding-top: 450px;
+    }
+}
+
+.img-circle {
+    border-radius: 35px;
+    border: 1px solid #f4f5f6;
+    box-shadow: 0px 0px 2px #e0e1e2;
+}
+
+
+.publication{
+  padding-top: 2em;
+  padding: 1em;
+    &:hover{
+        background-color: #fefcfc;
+    }
+    a{
+        font-size: 150%;
+        color: #3c3c3c;
+        &:hover{
+            color: #000;
+        }
+    }
+    .label{
+        display: inline-block;
+        float: right;
+        margin-bottom: 2px;
+        margin-left: 2px;
+        font-size: 100%;
+        line-height: 10px;
+        padding: 4px;
+        border-radius: 2px;
+        &.label-data{
+            background-color: fade(@light-purple, 50%);
+        }
+        &.label-code{
+            background-color: fade(@black, 50%);
+            color: @white;
+        }
+        &.label-pdf{
+            background-color: fade(@blue, 50%);
+        }
+        &.label-internet{
+            background-color: fade(@green, 50%);
+        }
+        &.label-github{
+            background-color: fade(@orange, 50%);
+        }
+        &.label-cran{
+            background-color: fade(@red, 50%);
+        }
+    }
+    .text-right {
+        text-align: right;
+    }
 }

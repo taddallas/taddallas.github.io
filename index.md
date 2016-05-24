@@ -30,7 +30,7 @@ Feel free to [contact me](mailto:tdallas@uga.edu)
 
 
 <div class="pure-u-1-2 copy" markdown="1">
-<img src ="img/lakeErie.png" width="500">
+<img src ="resources/lakeErie.png" width="500">
 </div>
 
 
