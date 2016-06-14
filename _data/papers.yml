@@ -31,7 +31,6 @@
 #    - type: data
 #      data: https://figshare.com
 
-
 - title:  The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts.
   key: diseaseMacro
   authors:
@@ -43,7 +42,7 @@
     - name: Budischak, S.
     - name: Byers, J.
     - name: Dallas, T.
-     type: pi
+      type: pi
     - name: Davies, J.
     - name: Drake, J.
     - name: Ezenwa, V.
