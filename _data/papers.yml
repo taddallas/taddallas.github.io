@@ -1,3 +1,70 @@
+#- title: "Experimental evidence of pathogen invasion threshold in a Daphnia-microparasite system"
+#  key: threshold
+#  authors:
+#    - name: T. Dallas
+#      type: pi
+#    - name: Krkosek, M.
+#    - name: Drake, J.
+#  date: 2016
+#  journal: American Naturalist
+#  labels:
+#    - type: pdf
+#      pdf: Dallas2016threshold.pdf
+#    - type: data
+#      data: https://figshare.com
+
+#- title: "Metacommunity ecology links environmental drivers to Culicoides communities and hemorrhagic disease reports in the southeastern United States."
+#  key: Cleveland2016
+#  authors:
+#   - name: Cleveland, C.A.
+#    - name: T. Dallas
+#      type: pi
+#    - name: Vigil, S.
+#    - name: Mead, D.G.
+#    - name: Corn, J.L.
+#    - name: Park, A.W.
+#  date: 2016
+#  journal: Oecologia
+#  labels:
+#    - type: pdf
+#      pdf: Cleveland016.pdf
+#    - type: data
+#      data: https://figshare.com
+
+
+- title:  The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts.
+  key: diseaseMacro
+  authors:
+    - name:  Stephens, P.
+    - name: Altizer, S.
+    - name: Smith, K.
+    - name: Aguirre, A.
+    - name: Brown, J.
+    - name: Budischak, S.
+    - name: Byers, J.
+    - name: Dallas, T.
+     type: pi
+    - name: Davies, J.
+    - name: Drake, J.
+    - name: Ezenwa, V.
+    - name: Farrell, M.
+    - name: Gileman, J.
+    - name: Han, B.
+    - name: Huang, S.
+    - name: Hutchinson, R.
+    - name: Johnson, P.
+    - name: Nunn, C.
+    - name: Onstad, D.
+    - name: Park, A.
+    - name: Vazquez-Prokopec, G.
+    - name: Schmidt, J.
+    - name: Poulin, R.
+   date: 2016 (in press)
+   journal: Ecology Letters
+#   labels:
+#    - type: pdf
+#      pdf: diseaseMacro2016.pdf
+
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
   open: true
@@ -54,6 +121,7 @@
 
 - title: " Costs of resistance and infection by a generalist pathogen"
   key: costs
+  open: true
   authors:
       - name: T. Dallas
         type: pi
