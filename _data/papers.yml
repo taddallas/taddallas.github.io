@@ -1,4 +1,4 @@
-#- title: "Experimental evidence of pathogen invasion threshold in a Daphnia-microparasite system"
+﻿#- title: "Experimental evidence of pathogen invasion threshold in a Daphnia-microparasite system"
 #  key: threshold
 #  authors:
 #    - name: T. Dallas
@@ -59,11 +59,11 @@
     - name: Vazquez-Prokopec, G.
     - name: Schmidt, J.
     - name: Poulin, R.
-   date: 2016 (in press)
-   journal: Ecology Letters
-#   labels:
-#    - type: pdf
-#      pdf: diseaseMacro2016.pdf
+  date: 2016 (in press)
+  journal: Ecology Letters
+# labels:
+#  - type: pdf
+#    pdf: diseaseMacro2016.pdf
 
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
