@@ -1,7 +1,8 @@
 ﻿- title:  "The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts"
   key: diseaseMacro
+  open: true
   authors:
-    - name:  Stephens, P.
+    - name: Stephens, P.
     - name: Altizer, S.
     - name: Smith, K.
     - name: Aguirre, A.
@@ -27,6 +28,9 @@
     - name: Poulin, R.
   date: 2016 (in press)
   journal: Ecology Letters
+  labels:
+    - type: doi
+      pdf: 10.1111/ele.12644
 
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
@@ -41,6 +45,8 @@
       pdf: Dallas2016helminthR.pdf
     - type: github
       github: https://github.com/ropensci/helminthR
+    - type: doi
+      doi: 10.1111/ecog.02131
 
 - title: "Competition-mediated feedbacks in experimental multi-species epizootics"
   key: comp
@@ -55,7 +61,7 @@
       - type: pdf
         pdf: Dallas2016Competition.pdf
       - type: data
-        data: https://dx.doi.org/10.6084/m9.figshare.3159349.v1
+        data: 10.6084/m9.figshare.3159349.v1
 
 - title: "Biotic and abiotic factors influencing Daphnia host - fungal pathogen interactions"
   key: defense
@@ -67,7 +73,7 @@
   date: 2016
   labels:
       - type: doi
-        doi:  https://dx.doi.org/10.6084/m9.figshare.3175594
+        doi:  10.6084/m9.figshare.3175594.v2
 
 - title: "Predicting centrality in networks of parasite sharing"
   key: centrality
@@ -80,9 +86,9 @@
   date: 2016
   labels:
       - type: doi
-        doi:  https://dx.doi.org/10.6084/m9.figshare.3159364.v2
+        doi:  10.6084/m9.figshare.3159364.v2
 
-- title: " Costs of resistance and infection by a generalist pathogen"
+- title: "Costs of resistance and infection by a generalist pathogen"
   key: costs
   open: true
   authors:
@@ -99,7 +105,7 @@
       - type: data
         data: http://dx.doi.org/10.5061/dryad.20234
       - type: doi
-        doi: http://onlinelibrary.wiley.com/doi/10.1002/ece3.1889/full
+        doi: 10.1002/ece3.1889
 
 - title: "Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission"
   key: park
@@ -116,7 +122,7 @@
       - type: pdf
         pdf: park2015.pdf
       - type: doi
-        doi: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9879478&fileId=S0031182015000578
+        doi: 10.1017/S0031182015000578
 
 - title: "Co-extinction in a host-parasite network: identifying key hosts for network stability"
   key: fishnest
@@ -133,7 +139,7 @@
       - type: data
         data: http://dx.doi.org/10.5061/dryad.20234
       - type: doi
-        doi: http://www.nature.com/articles/srep13185
+        doi: 10.1038/srep13185
 
 - title: "Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents"
   key: phyloParasites2015
@@ -151,7 +157,7 @@
       - type: data
         data: http://datadryad.org/resource/doi:10.5061/dryad.bp62d
       - type: doi
-        doi: http://onlinelibrary.wiley.com/doi/10.1111/bij.12601/abstract
+        doi: 10.1111/bij.12601
 
 - title: "Relative Importance of Environmental, Geographic, and Spatial Variables on Zooplankton Metacommunities"
   key: ELSmetacom
@@ -166,7 +172,7 @@
       - type: pdf
         pdf: ELSmetacom.pdf
       - type: doi
-        doi: http://www.esajournals.org/doi/full/10.1890/ES14-00071.1
+        doi: 10.1890/ES14-00071.1
 
 - title: "metacom: an R package for the analysis of metacommunity structure"
   key: metacom
@@ -180,7 +186,7 @@
       - type: pdf
         pdf: metacomnote.pdf
       - type: doi
-        doi: http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2013.00695.x/abstract
+        doi: 10.1111/j.1600-0587.2013.00695.x
 
 - title: "Relative importance of host environment, transmission potential, and host phylogeny to the structure of parasite metacommunities"
   key: sevMetacom
@@ -195,7 +201,7 @@
       - type: pdf
         pdf: sev_metacom.pdf
       - type: doi
-        doi: http://onlinelibrary.wiley.com/doi/10.1111/oik.00707/full
+        doi: 10.1111/oik.00707
 
 - title: "Model selection criteria for count data with overdispersion and its application to the host-parasite relationship"
   key: modselect
@@ -211,7 +217,7 @@
       - type: pdf
         pdf: modselect.pdf
       - type: doi
-        doi: http://link.springer.com/article/10.1007%2Fs10651-013-0257-0
+        doi: 10.1007/s10651-013-0257-0
 
 - title: "Nitrate enrichment alters a Daphnia-microparasite interaction through multiple pathways"
   key: nitrate
@@ -226,7 +232,7 @@
       - type: pdf
         pdf: nitrate.pdf
       - type: doi
-        doi: http://onlinelibrary.wiley.com/doi/10.1002/ece3.925/abstract%22
+        doi: 10.1002/ece3.925
 
 - title: "Chemical attraction of Dermacentor variabilis ticks parasitic to Peromyscus leucopus based on host body mass and sex"
   key: chemAttract
@@ -240,7 +246,7 @@
       - type: pdf
         pdf: chemattract.pdf
       - type: doi
-        doi: http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10493-013-9690-x
+        doi: 10.1007/s10493-013-9690-x
 
 - title: "Modeling the influence of Peromyscus leucopus body mass, sex and habitat on immature Dermacentor variabilis burdens"
   key: pldvfield
@@ -256,4 +262,4 @@
       - type: pdf
         pdf: pldvfield.pdf
       - type: doi
-        doi: http://onlinelibrary.wiley.com/doi/10.1111/j.1948-7134.2012.00236.x/full
+        doi: 10.1111/j.1948-7134.2012.00236.x
