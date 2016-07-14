@@ -22,7 +22,7 @@ Feel free to [contact me](mailto:tdallas@uga.edu)
 
 <a class="btn" href="http://orcid.org/0000-0003-3328-9958" ><i style="color:DimGray" class="ai ai-orcid ai-2x"></i></a>
 
-<a class="btn" href="https://publons.com/author/904038/tad-dallas#profile" ><img src="resources/publons.png"></img></a>
+<a class="btn" href="https://publons.com/author/904038/tad-dallas#profile" ><img src="resources/publons.png"></a>
 
 <a class="btn" href="http://stackoverflow.com/users/4190082/tad-dallas"><i style="color:DimGray" class="fa fa-stack-overflow fa-2x"></i></a>
 </div>
