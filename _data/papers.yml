@@ -62,6 +62,9 @@
         pdf: Dallas2016Competition.pdf
       - type: data
         data: 10.6084/m9.figshare.3159349.v1
+      - type: doi
+        doi: 10.1890/15-0305.1
+
 
 - title: "Biotic and abiotic factors influencing Daphnia host - fungal pathogen interactions"
   key: defense
