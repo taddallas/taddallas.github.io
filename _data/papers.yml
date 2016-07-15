@@ -30,7 +30,7 @@
   journal: Ecology Letters
   labels:
     - type: doi
-      pdf: 10.1111/ele.12644
+      doi: 10.1111/ele.12644
 
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
