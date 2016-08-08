@@ -26,11 +26,13 @@
     - name: Vazquez-Prokopec, G.
     - name: Schmidt, J.
     - name: Poulin, R.
-  date: 2016 (early view)
+  date: 2016
   journal: Ecology Letters
   labels:
     - type: doi
       doi: 10.1111/ele.12644
+    - type: pdf
+      pdf: diseaseMacro.pdf
 
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
@@ -61,7 +63,7 @@
       - type: pdf
         pdf: Dallas2016Competition.pdf
       - type: data
-        data: 10.6084/m9.figshare.3159349.v1
+        data: https://dx.doi.org/10.6084/m9.figshare.3159349.v1
       - type: doi
         doi: 10.1890/15-0305.1
 
