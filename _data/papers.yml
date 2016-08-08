@@ -29,10 +29,10 @@
   date: 2016
   journal: Ecology Letters
   labels:
-    - type: doi
-      doi: 10.1111/ele.12644
     - type: pdf
       pdf: diseaseMacro.pdf
+    - type: doi
+      doi: 10.1111/ele.12644
 
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
