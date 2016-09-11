@@ -1,4 +1,52 @@
-﻿- title:  "The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts"
+- title: "Fluctuating temperatures alter environmental pathogen transmission in a <i>Daphnia</i>-pathogen system"
+  key: tempVarInfection
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Drake, J.M.
+  date: 2016 (in press)
+  journal: Ecology and Evolution
+  labels:
+#    - type: pdf
+#      pdf:
+    - type: data
+      data: https://figshare.com/s/dca7736c0829267a890e
+#    - type: doi
+#      doi:
+- title: "Ordination obscures the influence of environment on plankton metacommunity structure"
+  key: srsMetacom
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Kramer, A.
+    - name: Zokan, M.
+    - name: Drake, J.M.
+  date: 2016 (in press)
+  journal: Limnology and Oceanography Letters
+  labels:
+#    - type: pdf
+#     pdf:
+    - type: data
+      data: https://dx.doi.org/10.6084/m9.figshare.3715272.v1
+#    - type: doi
+#      doi:
+- title: "Predictability of helminth parasite host range using information on geography, host traits and parasite community structure"
+  key: fishParasite
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Park, A.W.
+    - name: Drake, J.M.
+  date: 2016 (in press)
+  journal: Parasitology
+  labels:
+#    - type: pdf
+#      pdf:
+    - type: data
+      data: https://figshare.com/s/dca7736c0829267a890e
+#    - type: doi
+#      doi:
+- title:  "The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts"
   key: diseaseMacro
   open: true
   authors:

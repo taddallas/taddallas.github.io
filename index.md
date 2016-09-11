@@ -7,9 +7,10 @@ title: Home
 
 # Hello!
 
-I'm Tad. I recently finished my PhD with [John Drake](https://daphnia.ecology.uga.edu/drakelab/) at University of Georgia's Odum School of Ecology, and am currently a postdoc with [Alan Hastings](http://two.ucdavis.edu/~me/), working on questions of spatial population dynamics.
+I'm Tad. I use laboratory microcosms and field together together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. I am currently a postdoc with [Alan Hastings](http://two.ucdavis.edu/~me/), where we are working to understand how species interactions influence population dynamics, spatial spread, and geographic range limits.
 
-Feel free to [contact me](mailto:tdallas@uga.edu)
+
+Feel free to [contact me](mailto:tdallas@ucdavis.edu)
 
 
 <div class="btn-group">
