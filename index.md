@@ -7,8 +7,7 @@ title: Home
 
 # Hello!
 
-I'm Tad. I use laboratory microcosms and field together together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. I am currently a postdoc with [Alan Hastings](http://two.ucdavis.edu/~me/), where we are working to understand how species interactions influence population dynamics, spatial spread, and geographic range limits.
-
+I'm Tad. I use laboratory microcosms and field data together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. I am currently a postdoc with [Alan Hastings](http://two.ucdavis.edu/~me/), where we are working to understand how species interactions influence population dynamics, spatial spread, and geographic range limits.
 
 Feel free to [contact me](mailto:tdallas@ucdavis.edu)
 
