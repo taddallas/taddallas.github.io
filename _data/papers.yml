@@ -1,5 +1,6 @@
 - title: "Fluctuating temperatures alter environmental pathogen transmission in a <i>Daphnia</i>-pathogen system"
   key: tempVarInfection
+  open: true
   authors:
     - name: T. Dallas
       type: pi
@@ -15,6 +16,7 @@
 #      doi:
 - title: "Ordination obscures the influence of environment on plankton metacommunity structure"
   key: srsMetacom
+  open: true
   authors:
     - name: T. Dallas
       type: pi
@@ -46,6 +48,21 @@
       data: https://figshare.com/s/dca7736c0829267a890e
 #    - type: doi
 #      doi:
+- title: "Data-driven identification of potential Zika virus vectors"
+  key: zika
+  open: true
+  authors:
+    - name: M. Evans
+    - name: T. Dallas
+      type: pi
+    - name: B. Han
+    - name: C.C. Murdock
+    - name: J.M. Drake
+  date: 2016 (pre-print)
+  journal: bioRXiv
+  labels:
+    - type: doi
+      doi: 10.1101/077966
 - title:  "The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts"
   key: diseaseMacro
   open: true
