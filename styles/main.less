@@ -18,6 +18,7 @@ html, .pure-g [class *= "pure-u"]{
   font-family: "Oswald";
 }
 
+
 code{
   font-family: "Oxygen Mono";
 }
@@ -41,24 +42,26 @@ body{
 }
 
 .top-bar{
-  font-family: "Open Sans";
+  font-family: "Oswald";
   background: @bar!important;
-  top: 30px;
+  top: 25px;
   position: fixed;
   padding: 0px 0px;
+  font-size: 115%;
   line-height: 70px !important;
   .pure-menu-heading{
-    padding: 10px 0px;
+    padding: 0px 0px;
+    text-decoration-color: @dark-grey
   }
   a{
+    color: @dark-grey;
     &:hover{
-      color: black;
-      font-size: 100% ;
+      color: @dark-blue;
+      font-size: 110% ;
       background: none !important;
     }
   }
 }
-
 
 .left{
   float: left;
@@ -74,20 +77,20 @@ body{
 .pure-menu{
   li{
     width: 10em;
-    vertical-align: bottom;
+    vertical-align: center;
     text-align: center;
     font-size: 100%;
     &.active{
       a{
-        color: black !important;
+        color: @dark-blue !important;
       }
     }
   }
 }
 
 .l-content{
-  padding-top: 3em;
-  margin: 8em auto;
+  padding-top: 1em;
+  margin: 5em auto;
   width: 85%px;
   max-width: 1000px;
   a{
@@ -110,7 +113,7 @@ body{
 .landing{
   padding: 2em 2em;
   font-size: 1.2em;
-  text-align: right;
+  text-align: center;
 }
 
 .copy{
@@ -125,7 +128,7 @@ body{
 }
 
 .student {
-  color: @dark-grey;
+  color: @dark-blue;
 }
 
 .text-muted {
@@ -141,7 +144,7 @@ body{
 }
 @media (min-width: 750px) {
     .main {
-        padding-top: 450px;
+        padding-top: 400px;
     }
 }
 
@@ -153,13 +156,13 @@ body{
 
 
 .publication{
-  padding-top: 2em;
-  padding: 1em;
+  padding-top: 0em;
+  padding: 0em;
     &:hover{
         background-color: #fefcfc;
     }
     a{
-        font-size: 150%;
+        font-size: 125%;
         color: #3c3c3c;
         &:hover{
             color: #000;
@@ -172,7 +175,7 @@ body{
         margin-left: 2px;
         font-size: 100%;
         line-height: 10px;
-        padding: 4px;
+        padding: 7px;
         border-radius: 2px;
         &.label-data{
             background-color: fade(@light-purple, 50%);

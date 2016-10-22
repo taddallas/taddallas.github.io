@@ -5,15 +5,15 @@
     - name: T. Dallas
       type: pi
     - name: Drake, J.M.
-  date: 2016 (in press)
+  date: 2016
   journal: Ecology and Evolution
   labels:
-#    - type: pdf
-#      pdf:
+    - type: pdf
+      pdf: Dallas2016TempVar.pdf
     - type: data
       data: https://figshare.com/s/dca7736c0829267a890e
-#    - type: doi
-#      doi:
+    - type: doi
+      doi: 10.1002/ece3.2539
 - title: "Ordination obscures the influence of environment on plankton metacommunity structure"
   key: srsMetacom
   open: true
@@ -46,6 +46,8 @@
 #      pdf:
     - type: data
       data: https://figshare.com/s/dca7736c0829267a890e
+#    - type: github
+#      github: https://github.com/taddallas/FishParasite8910
 #    - type: doi
 #      doi:
 - title: "Data-driven identification of potential Zika virus vectors"
