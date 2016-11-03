@@ -7,6 +7,7 @@
       {% include header.html %}
    </head>
 
+
   <body>
     <div class="top-bar pure-menu pure-menu-open pure-menu-horizontal">
        {% include nav.html %}
@@ -16,23 +17,22 @@
   <div class="row publication">
      <div class="nine columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
      <span class="text-muted">{{forloop.rindex}}.</span>
-     {% if p.open == true %}<a> <i style="color:HotPink" class="fa fa-unlock"></i> </a>{% endif %}
-     {% if p.video == true %}<a> <i style="color:DodgerBlue" class="fa fa-video-camera"></i> </a>{% endif %}
     <b>{{p.title}}</b><br/>
    {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
    {{ p.date }}. <i> {{ p.journal }} </i>
     </div>
 
-
   <div class="one column"></div>
    <div class="two columns text-right">
        {% for lab in p.labels %}
        {% if lab.type == "pdf" %}<a href="/papers/{{lab.pdf}}"><span class="label label-pdf"> <i class="fa fa-file-pdf-o"></i> </span></a>{% endif %}
-       {% if lab.type == "doi" %}<a href="https://doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-internet"> <i class="fa fa-chrome"></i> </span></a>{% endif %}
+       {% if lab.type == "doi" %}<a href="{{lab.doi}}" title="{{ lab.in }}"><span class="label label-internet"> <i class="fa fa-chrome"></i> </span></a>{% endif %}
      {% if lab.type == "code" %}<a href="{{lab.code}}"><span class="label label-data"> <i class="fa fa-code"></i></span></a>{% endif %}
      {% if lab.type == "data" %}<a href="{{lab.data}}"><span class="label label-data"> <i class="fa fa-database"></i></span></a>{% endif %}
      {% if lab.type == "cran" %}<a href="{{lab.cran}}}"><span class="label label-cran"> CRAN</span></a>{% endif %}
      {% if lab.type == "github" %}<a href="{{lab.github}}"><span class="label label-github"> <i class="fa fa-github-alt"></i>   </span></a>{% endif %}
+      {% if lab.type == "video" %}<a href="{{lab.video}}"><span class= "label label-video"> <i class="fa fa-video-camera"></i> </span> </a>{% endif %}
+      {% if lab.type == "audio" %}<a href="{{lab.audio}}"><span class= "label label-audio"> <i class="fa fa-microphone"></i> </span> </a>{% endif %}
     {% endfor %}
     </div>
   </div>

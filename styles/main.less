@@ -41,6 +41,15 @@ body{
   z-index: -100 !important;
 }
 
+.box {
+    font-family: "Oswald";
+    width: 250px;
+    height: 250px;
+    background:  @light-blue;
+    display: inline-block;
+    margin: 10px;
+}
+
 .top-bar{
   font-family: "Oswald";
   background: @bar!important;
@@ -196,7 +205,14 @@ body{
         &.label-cran{
             background-color: fade(@red, 50%);
         }
+        &.label-video{
+            background-color: fade(@low, 50%);
+        }
+        &.label-audio{
+            background-color: fade(@light-grey, 50%);
+        }
     }
+
     .text-right {
         text-align: right;
     }

@@ -1,0 +1,41 @@
+- title: "Biotic and abiotic factors influencing Daphnia host - fungal pathogen interactions"
+  key: defense
+  authors:
+      - name: T. Dallas
+        type: pi
+      - name: J.M. Drake
+  date: 2016
+  journal: Dissertation defense @ U Georgia - Odum School of Ecology
+  labels:
+      - type: doi
+        doi:  https://dx.doi.org/10.6084/m9.figshare.3175594.v2
+      - type: video
+        video:  https://dx.doi.org/10.6084/m9.figshare.3175594.v2
+
+- title: "Predicting centrality in networks of parasite sharing"
+  key: centrality
+  authors:
+      - name: T. Dallas
+        type: pi
+      - name: J.M. Drake
+  date: 2016
+  journal: Research talk @ U Georgia Graduate Student Symposium
+  labels:
+      - type: doi
+        doi:  https://dx.doi.org/10.6084/m9.figshare.3159364.v2
+      - type: video
+        video: https://dx.doi.org/10.6084/m9.figshare.3159364.v2
+
+- title: "Open Access: Generation Open"
+  key: OA
+  authors:
+      - name: T. Dallas
+        type: pi
+      - name: J.M. Drake
+  date: 2014
+  journal: Radio interview @ PRX Public Radio
+  labels:
+      - type: doi
+        doi:  https://beta.prx.org/stories/138032
+      - type: audio
+        audio: /resources/OAinterview.wav
