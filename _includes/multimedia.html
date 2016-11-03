@@ -31,7 +31,7 @@
      {% if lab.type == "data" %}<a href="{{lab.data}}"><span class="label label-data"> <i class="fa fa-database"></i></span></a>{% endif %}
      {% if lab.type == "cran" %}<a href="{{lab.cran}}}"><span class="label label-cran"> CRAN</span></a>{% endif %}
      {% if lab.type == "github" %}<a href="{{lab.github}}"><span class="label label-github"> <i class="fa fa-github-alt"></i>  </span></a>{% endif %}
-      {% if lab.type == "video" %}<a href="{{lab.video}}"><span class= "label label-video"> <i class="fa fa-video-camera"></i> </span> </a>{% endif %}
+      {% if lab.type == "video" %}<a href="{{lab.video}}"><span class= "label label-video"> <i class="fa fa-video-camera"></i></span></a>{% endif %}
       {% if lab.type == "audio" %}<a href="{{lab.audio}}"><span class= "label label-audio"> <i class="fa fa-microphone"></i> </span> </a>{% endif %}
     {% endfor %}
     </div>
