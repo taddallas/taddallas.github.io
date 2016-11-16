@@ -11,7 +11,7 @@
   journal: Limnology and Oceanography Letters
   labels:
     - type: pdf
-     pdf: Dallas2016SRS.pdf
+      pdf: Dallas2016SRS.pdf
     - type: data
       data: https://dx.doi.org/10.6084/m9.figshare.3715272.v1
     - type: doi
