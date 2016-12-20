@@ -7,7 +7,7 @@
     - name: Kramer, A.
     - name: Zokan, M.
     - name: Drake, J.M.
-  date: 2016 (in press)
+  date: 2016 
   journal: Limnology and Oceanography Letters
   labels:
     - type: pdf
@@ -47,8 +47,6 @@
       pdf: Dallas2016Helminth.pdf
     - type: data
       data: https://figshare.com/s/dca7736c0829267a890e
-#    - type: github
-#      github: https://github.com/taddallas/FishParasite8910
     - type: doi
       doi: 10.1017/S0031182016001608
 
@@ -186,8 +184,6 @@
   labels:
       - type: pdf
         pdf: fishNest2015.pdf
-      - type: data
-        data: http://dx.doi.org/10.5061/dryad.20234
       - type: doi
         doi: 10.1038/srep13185
 
