@@ -27,11 +27,14 @@
     - name: B. Han
     - name: C.C. Murdock
     - name: J.M. Drake
-  date: 2016 (pre-print)
-  journal: bioRXiv
+  date: 2016 
+  journal: eLife
   labels:
     - type: doi
       doi: 10.1101/077966
+    - type: preprint
+      preprint: http://biorxiv.org/content/early/2016/09/27/077966
+
 
 - title: "Predictability of helminth parasite host range using information on geography, host traits and parasite community structure"
   key: fishParasite

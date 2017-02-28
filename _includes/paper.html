@@ -16,7 +16,7 @@
   <div class="row publication">
      <div class="nine columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
      <span class="text-muted">{{forloop.rindex}}.</span>
-     {% if p.open == true %}<a> <i style="color:HotPink" class="fa fa-unlock"></i> </a>{% endif %}
+     {% if p.open == true %}<a> <i style="color:Salmon" class="fa fa-unlock"></i> </a>{% endif %}
      {% if p.video == true %}<a> <i style="color:DodgerBlue" class="fa fa-video-camera"></i> </a>{% endif %}
     <b>{{p.title}}</b><br/>
    {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
@@ -27,6 +27,7 @@
   <div class="one column"></div>
    <div class="two columns text-right">
        {% for lab in p.labels %}
+       {% if lab.type == "preprint" %}<a href="{{lab.preprint}}"><span class="label label-upload"> <i class="fa fa-upload"></i> </span></a>{% endif %}
        {% if lab.type == "pdf" %}<a href="/papers/{{lab.pdf}}"><span class="label label-pdf"> <i class="fa fa-file-pdf-o"></i> </span></a>{% endif %}
        {% if lab.type == "doi" %}<a href="https://doi.org/{{lab.doi}}" title="{{ lab.in }}"><span class="label label-internet"> <i class="fa fa-chrome"></i> </span></a>{% endif %}
      {% if lab.type == "code" %}<a href="{{lab.code}}"><span class="label label-data"> <i class="fa fa-code"></i></span></a>{% endif %}
