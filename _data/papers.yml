@@ -14,7 +14,7 @@
     - type: press
       press: http://www.ecology.uga.edu/newsItem.php?More_mosquito_species_than_previously_thought_may_transmit_Zika-426/
     - type: preprint
-      preprint: https://biorxiv.org/content/early/2016/09/27/077966
+      preprint: http://biorxiv.org/content/early/2016/09/27/077966
     - type: data
       data: https://doi.org/10.6084/m9.figshare.4042488.v1
     - type: doi

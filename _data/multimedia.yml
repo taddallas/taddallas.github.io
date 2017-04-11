@@ -11,6 +11,8 @@
         doi:  https://dx.doi.org/10.6084/m9.figshare.3175594.v2
       - type: video
         video:  https://dx.doi.org/10.6084/m9.figshare.3175594.v2
+      - type: pdf
+        pdf: https://getd.libs.uga.edu/pdfs/dallas_tad_201605_phd.pdf
 
 - title: "Predicting centrality in networks of parasite sharing"
   key: centrality
