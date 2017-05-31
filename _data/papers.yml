@@ -1,3 +1,21 @@
+- title: "Predicting cryptic links in host-parasite networks"
+  key: missingLinks
+  open: true
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: A.W. Park
+    - name: J.M. Drake
+  date: 2017
+  journal: PLoS Computational Biology
+  labels:
+    - type: pdf
+      pdf: Dallas2017plos.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.4965038.v1
+    - type: doi
+      doi: 10.1371/journal.pcbi.1005557
+
 - title: "Data-driven identification of potential Zika virus vectors"
   key: zika
   open: true
