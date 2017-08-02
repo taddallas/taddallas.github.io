@@ -32,7 +32,7 @@ Feel free to [contact me](mailto:tdallas@ucdavis.edu)
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-
+<link rel="stylesheet" href="/resources/academicons-1.6.0/css/academicons.css" />
 
 
 <script language="javascript" type="text/javascript">
