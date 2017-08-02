@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: base
 title: Papers
 description: Scientific currency
 ---
