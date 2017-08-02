@@ -1,3 +1,22 @@
+- title: "Estimating parasite host range"
+  key: hostRange
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Huang, S
+    - name: Nunn, C.L.
+    - name: Park, A.W.
+    - name: Drake, J.M.
+  date: 2017
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: .pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5072665.v1 
+    - type: doi
+      doi: 
+
 - title: "Predicting cryptic links in host-parasite networks"
   key: missingLinks
   open: true

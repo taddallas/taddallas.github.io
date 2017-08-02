@@ -1,3 +1,38 @@
+#- title: "Individual and population-level consequences of temperature variability in an experimental host-parasite system"
+#  key: popBuffering
+#  authors:
+#    - name: T. Dallas
+#      type: pi
+#    - name: Drake, J.M.
+#  date: 2017
+#  journal: Oecologia
+#  labels:
+#    - type: pdf
+#      pdf: .pdf
+#    - type: data
+#      data: https://figshare.com
+
+
+
+#- title: "Trait-based prediction of host species roles in parasite sharing networks"
+#  key: nodeProperties
+#  authors:
+#    - name: T. Dallas
+#      type: pi
+#    - name: Han, B.A.
+#    - name: Nunn, C.L.
+#    - name: Park, A.W.
+#    - name: Stevens, P.R.
+#    - name: Drake, J.M.
+#  date: 2017
+#  journal: 
+#  labels:
+#    - type: pdf
+#      pdf: .pdf
+#    - type: data
+#      data: https://figshare.com
+
+
 # - title: "Experimental evidence of pathogen invasion threshold in a Daphnia-microparasite system"
 #  key: threshold
 #  authors:
@@ -5,13 +40,14 @@
 #      type: pi
 #    - name: Krkosek, M.
 #    - name: Drake, J.
-#  date: 2016
-#  journal: American Naturalist
+#  date: 2017
+#  journal: 
 #  labels:
 #    - type: pdf
 #      pdf: Dallas2016threshold.pdf
 #    - type: data
 #      data: https://figshare.com
+
 
 #- title: "Metacommunity ecology links environmental drivers to Culicoides communities and hemorrhagic disease reports in the southeastern United States."
 #  key: Cleveland2016
@@ -30,3 +66,7 @@
 #      pdf: Cleveland016.pdf
 #    - type: data
 #      data: https://figshare.com
+
+
+
+
