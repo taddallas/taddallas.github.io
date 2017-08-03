@@ -4,7 +4,6 @@ title: Home
 ---
 
 
-<body>
 <div class="pure-u-1-1 copy landing" markdown="1">
 
 # Hello!
@@ -24,8 +23,6 @@ Feel free to [contact me](mailto:tdallas@ucdavis.edu)
 </div>
 
 
-
-</body>
 <!--<div class="pure-u-1-2 copy" id='hexagon' markdown="1">
 </div>-->
 
