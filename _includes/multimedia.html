@@ -1,15 +1,4 @@
 <html class="no-js" lang="en">
-   <head>
-      {% include header.html %}
-   </head>
-
-
-  <body>
-    <div class="top-bar pure-menu pure-menu-open pure-menu-horizontal">
-       {% include nav.html %}
-    </div>
-
-
   <div class="row publication">
      <div class="nine columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
      <span class="text-muted">{{forloop.rindex}}.</span>
@@ -22,7 +11,7 @@
    <div class="two columns text-right">
        {% for lab in p.labels %}
        {% if lab.type == "pdf" %}<a href="{{lab.pdf}}"><span class="label label-pdf"> <i class="fa fa-file-pdf-o"></i> </span></a>{% endif %}
-       {% if lab.type == "doi" %}<a href="{{lab.doi}}" title="{{ lab.in }}"><span class="label label-internet"> <i class="fa fa-chrome"></i> </span></a>{% endif %}
+       {% if lab.type == "doi" %}<a href="{{lab.doi}}"><span class="label label-internet"> <i class="fa fa-chrome"></i> </span></a>{% endif %}
      {% if lab.type == "code" %}<a href="{{lab.code}}"><span class="label label-data"> <i class="fa fa-code"></i></span></a>{% endif %}
      {% if lab.type == "data" %}<a href="{{lab.data}}"><span class="label label-data"> <i class="fa fa-database"></i></span></a>{% endif %}
      {% if lab.type == "cran" %}<a href="{{lab.cran}}}"><span class="label label-cran"> CRAN</span></a>{% endif %}
@@ -32,6 +21,4 @@
     {% endfor %}
     </div>
   </div>
-
-</body>
 </html>

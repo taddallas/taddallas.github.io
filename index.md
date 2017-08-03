@@ -4,8 +4,8 @@ title: Home
 ---
 
 
-
-<div class="pure-u-1-2 copy landing" markdown="1">
+<body>
+<div class="pure-u-1-1 copy landing" markdown="1">
 
 # Hello!
 
@@ -24,11 +24,10 @@ Feel free to [contact me](mailto:tdallas@ucdavis.edu)
 </div>
 
 
-<div class="pure-u-1-2 copy" id='hexagon' markdown="1">
-</div>
 
-<br/>
-<br/>
+</body>
+<!--<div class="pure-u-1-2 copy" id='hexagon' markdown="1">
+</div>-->
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
