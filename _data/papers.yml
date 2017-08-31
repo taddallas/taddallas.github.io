@@ -11,11 +11,11 @@
   journal: Proceedings of the Royal Society B
   labels:
     - type: pdf
-      pdf: .pdf
+      pdf: Dallas2017PRSB.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5072665.v1 
     - type: doi
-      doi: 
+      doi: 10.1098/rspb.2017.1250
 
 - title: "Predicting cryptic links in host-parasite networks"
   key: missingLinks
