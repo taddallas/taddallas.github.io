@@ -1,3 +1,51 @@
+- title: "Species are not most abundant in the center of their geographic range or climatic niche"
+  key: rangeShape
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Decker, R
+    - name: Hastings, A
+  date: 2017
+  journal: Ecology Letters
+  labels:
+    - type: pdf
+      pdf: 
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5023232
+    - type: doi
+      doi: 10.1111/ele.12860
+
+- title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
+  key: parEx
+  authors:
+    - name: Carlson, CJ
+    - name: KR Burgio
+    - name: ER Dougherty
+    - name: AJ Phillips
+    - name: VM Bueno
+    - name: CF Clements
+    - name: G Castaldo
+    - name: T. Dallas
+      type: pi
+    - name: CA Cizauskas
+    - name: GS Cumming
+    - name: J Doña
+    - name: NC Harris
+    - name: R Jovani
+    - name: S Mironov
+    - name: OC Muellerklein
+    - name: HC Proctor
+    - name: WM Getz
+  date: 2017
+  journal: Science Advances
+  labels:
+    - type: pdf
+      pdf: Carlson2017.pdf
+    - type: doi
+      doi:  10.1126/sciadv.1602422
+    - type: press
+			press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
+
 - title: "Estimating parasite host range"
   key: hostRange
   authors:
@@ -34,6 +82,25 @@
       data: https://doi.org/10.6084/m9.figshare.4965038.v1
     - type: doi
       doi: 10.1371/journal.pcbi.1005557
+
+
+- title: "Predictability of helminth parasite host range using information on geography, host traits and parasite community structure"
+  key: fishParasite
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Park, A.W.
+    - name: Drake, J.M.
+  date: 2017
+  journal: Parasitology
+  labels:
+    - type: pdf
+      pdf: Dallas2016Helminth.pdf
+    - type: data
+      data: https://figshare.com/s/dca7736c0829267a890e
+    - type: doi
+      doi: 10.1017/S0031182016001608
+
 
 - title: "Data-driven identification of potential Zika virus vectors"
   key: zika
@@ -75,23 +142,6 @@
       data: https://dx.doi.org/10.6084/m9.figshare.3715272.v1
     - type: doi
       doi: 10.1002/lol2.10028
-
-- title: "Predictability of helminth parasite host range using information on geography, host traits and parasite community structure"
-  key: fishParasite
-  authors:
-    - name: T. Dallas
-      type: pi
-    - name: Park, A.W.
-    - name: Drake, J.M.
-  date: 2016
-  journal: Parasitology
-  labels:
-    - type: pdf
-      pdf: Dallas2016Helminth.pdf
-    - type: data
-      data: https://figshare.com/s/dca7736c0829267a890e
-    - type: doi
-      doi: 10.1017/S0031182016001608
 
 - title: "Fluctuating temperatures alter environmental pathogen transmission in a <i>Daphnia</i>-pathogen system"
   key: tempVarInfection
