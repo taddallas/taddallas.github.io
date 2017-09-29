@@ -43,7 +43,7 @@
     - type: doi
       doi:  10.1126/sciadv.1602422
     - type: press
-			press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
+      press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
 
 - title: "Estimating parasite host range"
   key: hostRange
