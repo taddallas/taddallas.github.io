@@ -1,3 +1,19 @@
+- title: "Compositional turnover in host and parasite communities does not change network structure"
+  key: graphDissim
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Poisot, T
+  date: 2017 (in press)
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5174413
+    - type: doi
+      doi: 
+
 - title: "Species are not most abundant in the center of their geographic range or climatic niche"
   key: rangeShape
   authors:
@@ -39,10 +55,10 @@
   date: 2017
   journal: Science Advances
   labels:
-    - type: press
-      press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
     - type: pdf
       pdf: Carlson2017.pdf
+    - type: press
+      press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
     - type: doi
       doi:  10.1126/sciadv.1602422
 
