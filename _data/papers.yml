@@ -12,7 +12,9 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5174413
     - type: doi
-      doi: 
+      doi: 10.1111/ecog.03514
+
+
 
 - title: "Species are not most abundant in the center of their geographic range or climatic niche"
   key: rangeShape
@@ -30,6 +32,46 @@
       data: https://doi.org/10.6084/m9.figshare.5023232
     - type: doi
       doi: 10.1111/ele.12860
+
+- title: "The Parasite Extinction Assessment and Red List -- an open-source, online biodiversity database for neglected symbionts"
+  key: parasiteRedList
+  authors:
+    - name: C. Carlson
+    - name: O. Muellerklein
+    - name: A.J. Phillips
+    - name: K.R. Burgio
+    - name: G. Castaldo
+    - name: C.A. Cizauskas
+    - name: G.S. Cumming
+    - name: T.A. Dallas
+      type: pi
+    - name: J Dona
+    - name: N. Harris
+    - name: R Jovani
+    - name: Z Miao
+    - name: H Proctor
+    - name: H.S. Yoon
+    - name: W. Getz
+  date: 2017 
+  journal: 
+  labels:
+    - type: preprint
+      doi: https://doi.org/10.1101/192351
+
+- title: "The mathematics of extinction across scales -- from populations to the biosphere"
+  key: mathExtinction
+  authors:
+    - name: C. Carlson
+    - name: K. Burgio
+    - name: T. Dallas
+      type: pi
+    - name: W. Getz
+  date: 2017 
+  journal: Mathematics of Planet Earth -- Quantitative Approaches to Issues of Current Interest
+  labels:
+    - type: preprint
+      doi: http://dx.doi.org/10.7287/peerj.preprints.3367v1
+
 
 - title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
   key: parEx
@@ -61,6 +103,7 @@
       press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
     - type: doi
       doi:  10.1126/sciadv.1602422
+
 
 - title: "Estimating parasite host range"
   key: hostRange

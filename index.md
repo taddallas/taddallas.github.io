@@ -10,6 +10,8 @@ title: Home
 
 I'm Tad. I use laboratory microcosms and field data together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. I am currently a postdoc with [Alan Hastings](http://two.ucdavis.edu/~me/), where we are working to understand how species interactions influence population dynamics, spatial spread, and geographic range limits.
 
+In March of 2018, I will become a postdoc at the Centre for Ecological Change at the University of Helsinki, working towards understanding the geographic distribution of populations and communities through space and time. 
+
 Feel free to [contact me](mailto:tdallas@ucdavis.edu)
 
   <div class="btn-group">
