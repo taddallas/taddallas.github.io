@@ -37,21 +37,21 @@
   key: parasiteRedList
   authors:
     - name: C. Carlson
-    - name: O. Muellerklein
-    - name: A.J. Phillips
-    - name: K.R. Burgio
-    - name: G. Castaldo
-    - name: C.A. Cizauskas
-    - name: G.S. Cumming
-    - name: T.A. Dallas
+    - name: Muellerklein, O
+    - name: Phillips, AJ
+    - name: Burgio, KR
+    - name: Castaldo, G 
+    - name: Cizauskas, CA
+    - name: Cumming, GS
+    - name: Dallas, T
       type: pi
-    - name: J Dona
-    - name: N. Harris
-    - name: R Jovani
-    - name: Z Miao
-    - name: H Proctor
-    - name: H.S. Yoon
-    - name: W. Getz
+    - name: Dona, J
+    - name: Harris, N
+    - name: Jovani, R
+    - name: Miao, Z
+    - name: Proctor, H
+    - name: Yoon, HS
+    - name: Getz, W
   date: 2017 
   journal: 
   labels:
@@ -62,10 +62,10 @@
   key: mathExtinction
   authors:
     - name: C. Carlson
-    - name: K. Burgio
-    - name: T. Dallas
+    - name: Burgio, K
+    - name: Dallas, T
       type: pi
-    - name: W. Getz
+    - name: Getz, W
   date: 2017 
   journal: Mathematics of Planet Earth -- Quantitative Approaches to Issues of Current Interest
   labels:
@@ -76,24 +76,24 @@
 - title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
   key: parEx
   authors:
-    - name: Carlson, CJ
-    - name: KR Burgio
-    - name: ER Dougherty
-    - name: AJ Phillips
-    - name: VM Bueno
-    - name: CF Clements
-    - name: G Castaldo
-    - name: T. Dallas
+    - name: C. Carlson
+    - name: Burgio, KR
+    - name: Dougherty, ER
+    - name: Phillips, AJ
+    - name: Bueno, VM
+    - name: Clements, CF
+    - name: Castaldo, G
+    - name: Dallas, T
       type: pi
-    - name: CA Cizauskas
-    - name: GS Cumming
-    - name: J Doña
-    - name: NC Harris
-    - name: R Jovani
-    - name: S Mironov
-    - name: OC Muellerklein
-    - name: HC Proctor
-    - name: WM Getz
+    - name: Cizauskas, CA
+    - name: Cumming, GS
+    - name: Doña, J
+    - name: Harris, NC
+    - name: Jovani, R
+    - name: Mironov, S
+    - name: Muellerklein, OC
+    - name: Proctor, HC
+    - name: Getz, WM
   date: 2017
   journal: Science Advances
   labels:
@@ -111,9 +111,9 @@
     - name: T. Dallas
       type: pi
     - name: Huang, S
-    - name: Nunn, C.L.
-    - name: Park, A.W.
-    - name: Drake, J.M.
+    - name: Nunn, CL
+    - name: Park, AW
+    - name: Drake, JM
   date: 2017
   journal: Proceedings of the Royal Society B
   labels:
@@ -130,8 +130,8 @@
   authors:
     - name: T. Dallas
       type: pi
-    - name: A.W. Park
-    - name: J.M. Drake
+    - name: Park, AW
+    - name: Drake, JM
   date: 2017
   journal: PLoS Computational Biology
   labels:
@@ -148,8 +148,8 @@
   authors:
     - name: T. Dallas
       type: pi
-    - name: Park, A.W.
-    - name: Drake, J.M.
+    - name: Park, AW
+    - name: Drake, JM
   date: 2017
   journal: Parasitology
   labels:
@@ -166,11 +166,11 @@
   open: true
   authors:
     - name: M. Evans
-    - name: T. Dallas
+    - name: Dallas, T
       type: pi
-    - name: B. Han
-    - name: C.C. Murdock
-    - name: J.M. Drake
+    - name: Han, B
+    - name: Murdock, CC
+    - name: Drake, JM
   date: 2016
   journal: eLife
   labels:
@@ -189,9 +189,9 @@
   authors:
     - name: T. Dallas
       type: pi
-    - name: Kramer, A.
-    - name: Zokan, M.
-    - name: Drake, J.M.
+    - name: Kramer, A
+    - name: Zokan, M
+    - name: Drake, JM
   date: 2016
   journal: Limnology and Oceanography Letters
   labels:
@@ -208,7 +208,7 @@
   authors:
     - name: T. Dallas
       type: pi
-    - name: Drake, J.M.
+    - name: Drake, JM
   date: 2016
   journal: Ecology and Evolution
   labels:
@@ -223,30 +223,30 @@
   key: diseaseMacro
   open: true
   authors:
-    - name: Stephens, P.
-    - name: Altizer, S.
-    - name: Smith, K.
-    - name: Aguirre, A.
-    - name: Brown, J.
-    - name: Budischak, S.
-    - name: Byers, J.
-    - name: Dallas, T.
+    - name: P. Stephens
+    - name: Altizer, S
+    - name: Smith, K
+    - name: Aguirre, A
+    - name: Brown, J
+    - name: Budischak, S
+    - name: Byers, J
+    - name: Dallas, T
       type: pi
-    - name: Davies, J.
-    - name: Drake, J.
-    - name: Ezenwa, V.
-    - name: Farrell, M.
-    - name: Gittleman, J.
-    - name: Han, B.
-    - name: Huang, S.
-    - name: Hutchinson, R.
-    - name: Johnson, P.
-    - name: Nunn, C.
-    - name: Onstad, D.
-    - name: Park, A.
-    - name: Vazquez-Prokopec, G.
-    - name: Schmidt, J.
-    - name: Poulin, R.
+    - name: Davies, J
+    - name: Drake, J
+    - name: Ezenwa, V
+    - name: Farrell, M
+    - name: Gittleman, J
+    - name: Han, B
+    - name: Huang, S
+    - name: Hutchinson, R
+    - name: Johnson, P
+    - name: Nunn, C
+    - name: Onstad, D
+    - name: Park, A
+    - name: Vazquez-Prokopec, G
+    - name: Schmidt, J
+    - name: Poulin, R
   date: 2016
   journal: Ecology Letters
   labels:
@@ -276,8 +276,8 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: R. Hall
-      - name: J.M. Drake
+      - name: Hall, R
+      - name: Drake, JM
   date: 2016
   journal: Ecology
   labels:
@@ -294,9 +294,9 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: M. Holtackers
+      - name: Holtackers, M
         type: student
-      - name: J.M. Drake
+      - name: Drake, JM
   date: 2016
   journal: Ecology and Evolution
   labels:
@@ -311,11 +311,11 @@
   key: park
   authors:
       - name: A. Park
-      - name: C. Cleveland
+      - name: Cleveland, C
         type: student
-      - name: T. Dallas
+      - name: Dallas, T
         type: pi
-      - name: J. Corn
+      - name: Corn, J
   date: 2015
   journal: Parasitology
   labels:
@@ -330,7 +330,7 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: E. Cornelius
+      - name: Cornelius, E
   date: 2015
   journal: Nature Scientific Reports
   labels:
@@ -343,10 +343,10 @@
   key: phyloParasites2015
   authors:
       - name: S.J. Presley
-      - name: T. Dallas
+      - name: Dallas, T
         type: pi
-      - name: B.T. Klingbeil
-      - name: M.R. Willig
+      - name: Klingbeil, BT
+      - name: Willig, MR
   date: 2015
   journal: Biological Journal of the Linnean Society
   labels:
@@ -363,7 +363,7 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: J.M. Drake
+      - name: Drake, JM
   date: 2014
   journal: Ecosphere
   labels:
@@ -392,7 +392,7 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: S.J. Presley
+      - name: Presley, SJ
   date: 2014
   journal: Oikos
   labels:
@@ -405,10 +405,10 @@
   key: modselect
   authors:
       - name: H.J. Kim
-      - name: J.E. Cavanaugh
-      - name: T. Dallas
+      - name: Cavanaugh, JE
+      - name: Dallas, T
         type: pi
-      - name: S. Fore
+      - name: Fore, S
   date: 2014
   journal: Environmental and Ecological Statistics
   labels:
@@ -423,7 +423,7 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: J.M. Drake
+      - name: Drake, JM
   date: 2013
   journal: Ecology and Evolution
   labels:
@@ -437,7 +437,7 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: S. Fore
+      - name: Fore, S
   date: 2013
   journal: Experimental and Applied Acarology
   labels:
@@ -452,8 +452,8 @@
   authors:
       - name: T. Dallas
         type: pi
-      - name: S. Fore
-      - name: H.J. Kim
+      - name: Fore, S
+      - name: Kim, HJ
   date: 2013
   journal: Journal of Vector Ecology
   labels:

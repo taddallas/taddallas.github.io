@@ -7,7 +7,7 @@
      {% if p.video == true %}<a> <i style="color:DodgerBlue" class="fa fa-video-camera"></i> </a>{% endif %}
     <b>{{p.title}}</b><br/>
    {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
-   {{ p.date }}. <i> {{ p.journal }} </i>
+   <b>{{ p.date }}</b>. <i> {{ p.journal }} </i>
     </div>
 
   <div class="one column"></div>
