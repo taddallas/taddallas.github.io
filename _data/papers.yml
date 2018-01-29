@@ -1,3 +1,22 @@
+- title: "Experimental evidence of pathogen invasion threshold"
+  key: threshold
+  authors:
+    - name: T. Dallas
+      type: pi
+    - name: Krkosek, M.
+    - name: Drake, J.
+  date: 2017
+  journal: Royal Society Open Science
+  labels:
+    - type: pdf
+      pdf: Dallas2018RSOS.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5133001
+    - type: doi
+      doi: 10.1098/rsos.171975
+
+
+
 - title: "Compositional turnover in host and parasite communities does not change network structure"
   key: graphDissim
   authors:
