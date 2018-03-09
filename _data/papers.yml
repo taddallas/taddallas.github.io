@@ -1,3 +1,28 @@
+- title: "Characterizing the phylogenetic specialism-generalism spectrum of mammal parasites"
+  key: phyloSpecial
+  authors:
+    - name: Park, A.W.
+    - name: Farrell, M.J.
+    - name: Schmidt, J.P.
+    - name: Huang, S.
+    - name: T. Dallas
+      type: pi
+    - name: Pappalardo, P. 
+    - name: Drake, J.M.
+    - name: Stephens, P.R.
+    - name: Poulin, R.
+    - name: Nunn, C.L.
+    - name: Davies, T.J.
+  date: 2018
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: park2018.pdf
+    - type: data
+      data: https://github.com/awpark/RCN_dimgen
+    - type: doi
+      doi: 10.1098/rspb.2017.2613
+
 - title: "Experimental evidence of pathogen invasion threshold"
   key: threshold
   authors:
