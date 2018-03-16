@@ -52,7 +52,7 @@
   journal: Ecography
   labels:
     - type: pdf
-      pdf: 
+      pdf: Dallas2018Ecography.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5174413
     - type: doi
