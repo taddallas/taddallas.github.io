@@ -1,18 +1,18 @@
 - title: "Characterizing the phylogenetic specialism-generalism spectrum of mammal parasites"
   key: phyloSpecial
   authors:
-    - name: Park, A.W.
-    - name: Farrell, M.J.
-    - name: Schmidt, J.P.
-    - name: Huang, S.
-    - name: T. Dallas
+    - name: AW Park
+    - name: Farrell, MJ
+    - name: Schmidt, JP
+    - name: Huang, S
+    - name: T Dallas
       type: pi
-    - name: Pappalardo, P. 
-    - name: Drake, J.M.
-    - name: Stephens, P.R.
-    - name: Poulin, R.
-    - name: Nunn, C.L.
-    - name: Davies, T.J.
+    - name: Pappalardo, P 
+    - name: Drake, JM
+    - name: Stephens, PR
+    - name: Poulin, R
+    - name: Nunn, CL
+    - name: Davies, TJ
   date: 2018
   journal: Proceedings of the Royal Society B
   labels:
@@ -23,13 +23,31 @@
     - type: doi
       doi: 10.1098/rspb.2017.2613
 
+- title: "Spatial extinction date estimation: a novel method for reconstructing spatiotemporal patterns of extinction and identifying potential zones of rediscovery"
+  key: threshold
+  authors:
+    - name: C. Carlson
+    - name: Burgio, K
+    - name: Dallas, T
+      type: pi
+    - name: Bond, AL
+  date: 2018
+  journal: in review
+  labels:
+    - type: pdf
+      pdf: Carlson2018.pdf
+    - type: data
+      data: https://github.com/cjcarlson/spatExtinct
+    - type: preprint
+      doi: http://dx.doi.org/10.1101/279679
+
 - title: "Experimental evidence of pathogen invasion threshold"
   key: threshold
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
-    - name: Krkosek, M.
-    - name: Drake, J.
+    - name: Krkosek, M
+    - name: Drake, J
   date: 2017
   journal: Royal Society Open Science
   labels:
@@ -45,7 +63,7 @@
 - title: "Compositional turnover in host and parasite communities does not change network structure"
   key: graphDissim
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Poisot, T
   date: 2017 (in press)
@@ -63,7 +81,7 @@
 - title: "Species are not most abundant in the center of their geographic range or climatic niche"
   key: rangeShape
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Decker, R
     - name: Hastings, A
@@ -105,7 +123,7 @@
 - title: "The mathematics of extinction across scales -- from populations to the biosphere"
   key: mathExtinction
   authors:
-    - name: C. Carlson
+    - name: C Carlson
     - name: Burgio, K
     - name: Dallas, T
       type: pi
@@ -120,7 +138,7 @@
 - title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
   key: parEx
   authors:
-    - name: C. Carlson
+    - name: C Carlson
     - name: Burgio, KR
     - name: Dougherty, ER
     - name: Phillips, AJ
@@ -152,7 +170,7 @@
 - title: "Estimating parasite host range"
   key: hostRange
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Huang, S
     - name: Nunn, CL
@@ -172,7 +190,7 @@
   key: missingLinks
   open: true
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Park, AW
     - name: Drake, JM
@@ -190,7 +208,7 @@
 - title: "Predictability of helminth parasite host range using information on geography, host traits and parasite community structure"
   key: fishParasite
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Park, AW
     - name: Drake, JM
@@ -209,7 +227,7 @@
   key: zika
   open: true
   authors:
-    - name: M. Evans
+    - name: M Evans
     - name: Dallas, T
       type: pi
     - name: Han, B
@@ -231,7 +249,7 @@
   key: srsMetacom
   open: true
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Kramer, A
     - name: Zokan, M
@@ -250,7 +268,7 @@
   key: tempVarInfection
   open: true
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
     - name: Drake, JM
   date: 2016
@@ -303,7 +321,7 @@
   key: helminthR
   open: true
   authors:
-    - name: T. Dallas
+    - name: T Dallas
       type: pi
   date: 2016
   journal: Ecography
@@ -318,7 +336,7 @@
 - title: "Competition-mediated feedbacks in experimental multi-species epizootics"
   key: comp
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Hall, R
       - name: Drake, JM
@@ -336,7 +354,7 @@
   key: costs
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Holtackers, M
         type: student
@@ -354,7 +372,7 @@
 - title: "Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission"
   key: park
   authors:
-      - name: A. Park
+      - name: AW Park
       - name: Cleveland, C
         type: student
       - name: Dallas, T
@@ -372,7 +390,7 @@
   key: fishnest
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Cornelius, E
   date: 2015
@@ -386,7 +404,7 @@
 - title: "Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents"
   key: phyloParasites2015
   authors:
-      - name: S.J. Presley
+      - name: SJ Presley
       - name: Dallas, T
         type: pi
       - name: Klingbeil, BT
@@ -405,7 +423,7 @@
   key: ELSmetacom
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Drake, JM
   date: 2014
@@ -420,7 +438,7 @@
   key: metacom
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
   date: 2014
   journal: Ecography
@@ -434,7 +452,7 @@
   key: sevMetacom
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Presley, SJ
   date: 2014
@@ -448,7 +466,7 @@
 - title: "Model selection criteria for count data with overdispersion and its application to the host-parasite relationship"
   key: modselect
   authors:
-      - name: H.J. Kim
+      - name: HJ Kim
       - name: Cavanaugh, JE
       - name: Dallas, T
         type: pi
@@ -465,7 +483,7 @@
   key: nitrate
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Drake, JM
   date: 2013
@@ -479,7 +497,7 @@
 - title: "Chemical attraction of Dermacentor variabilis ticks parasitic to Peromyscus leucopus based on host body mass and sex"
   key: chemAttract
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Fore, S
   date: 2013
@@ -494,7 +512,7 @@
   key: pldvfield
   open: true
   authors:
-      - name: T. Dallas
+      - name: T Dallas
         type: pi
       - name: Fore, S
       - name: Kim, HJ
