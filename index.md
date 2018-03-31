@@ -10,7 +10,7 @@ title: Home
 
 I'm Tad. I use laboratory microcosms and field data together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. 
 
-I am currently a postdoc at the Centre for Ecological Change at the University of Helsinki, working towards understanding the geographic distribution of populations and communities through space and time. 
+I am currently a postdoc at the Centre for Ecological Change at the University of Helsinki, working towards understanding the geographic distributions of populations and communities and how they change over time.
 
 Feel free to [contact me](mailto:tad.a.dallas@gmail.com)
 
