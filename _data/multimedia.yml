@@ -1,3 +1,16 @@
+- title: "Zooplankton Diversity Project"
+  key: zoops
+  authors:
+      - name: Drake lab
+			- name: Savannah River Ecology Lab
+      - name: T. Dallas
+        type: pi
+  date: 2018
+  journal: Interactive data dashboard of long term monitoring of zooplankton communities in ephemeral wetlands
+  labels:
+      - type: doi
+        doi:  http://zooplankton.ecology.uga.edu/
+
 - title: "Biotic and abiotic factors influencing Daphnia host - fungal pathogen interactions"
   key: defense
   authors:
