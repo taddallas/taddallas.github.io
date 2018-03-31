@@ -2,7 +2,7 @@
   key: zoops
   authors:
       - name: Drake lab
-			- name: Savannah River Ecology Lab
+      - name: Savannah River Ecology Lab
       - name: T. Dallas
         type: pi
   date: 2018
