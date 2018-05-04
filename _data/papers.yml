@@ -121,7 +121,7 @@
   journal: 
   labels:
     - type: preprint
-      doi: https://doi.org/10.1101/192351
+      preprint: https://doi.org/10.1101/192351
 
 - title: "The mathematics of extinction across scales -- from populations to the biosphere"
   key: mathExtinction
@@ -453,8 +453,6 @@
         doi: 10.1111/j.1600-0587.2013.00695.x
       - type: code
         code: https://github.com/taddallas/metacom
-      - type: cran
-        cran: https://cran.r-project.org/web/packages/metacom/index.html
 
 - title: "Relative importance of host environment, transmission potential, and host phylogeny to the structure of parasite metacommunities"
   key: sevMetacom
