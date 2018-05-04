@@ -25,6 +25,7 @@
 
 - title: "Spatial extinction date estimation: a novel method for reconstructing spatiotemporal patterns of extinction and identifying potential zones of rediscovery"
   key: threshold
+  open: true
   authors:
     - name: C. Carlson
     - name: Burgio, K
@@ -39,16 +40,17 @@
     - type: data
       data: https://github.com/cjcarlson/spatExtinct
     - type: preprint
-      doi: http://dx.doi.org/10.1101/279679
+      preprint: http://dx.doi.org/10.1101/279679
 
 - title: "Experimental evidence of pathogen invasion threshold"
   key: threshold
+  open: true
   authors:
     - name: T Dallas
       type: pi
     - name: Krkosek, M
     - name: Drake, J
-  date: 2017
+  date: 2018
   journal: Royal Society Open Science
   labels:
     - type: pdf
@@ -66,7 +68,7 @@
     - name: T Dallas
       type: pi
     - name: Poisot, T
-  date: 2017 (in press)
+  date: 2017
   journal: Ecography
   labels:
     - type: pdf
@@ -97,6 +99,7 @@
 
 - title: "The Parasite Extinction Assessment and Red List -- an open-source, online biodiversity database for neglected symbionts"
   key: parasiteRedList
+  open: true
   authors:
     - name: C. Carlson
     - name: Muellerklein, O
@@ -122,6 +125,7 @@
 
 - title: "The mathematics of extinction across scales -- from populations to the biosphere"
   key: mathExtinction
+  open: true
   authors:
     - name: C Carlson
     - name: Burgio, K
@@ -132,7 +136,7 @@
   journal: Mathematics of Planet Earth -- Quantitative Approaches to Issues of Current Interest
   labels:
     - type: preprint
-      doi: http://dx.doi.org/10.7287/peerj.preprints.3367v1
+      preprint: http://dx.doi.org/10.7287/peerj.preprints.3367v1
 
 
 - title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
@@ -447,6 +451,10 @@
         pdf: metacomnote.pdf
       - type: doi
         doi: 10.1111/j.1600-0587.2013.00695.x
+      - type: code
+        code: https://github.com/taddallas/metacom
+      - type: cran
+        cran: https://cran.r-project.org/web/packages/metacom/index.html
 
 - title: "Relative importance of host environment, transmission potential, and host phylogeny to the structure of parasite metacommunities"
   key: sevMetacom
