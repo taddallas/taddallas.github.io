@@ -1,3 +1,76 @@
+- title: "Trait-based prediction of host species roles in parasite sharing networks"
+  key: nodeProperties
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Han, BA
+    - name: Nunn, CL
+    - name: Park, AW
+    - name: Stevens, PR
+    - name: Drake, JM
+  date: 2018
+  journal: Oikos
+  labels:
+    - type: pdf
+      pdf: .pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5129980.v2
+
+
+- title: "Gauging support for macroecological patterns in helminth parasites"
+  key: macroHelminth
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Aguirre, AA
+    - name: Budischak, S
+    - name: Carlson, C
+    - name: Ezenwa, VO
+    - name: Han, BA
+    - name: Huang, S
+    - name: Stevens, PR
+  date: 2018
+  journal: Global Ecology and Biogeography
+  labels:
+    - type: pdf
+      pdf: .pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.6221987
+
+
+- title: "Multiple data sources and freely available code is critical when investigating species distributions and diversity: a response to Knouft (2018)"
+  key: rangeShape2
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Decker, R
+    - name: Hastings, A
+  date: 2018
+  journal: Ecology Letters
+  labels:
+    - type: pdf
+      pdf: Dallas2018rangeShape2.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.6444608.v1
+    - type: doi
+      doi: 
+
+- title: "Variable Bibliographic Database Access Could Limit Reproducibility"
+  key: wosFail
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Gehman, AL
+    - name: Farrell, MJ
+  date: 2018
+  journal: BioScience
+  labels:
+    - doi: doi
+      type: 10.1093/biosci/biy074
+    - type: pdf
+      pdf: Dallas2018BioScience.pdf
+
+
 - title: "Characterizing the phylogenetic specialism-generalism spectrum of mammal parasites"
   key: phyloSpecial
   authors:
@@ -27,7 +100,7 @@
   key: threshold
   open: true
   authors:
-    - name: C. Carlson
+    - name: C Carlson
     - name: Burgio, K
     - name: Dallas, T
       type: pi
