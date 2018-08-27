@@ -1,20 +1,19 @@
-- title: "Trait-based prediction of host species roles in parasite sharing networks"
-  key: nodeProperties
+- title: "Habitat suitability estimated by niche models is largely unrelated to species abundance"
+  key: abundanceSDM
   authors:
     - name: T Dallas
       type: pi
-    - name: Han, BA
-    - name: Nunn, CL
-    - name: Park, AW
-    - name: Stevens, PR
-    - name: Drake, JM
+    - name: Hastings, A
   date: 2018
-  journal: Oikos
+  journal: Global Ecology and Biogeography
   labels:
+    - doi: doi
+      type: 10.1111/geb.12820
     - type: pdf
       pdf: .pdf
     - type: data
-      data: https://doi.org/10.6084/m9.figshare.5129980.v2
+      data: https://doi.org/10.6084/m9.figshare.6026777
+
 
 
 - title: "Gauging support for macroecological patterns in helminth parasites"
@@ -32,10 +31,33 @@
   date: 2018
   journal: Global Ecology and Biogeography
   labels:
+    - doi: doi
+      type: 
     - type: pdf
       pdf: .pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6221987
+
+
+- title: "Trait-based prediction of host species roles in parasite sharing networks"
+  key: nodeProperties
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Han, BA
+    - name: Nunn, CL
+    - name: Park, AW
+    - name: Stevens, PR
+    - name: Drake, JM
+  date: 2018
+  journal: Oikos
+  labels:
+    - doi: doi
+      type: 10.1111/oik.05602
+    - type: pdf
+      pdf: Dallas2018Oikos.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5129980.v2
 
 
 - title: "Multiple data sources and freely available code is critical when investigating species distributions and diversity: a response to Knouft (2018)"
@@ -53,7 +75,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6444608.v1
     - type: doi
-      doi: 
+      doi: 10.1111/ele.13105
 
 - title: "Variable Bibliographic Database Access Could Limit Reproducibility"
   key: wosFail
