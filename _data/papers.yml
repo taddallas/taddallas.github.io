@@ -10,7 +10,7 @@
     - doi: doi
       type: 10.1111/geb.12820
     - type: pdf
-      pdf: .pdf
+      pdf: Dallas2018GEB.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6026777
 
@@ -32,7 +32,7 @@
   journal: Global Ecology and Biogeography
   labels:
     - doi: doi
-      type: 
+      type: 10.1111/geb.12820
     - type: pdf
       pdf: .pdf
     - type: data
@@ -71,11 +71,12 @@
   journal: Ecology Letters
   labels:
     - type: pdf
-      pdf: Dallas2018rangeShape2.pdf
+      pdf: Dallas2018comment.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6444608.v1
     - type: doi
       doi: 10.1111/ele.13105
+
 
 - title: "Variable Bibliographic Database Access Could Limit Reproducibility"
   key: wosFail
