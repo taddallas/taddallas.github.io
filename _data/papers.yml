@@ -8,8 +8,8 @@
   date: 2018
   journal: Journal of Animal Ecology
   labels:
-    - doi: doi
-      type: 10.1111/1365-2656.12913
+    - type: doi
+      doi: 10.1111/1365-2656.12913
     - type: pdf
       pdf: Dallas2018JANE.pdf
     - type: data
@@ -25,8 +25,8 @@
   date: 2018
   journal: Global Ecology and Biogeography
   labels:
-    - doi: doi
-      type: 10.1111/geb.12820
+    - type: doi
+      doi: 10.1111/geb.12820
     - type: pdf
       pdf: Dallas2018GEB.pdf
     - type: data
@@ -48,8 +48,8 @@
   date: 2018
   journal: Global Ecology and Biogeography
   labels:
-    - doi: doi
-      type: 10.1111/geb.12820
+    - type: doi
+      doi: 10.1111/geb.12820
     - type: pdf
       pdf: Dallas2018GEB2.pdf
     - type: data
@@ -69,8 +69,8 @@
   date: 2018
   journal: Oikos
   labels:
-    - doi: doi
-      type: 10.1111/oik.05602
+    - type: doi
+      doi: 10.1111/oik.05602
     - type: pdf
       pdf: Dallas2018Oikos.pdf
     - type: data
