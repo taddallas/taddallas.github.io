@@ -1,3 +1,21 @@
+- title: "When can competition and dispersal lead to checkerboard distributions?"
+  key: checkerboard
+  authors:
+    - name: T Dallas
+      type: pi
+		- name: Melbourne, BA
+    - name: Hastings, A
+  date: 2018
+  journal: Journal of Animal Ecology
+  labels:
+    - doi: doi
+      type: 10.1111/1365-2656.12913
+    - type: pdf
+      pdf: Dallas2018JANE.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.6839918.v2
+
+
 - title: "Habitat suitability estimated by niche models is largely unrelated to species abundance"
   key: abundanceSDM
   authors:
@@ -13,7 +31,6 @@
       pdf: Dallas2018GEB.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6026777
-
 
 
 - title: "Gauging support for macroecological patterns in helminth parasites"
@@ -34,7 +51,7 @@
     - doi: doi
       type: 10.1111/geb.12820
     - type: pdf
-      pdf: .pdf
+      pdf: Dallas2018GEB2.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6221987
 
