@@ -8,13 +8,12 @@
   date: 2018
   journal: Journal of Animal Ecology
   labels:
-    - type: doi
-      doi: 10.1111/1365-2656.12913
     - type: pdf
       pdf: Dallas2018JANE.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6839918.v2
-
+    - type: doi
+      doi: 10.1111/1365-2656.12913
 
 - title: "Habitat suitability estimated by niche models is largely unrelated to species abundance"
   key: abundanceSDM
@@ -25,13 +24,12 @@
   date: 2018
   journal: Global Ecology and Biogeography
   labels:
-    - type: doi
-      doi: 10.1111/geb.12820
     - type: pdf
       pdf: Dallas2018GEB.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6026777
-
+    - type: doi
+      doi: 10.1111/geb.12820
 
 - title: "Gauging support for macroecological patterns in helminth parasites"
   key: macroHelminth
@@ -48,16 +46,16 @@
   date: 2018
   journal: Global Ecology and Biogeography
   labels:
-    - type: doi
-      doi: 10.1111/geb.12820
     - type: pdf
       pdf: Dallas2018GEB2.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6221987
-
+    - type: doi
+      doi: 10.1111/geb.12820
 
 - title: "Trait-based prediction of host species roles in parasite sharing networks"
   key: nodeProperties
+  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -69,13 +67,12 @@
   date: 2018
   journal: Oikos
   labels:
-    - type: doi
-      doi: 10.1111/oik.05602
     - type: pdf
       pdf: Dallas2018Oikos.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5129980.v2
-
+    - type: doi
+      doi: 10.1111/oik.05602
 
 - title: "Multiple data sources and freely available code is critical when investigating species distributions and diversity: a response to Knouft (2018)"
   key: rangeShape2
@@ -97,6 +94,7 @@
 
 - title: "Variable Bibliographic Database Access Could Limit Reproducibility"
   key: wosFail
+  open: false
   authors:
     - name: T Dallas
       type: pi
@@ -105,14 +103,15 @@
   date: 2018
   journal: BioScience
   labels:
-    - doi: doi
-      type: 10.1093/biosci/biy074
     - type: pdf
       pdf: Dallas2018BioScience.pdf
+    - doi: doi
+      type: 10.1093/biosci/biy074
 
 
 - title: "Characterizing the phylogenetic specialism-generalism spectrum of mammal parasites"
   key: phyloSpecial
+  open: false
   authors:
     - name: AW Park
     - name: Farrell, MJ
