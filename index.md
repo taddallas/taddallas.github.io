@@ -14,7 +14,7 @@ I'm Tad. I use laboratory microcosms and field data together with quantitative m
 I am currently a postdoc at the Centre for Ecological Change at the University of Helsinki, working towards understanding the geographic distributions of populations and communities and how they change over time.
 
 
-Beginning in Fall 2019, I will be an assistant professor in the Biological Sciences Department at Louisiana State University. Please reach out if you are interested in joining the lab. More information on my mentoring style and expectations can be found on the [lab Github]{https://github.com/dallasLab}.
+Beginning in Fall 2019, I will be an assistant professor in the Biological Sciences Department at Louisiana State University. Please reach out if you are interested in joining the lab. More information on my mentoring style and expectations can be found on the [lab Github](https://github.com/dallasLab).
 
 
 Feel free to [contact me](mailto:tad.a.dallas@gmail.com)
