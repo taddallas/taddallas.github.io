@@ -1,3 +1,26 @@
+- title: "Contrasting latitudinal gradients of body size in helminth parasites and their hosts"
+  key: helmSize
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Gehman, AL 
+    - name: Aguirre, AA
+    - name: Budischak, SA
+    - name: Drake, JM
+    - name: Farrell, MJ
+    - name: Ghai, R
+    - name: Huang, S
+    - name: Morales-Castilla, I
+  date: 2018
+  journal: Global Ecology and Biogeography
+  labels:
+    - type: pdf
+      pdf: Dallas2019GEB.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.6406823
+    - type: doi
+      doi: 10.1111/geb.12894
+
 - title: "When can competition and dispersal lead to checkerboard distributions?"
   key: checkerboard
   authors:
@@ -51,7 +74,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.6221987
     - type: doi
-      doi: 10.1111/geb.12820
+      doi: 10.1111/geb.12819
 
 - title: "Trait-based prediction of host species roles in parasite sharing networks"
   key: nodeProperties
