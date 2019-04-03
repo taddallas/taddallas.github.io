@@ -1,3 +1,19 @@
+- title: "Do feather traits convey information about bird condition during fall migration?"
+  key: birbPaper
+  authors:
+    - name: Cornelius Ruhs, E
+    - name: Borden, DM
+    - name: T Dallas
+      type: pi
+    - name: Pitman, E
+  date: 2019
+  journal: Wilson Journal of Ornithology
+  labels:
+    - type: pdf
+      pdf: Cornelius2019Wilson.pdf
+    - type: doi
+      doi: 
+
 - title: "Contrasting latitudinal gradients of body size in helminth parasites and their hosts"
   key: helmSize
   authors:
@@ -36,7 +52,7 @@
   journal: Oikos
   labels:
     - type: pdf
-      pdf: Dallas2018Oikos.pdf
+      pdf: Dallas2019Oikos.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5129980.v2
     - type: doi
@@ -129,8 +145,8 @@
   labels:
     - type: pdf
       pdf: Dallas2018BioScience.pdf
-    - doi: doi
-      type: 10.1093/biosci/biy074
+    - type: doi
+      doi: 10.1093/biosci/biy074
 
 
 - title: "Characterizing the phylogenetic specialism-generalism spectrum of mammal parasites"

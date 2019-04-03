@@ -1,56 +1,68 @@
+- title: "Macroecology of host-parasite interaction networks"
+  key: helmCent
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: P Jordano
+  date: 2019
+  journal: Seminar given in Sevilla, Spain while working with Pedro Jordano
+  labels:
+    - type: doi
+      doi: https://youtu.be/u_nP-JxlByw
+
 - title: "Zooplankton Diversity Project"
   key: zoops
   authors:
-      - name: Drake lab
-      - name: Savannah River Ecology Lab
-      - name: T. Dallas
-        type: pi
+    - name: Drake lab
+    - name: Savannah River Ecology Lab
+    - name: T Dallas
+      type: pi
   date: 2018
   journal: Interactive data dashboard of long term monitoring of zooplankton communities in ephemeral wetlands
   labels:
-      - type: doi
-        doi:  http://zooplankton.ecology.uga.edu/
+    - type: doi
+      doi:  http://zooplankton.ecology.uga.edu/
 
 - title: "Biotic and abiotic factors influencing Daphnia host - fungal pathogen interactions"
   key: defense
   authors:
-      - name: T. Dallas
-        type: pi
-      - name: J.M. Drake
+    - name: T Dallas
+      type: pi
+    - name: JM Drake
   date: 2016
   journal: Dissertation defense @ U Georgia - Odum School of Ecology
   labels:
-      - type: doi
-        doi:  https://dx.doi.org/10.6084/m9.figshare.3175594.v2
-      - type: video
-        video: https://dx.doi.org/10.6084/m9.figshare.3175594.v2
-      - type: pdf
-        pdf: https://getd.libs.uga.edu/pdfs/dallas_tad_201605_phd.pdf
+    - type: doi
+      doi:  https://dx.doi.org/10.6084/m9.figshare.3175594.v2
+    - type: video
+      video: https://dx.doi.org/10.6084/m9.figshare.3175594.v2
+    - type: pdf
+      pdf: https://getd.libs.uga.edu/pdfs/dallas_tad_201605_phd.pdf
 
 - title: "Predicting centrality in networks of parasite sharing"
   key: centrality
   authors:
-      - name: T. Dallas
-        type: pi
-      - name: J.M. Drake
+    - name: T Dallas
+      type: pi
+    - name: JM Drake
   date: 2016
   journal: Research talk @ U Georgia Graduate Student Symposium
   labels:
-      - type: doi
-        doi:  https://dx.doi.org/10.6084/m9.figshare.3159364.v2
-      - type: video
-        video: https://dx.doi.org/10.6084/m9.figshare.3159364.v2
+    - type: doi
+      doi:  https://dx.doi.org/10.6084/m9.figshare.3159364.v2
+    - type: video
+      video: https://dx.doi.org/10.6084/m9.figshare.3159364.v2
 
 - title: "Open Access: Generation Open"
   key: OA
   authors:
-      - name: T. Dallas
-        type: pi
-      - name: J.M. Drake
+    - name: T Dallas
+      type: pi
+    - name: JM Drake
   date: 2014
   journal: Radio interview @ PRX Public Radio
   labels:
-      - type: doi
-        doi:  https://beta.prx.org/stories/138032
-      - type: audio
-        audio: /resources/OAinterview.wav
+    - type: doi
+      doi:  https://beta.prx.org/stories/138032
+    - type: audio
+      audio: /resources/OAinterview.wav
