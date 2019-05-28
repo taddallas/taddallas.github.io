@@ -7,7 +7,9 @@ description: The science that I do
 
 
 <div class="pure-u-1 copy" markdown="1">
+
 My research is largely driven by theory and curiosity. That is, theory makes a prediction about how a natural system might operate, which leads to experimentation or empirical tests using observational data. Different systems are more suited for testing different theory. As a result, I do not deal with one specific system, but have worked with laboratory microcosms (zooplankton and flour beetles), monitoring of natural populations (small mammals and zooplankton), and freely available observational data (too many sources to list!). I am always open to a new system if it allows a demonstration or test of ecological theory. 
+
 </div>
 
 

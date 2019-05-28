@@ -1,3 +1,51 @@
+- title: "A comprehensive evaluation of predictive performance of 33 species distribution models at species and community levels"
+  key: bakeOff
+  authors:
+    - name: A Norberg 
+    - name: N Abrego Antia
+    - name: F Guillaume Blanchet
+    - name: FR Adler
+    - name: BJ Anderson
+    - name: J Anttila
+    - name: MB Araújo
+    - name: T Dallas
+      type: pi
+    - name: D Dunson
+    - name: J Elith
+    - name: S Foster
+    - name: R Fox
+    - name: J Franklin
+    - name: W Godsoe
+    - name: A Guisan
+    - name: B O'Hara
+    - name: NA Hill
+    - name: RD Holt
+    - name: FKC Hui
+    - name: M Husby
+    - name: JA Kålås
+    - name: A Lehikoinen
+    - name: M Luoto
+    - name: HK Mod
+    - name: G Newell
+    - name: I Renner
+    - name: TV Roslin
+    - name: J Soininen
+    - name: W Thuiller
+    - name: JP Vanhatalo
+    - name: D Warton
+    - name: M White
+    - name: NE Zimmermann
+    - name: D Gravel
+    - name: OT Ovaskainen
+  date: 2019
+  journal: Ecological Monographs
+  labels:
+    - type: pdf
+      pdf: Norberg2019.pdf
+    - type: doi
+      doi: 10.1002/ecm.1370
+
+
 - title: "Do feather traits convey information about bird condition during fall migration?"
   key: birbPaper
   authors:

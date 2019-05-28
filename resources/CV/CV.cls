@@ -198,7 +198,7 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{blue} ##1}
   }
-  \begin{textblock}{4}(1.35, 4.6)
+  \begin{textblock}{4}(1.25, 4.6)
   \begin{flushleft}
   \obeycr
 }{%
