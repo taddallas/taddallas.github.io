@@ -10,10 +10,7 @@ title: Home
 
 I'm Tad. I use laboratory microcosms and field data together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. 
 
-I am currently a postdoc at the Centre for Ecological Change at the University of Helsinki, working towards understanding the geographic distributions of populations and communities and how they change over time.
-
-
-Beginning in Fall 2019, I will be an assistant professor in the Biological Sciences Department at Louisiana State University. Please reach out if you are interested in joining the lab. More information on the lab (which is currently just me) can be found on the [lab Github](https://github.com/dallasLab).
+Please reach out if you are interested in joining the lab here at Louisiana State University. More information on lab policies and my mentoring philosophy can be found on the [lab Github](https://github.com/dallasLab).
 
 
 Feel free to [contact me](mailto:tad.a.dallas@gmail.com)
