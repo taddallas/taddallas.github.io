@@ -1,3 +1,34 @@
+- title: "Detecting parasite associations within multi-species host and parasite communities"
+  key: hmscMouse
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: A-L Laine
+    - name: O Ovaskainen
+  date: 2019
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: .pdf
+    - type: doi
+      doi: 10.1098/rspb.2019.1109
+
+- title: "Temporal sampling and abundance measurement influences support for occupancy–abundance relationships"
+  key: abundOcc
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: J Pöyry
+    - name: R Leinonen
+    - name: O Ovaskainen
+  date: 2019
+  journal: Journal of Biogeography
+  labels:
+    - type: pdf
+      pdf: .pdf
+    - type: doi
+      doi: 10.1111/jbi.13718
+
 - title: "A comprehensive evaluation of predictive performance of 33 species distribution models at species and community levels"
   key: bakeOff
   authors:
@@ -60,7 +91,7 @@
     - type: pdf
       pdf: Cornelius2019Wilson.pdf
     - type: doi
-      doi: 
+      doi: 10.1676/18-174
 
 - title: "Contrasting latitudinal gradients of body size in helminth parasites and their hosts"
   key: helmSize
