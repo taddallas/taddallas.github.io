@@ -25,7 +25,7 @@
   journal: Journal of Biogeography
   labels:
     - type: pdf
-      pdf: .pdf
+      pdf: Dallas2019JBiogeog.pdf
     - type: doi
       doi: 10.1111/jbi.13718
 
