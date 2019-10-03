@@ -9,7 +9,7 @@
   journal: Proceedings of the Royal Society B
   labels:
     - type: pdf
-      pdf: .pdf
+      pdf: Dallas2019PRSB.pdf
     - type: doi
       doi: 10.1098/rspb.2019.1109
 
