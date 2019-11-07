@@ -11,6 +11,8 @@
   labels:
     - type: pdf
       pdf: Dallas2019JAE.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.7667096.v1
     - type: doi
       doi: 
 
@@ -26,6 +28,8 @@
   labels:
     - type: pdf
       pdf: Dallas2019RSOS.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.6364955
     - type: doi
       doi: 10.1098/rsos.190883
 
@@ -41,6 +45,8 @@
   labels:
     - type: pdf
       pdf: Dallas2019PRSB.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.6865247
     - type: doi
       doi: 10.1098/rspb.2019.1109
 
@@ -57,6 +63,8 @@
   labels:
     - type: pdf
       pdf: Dallas2019JBiogeog.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.7406348.v1
     - type: doi
       doi: 10.1111/jbi.13718
 
@@ -104,6 +112,8 @@
   labels:
     - type: pdf
       pdf: Norberg2019.pdf
+    - type: data
+      data: https://zenodo.org/record/2637812#.XcNd4nVKhhE
     - type: doi
       doi: 10.1002/ecm.1370
 
