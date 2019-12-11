@@ -14,10 +14,11 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.7667096.v1
     - type: doi
-      doi: 
+      doi: 10.1111/1365-2656.13141
 
 - title: "Testing predictability of disease outbreaks with a simple model of pathogen biogeography"
   key: emergence
+  open: true
   authors:
     - name: T Dallas
       type: pi

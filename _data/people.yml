@@ -1,0 +1,32 @@
+- name: "Tad Dallas"
+  title: "assistant professor"
+  picture: tad.jpg
+  bio: "Tad is a population and community ecologist interested in large scale patterns of species diversity."
+  labels:
+    - type: figshare
+      figshare: https://figshare.com/authors/Tad_Dallas/2585290
+    - type: publons
+      publons: https://publons.com/researcher/904038/tad-dallas/
+    - type: orcid
+      publons: https://orcid.org/0000-0003-3328-9958
+    - type: twitter
+      twitter: https://twitter.com/taddallas
+    - type: github
+      github: www.github.com/taddallas
+    - type: cv
+      cv: ../resources/CV/DallasCV.pdf
+    - type: email
+      email: "mailto:tadallas@lsu.edu"
+
+
+- name: "Jane McKee"
+  title: "research associate"
+  cv: 
+  picture: jane.jpeg
+  bio: "Jane has a background in applied mathematics, and recently graduated with an MSc in mathematical sciences. Jane's current research interests focus on using networks to analyze and control the spread of epidemics in populations."
+  labels:
+    - type: github
+      github: www.github.com/jane-mckee
+
+
+

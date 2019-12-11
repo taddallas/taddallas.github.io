@@ -22,7 +22,7 @@ title: Software
 <div class="pure-u-1-2 l-box"  markdown="1">
 <img src ="../resources/metacom.png" width="150" align="middle"> 
 <br/>
-<a href="https://github.com/taddallas/metacom"><i style="color:Black" class="fa fa-2x fa-github-alt"></i></a>
+<a href="https://github.com/taddallas/metacom"><i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <br/>
 [![Build Status](https://travis-ci.org/taddallas/metacom.png?branch=master)](https://travis-ci.org/taddallas/metacom)
 <br/>
@@ -40,7 +40,7 @@ If you find a bug, please [report it](https://github.com/taddallas/metacom/issue
 
 <img src ="../resources/helminthR.png" width="150" align="middle">
 <br/>
-<a href="https://github.com/ropensci/helminthR"> <i style="color:Black" class="fa fa-2x fa-github-alt"></i></a>
+<a href="https://github.com/ropensci/helminthR"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <br/>
 [![Build Status](https://travis-ci.org/ropensci/helminthR.svg?branch=master)](https://travis-ci.org/ropensci/helminthR)
 <br/>

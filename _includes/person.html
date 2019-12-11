@@ -1,0 +1,86 @@
+<html class="no-js" lang="en">
+
+<head>
+<style>
+.container {
+  position: relative;
+  width: 95%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 70%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  border-radius: 50%;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+}
+</style>
+</head>
+
+
+  <div class="row publication">
+  <div class="three columns text-left">    
+    <div class="container">
+       <img class="image" src="/resources/photos/{{z.picture}}" /> 
+      <div class="middle">
+        <div class="text"> <b>{{z.name}}</b> <br/>  {{z.title}} </div>
+      </div>
+      </div>
+    </div>
+   
+
+  <div class="four columns">
+    <i> {{z.bio}} </i> 
+  </div>
+
+  <div class="three columns text-right">
+     {% for lab in z.labels %}
+     {% if lab.type == "figshare" %}<a href="{{lab.figshare}}"><span class="label label-figshare"> <i class="ai ai-figshare"></i></span></a>{% endif %}
+     {% if lab.type == "scholar" %}<a href="{{lab.scholar}}"><span class="label label-scholar"> <i class="ai ai-google-scholar"></i></span></a>{% endif %}
+     {% if lab.type == "orcid" %}<a href="{{lab.orcid}}"><span class="label label-orcid"> <i class="ai ai-orcid"></i></span></a>{% endif %}
+     {% if lab.type == "publons" %}<a href="{{lab.publons}}"><span class="label label-publons"> <i class="ai ai-publons"></i></span></a>{% endif %}
+     {% if lab.type == "twitter" %}<a href="{{lab.twitter}}"><span class="label label-twitter"> <i class="fab fa-twitter-square"></i></span></a>{% endif %}
+     {% if lab.type == "github" %}<a href="{{lab.github}}"><span class="label label-github"> <i class="fab fa-github"></i></span></a>{% endif %}
+     {% if lab.type == "cv" %}<a href="{{lab.cv}}"><span class="label label-cv"> <i class="fas fa-file-pdf"></i></span></a>{% endif %}
+     {% if lab.type == "email" %}<a href="{{lab.email}}"><span class="label label-email"> <i class="fas fa-envelope"></i></span></a>{% endif %}
+
+  {% endfor %}
+  </div>
+</div>
+
+
+
+<link rel="stylesheet" href="/resources/fontawesome-free-5.11.2-web/css/all.css" />
+<link rel="stylesheet" href="/resources/academicons-1.8.0/css/academicons.css" />
+
+
+
+
+</html>

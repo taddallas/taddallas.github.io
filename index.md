@@ -6,26 +6,14 @@ title: Home
 
 <div class="pure-u-1-1 copy landing" markdown="1">
 
-# Hello!
+# Dallas Lab
 
-I'm Tad. I use laboratory microcosms and field data together with quantitative modeling and machine learning approaches to address a diverse set of questions in population, community, and disease ecology. 
+We are a group of theory-minded folks who use a combination of laboratory microcosms, applied mathematics, and machine learning to understand ecological systems. We love studying ecological networks, macroecology, and infectious disease. 
 
 Please reach out if you are interested in joining the lab here at Louisiana State University. More information on lab policies and my mentoring philosophy can be found on the [lab Github](https://github.com/dallasLab).
 
 
 Feel free to [contact me](mailto:tad.a.dallas@gmail.com)
-
-
-  <div class="btn-group">
-    <a class="btn" href="resources/CV/DallasCV.pdf"><i style="color:DimGray" class="fa fa-file-text-o fa-2x"></i></a>
-    <a class="btn" href="https://github.com/taddallas" ><i style="color:DimGray" class="fa fa-github fa-2x"></i></a>
-    <a class="btn" href="https://scholar.google.com/citations?user=baoGwQ0AAAAJ&hl=en" ><i style="color:DimGray" class="ai ai-google-scholar ai-2x"></i></a>
-    <a class="btn" href="http://orcid.org/0000-0003-3328-9958" ><i style="color:DimGray" class="ai ai-orcid ai-2x"></i></a>
-    <a class="btn" href="https://publons.com/author/904038/tad-dallas#profile"><i style="color:DimGray" class="ai ai-publons ai-2x"></i></a>
-    <a class="btn" href="https://figshare.com/authors/Tad_Dallas/2585290"><i style="color:DimGray" class="ai ai-figshare ai-2x"></i></a>
-  </div>
-</div>
-
 
 
 <script>
