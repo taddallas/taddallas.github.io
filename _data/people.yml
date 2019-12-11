@@ -27,6 +27,8 @@
   labels:
     - type: github
       github: www.github.com/jane-mckee
+    - type: email
+      email: "mailto:jmckee8@lsu.edu"
 
 
 
