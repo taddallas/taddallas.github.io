@@ -21,7 +21,6 @@
 
 - name: "Jane McKee"
   title: "research associate"
-  cv: 
   picture: jane.jpeg
   bio: "Jane has a background in applied mathematics, and recently graduated with an MSc in mathematical sciences. Jane's current research interests focus on using networks to analyze and control the spread of epidemics in populations."
   labels:
@@ -31,4 +30,14 @@
       email: "mailto:jmckee8@lsu.edu"
 
 
+
+- name: "Tivon Eugene"
+  title: "undergraduate honor's researcher"
+  picture: user.png
+  bio: "Tivon is an undergraduate premed student currently working on an honors thesis. His current research focuses on the ecological relationship of pathogens in relation to outbreak events."
+  labels:
+    - type: github
+      github: www.github.com/Tivon-Eugene
+    - type: email
+      email: "mailto:teugen2@lsu.edu"
 
