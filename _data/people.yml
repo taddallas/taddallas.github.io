@@ -3,12 +3,6 @@
   picture: tad.jpg
   bio: "Tad is a population and community ecologist interested in large scale patterns of species diversity."
   labels:
-    - type: figshare
-      figshare: https://figshare.com/authors/Tad_Dallas/2585290
-    - type: publons
-      publons: https://publons.com/researcher/904038/tad-dallas/
-    - type: orcid
-      publons: https://orcid.org/0000-0003-3328-9958
     - type: twitter
       twitter: https://twitter.com/taddallas
     - type: github
@@ -17,6 +11,13 @@
       cv: ../resources/CV/DallasCV.pdf
     - type: email
       email: "mailto:tadallas@lsu.edu"
+    - type: figshare
+      figshare: https://figshare.com/authors/Tad_Dallas/2585290
+    - type: publons
+      publons: https://publons.com/researcher/904038/tad-dallas/
+    - type: orcid
+      publons: https://orcid.org/0000-0003-3328-9958
+
 
 
 - name: "Jane McKee"
@@ -32,9 +33,9 @@
 
 
 - name: "Tivon Eugene"
-  title: "undergraduate honor's researcher"
-  picture: user.png
-  bio: "Tivon is an undergraduate premed student currently working on an honors thesis. His current research focuses on the ecological relationship of pathogens in relation to outbreak events."
+  title: "undergraduate honors researcher"
+  picture: tivon2.jpg
+  bio: "Tivon is an undergraduate pre-med student currently working on an honors thesis. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
   labels:
     - type: github
       github: www.github.com/Tivon-Eugene
