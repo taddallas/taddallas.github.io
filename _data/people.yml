@@ -34,7 +34,7 @@
 
 - name: "Tivon Eugene"
   title: "undergraduate honors researcher"
-  picture: tivon2.jpg
+  picture: tivon.jpg
   bio: "Tivon is an undergraduate pre-med student currently working on an honors thesis. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
   labels:
     - type: github
