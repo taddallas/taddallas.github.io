@@ -70,7 +70,6 @@ If you find a bug, please [report it](https://github.com/ropensci/helminthR/issu
 <a href="https://github.com/hmsc-r/hmsc"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <br/>
 [![Build Status](https://travis-ci.org/hmsc-r/HMSC.svg?branch=master)](https://travis-ci.org/hmsc-r/HMSC)
-
 <br/>
 [![Downloads](http://cranlogs.r-pkg.org/badges/Hmsc)](http://cranlogs.r-pkg.org/badges/Hmsc)
 <br/>
