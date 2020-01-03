@@ -6,7 +6,7 @@
     - type: twitter
       twitter: https://twitter.com/taddallas
     - type: github
-      github: www.github.com/taddallas
+      github: https://github.com/taddallas
     - type: cv
       cv: ../resources/CV/DallasCV.pdf
     - type: email
@@ -16,7 +16,7 @@
     - type: publons
       publons: https://publons.com/researcher/904038/tad-dallas/
     - type: orcid
-      publons: https://orcid.org/0000-0003-3328-9958
+      orcid: https://orcid.org/0000-0003-3328-9958
 
 
 
@@ -26,7 +26,7 @@
   bio: "Jane has a background in applied mathematics, and recently graduated with an MSc in mathematical sciences. Jane's current research interests focus on using networks to analyze and control the spread of epidemics in populations."
   labels:
     - type: github
-      github: www.github.com/jane-mckee
+      github: https://github.com/jane-mckee
     - type: email
       email: "mailto:jmckee8@lsu.edu"
 
@@ -38,7 +38,7 @@
   bio: "Tivon is an undergraduate pre-med student currently working on an honors thesis. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
   labels:
     - type: github
-      github: www.github.com/Tivon-Eugene
+      github: https://github.com/Tivon-Eugene
     - type: email
       email: "mailto:teugen2@lsu.edu"
 
