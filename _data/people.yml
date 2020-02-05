@@ -20,6 +20,18 @@
 
 
 
+- name: "Tivon Eugene"
+  title: "undergraduate honors researcher"
+  picture: tivon.jpg
+  bio: "Tivon is an undergraduate pre-med student currently working on an honors thesis. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
+  labels:
+    - type: github
+      github: https://github.com/Tivon-Eugene
+    - type: email
+      email: "mailto:teugen2@lsu.edu"
+
+
+
 - name: "Jane McKee"
   title: "research associate"
   picture: jane.jpeg
@@ -32,13 +44,18 @@
 
 
 
-- name: "Tivon Eugene"
-  title: "undergraduate honors researcher"
-  picture: tivon.jpg
-  bio: "Tivon is an undergraduate pre-med student currently working on an honors thesis. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
+
+- name: "Cleber Ten Caten"
+  title: "doctoral student"
+  picture: cleber.jpg
+  bio: "Cleber has a MSc in ecology and evolution and is interested in macroecology, biogeography and community ecology."
   labels:
     - type: github
-      github: https://github.com/Tivon-Eugene
+      github: https://github.com/ctencaten
     - type: email
-      email: "mailto:teugen2@lsu.edu"
+      email: "mailto:clebertencaten@gmail.com"
+
+
+
+
 
