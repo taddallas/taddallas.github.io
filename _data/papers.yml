@@ -1,3 +1,41 @@
+- title: "What would it take to describe the global diversity of parasites?"
+  key: carlson2020
+  authors:
+    - name: C Carlson
+    - name: AJ Phillips
+    - name: T Dallas
+      type: pi
+    - name: LW Alexander
+    - name: A Phelan
+    - name: S Bansal
+  date: 2020
+  journal: 
+  labels:
+    - type: pdf
+      pdf: carlson2020.pdf
+    - type: preprint
+      preprint: https://doi.org/10.1101/815902
+
+- title: "Environmental biases in the study of ecological networks at the planetary scale"
+  key: poisot2020
+  authors:
+    - name: T Poisot
+    - name: G Bergeron
+    - name: K Cazelles
+    - name: T Dallas
+      type: pi
+    - name: D Gravel
+    - name: A MacDonald
+    - name: B Mercier
+    - name: S Vissault
+  date: 2020
+  journal: 
+  labels:
+    - type: pdf
+      pdf: poisot2020.pdf
+    - type: preprint
+      preprint: https://doi.org/10.1101/2020.01.27.921429
+
 - title: "The relative importance of local and regional processes to metapopulation dynamics"
   key: alandOcc
   authors:
