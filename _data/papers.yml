@@ -1,3 +1,105 @@
+- title: "What determines parasite species richness across host species?"
+  key: inFocus
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: L Holian
+    - name: G Foster
+  date: 2020
+  journal: J Animal Ecology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+			doi: 
+    - type: data
+      data:  
+
+
+- title: "Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization"
+  key: betacov
+  authors:
+    - name: D Becker
+    - name: GF Albery
+    - name: AR Sjodin
+    - name: T Poisot
+    - name: T Dallas
+      type: pi
+    - name: EA Eskew
+    - name: MJ Farrell
+    - name: S Guth
+    - name: BA Han 
+    - name: NB Simmons
+    - name: CJ Carlson
+  date: 2020
+  journal: bioRxiv
+  labels:
+    - type: pdf
+      pdf: Becker2020.pdf
+    - type: doi
+			doi: 10.1101/2020.05.22.111344
+    - type: data
+      data: github.com/viralemergence/Fresnel
+
+
+
+- title: "The influence of stochasticity, landscape structure, and species traits on abundant-centre relationships"
+  key: rangeShape2
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: L Santini
+  date: 2020
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+			doi: 10.1111/ecog.05164
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.11553534.v1
+
+
+- title: "Spatial synchrony is related to the rate of environmental change in Finnish moth communities"
+  key: mothSync
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: LH Antao
+    - name: J Pöyry
+    - name: R Leinonen
+    - name: O Ovaskainen
+  date: 2020
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: Dallas2020PRSB.pdf
+    - type: doi
+			doi: 10.1098/rspb.2020.0684
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.9036941.v1
+
+
+- title: "Summer drought decreases the predictability of local extinctions in a butterfly metapopulation"
+  key: aland2020
+  authors:
+    - name: E Van Bergen
+    - name: T Dallas
+      type: pi
+    - name: M Dileo
+    - name: AO Kahilainen
+    - name: A Mattila 
+    - name: MS Luoto
+    - name: M Saastamoinen
+  date: 2020
+  journal: Conservation Biology
+  labels:
+    - type: pdf
+      pdf: vanBergen2020.pdf
+    - type: preprint
+      preprint:  https://doi.org/10.1101/863795
+
+
 - title: "What would it take to describe the global diversity of parasites?"
   key: carlson2020
   authors:
@@ -35,6 +137,9 @@
       pdf: poisot2020.pdf
     - type: preprint
       preprint: https://doi.org/10.1101/2020.01.27.921429
+    - type: data
+      data: https://github.com/PoisotLab/MangalSamplingStatus
+
 
 - title: "The relative importance of local and regional processes to metapopulation dynamics"
   key: alandOcc

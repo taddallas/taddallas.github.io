@@ -32,16 +32,6 @@ But species do not exist only as populations, but are subject to interactions wi
 
 
 <div class="pure-u-1 copy" markdown="1">
-# Metacommunity Ecology
-
-One of the central goals of community ecology is to understand what shapes species distributions. Metacommunity theory aims to address this question by treating communities of organisms as nodes in a network, connected through dispersal. Using the framework established by Leibold and Mikkelson (2002), I have addressed the factors responsible for structuring zooplankton communities in the northeast US, parasites of small desert mammals, and disease vectors across much of the southeast US. 
-
-</div>
-
-
-
-
-<div class="pure-u-1 copy" markdown="1">
 # Macroecology
 
 Macroecology is an area where there are a lot of conceptual hypotheses based on empirical data about how things _appear_ to work. An extension of much of the theory from population and community ecology, macroecological _laws_ have become an interest of mine. Gauging support for/against existing ideas, developing simulation models to test some core macroecological ideas, and quantifying the predictability of macroecological relationships are three general themes of my work in this realm. 
