@@ -19,11 +19,9 @@
     - type: pdf
       pdf: Becker2020.pdf
     - type: doi
-			doi: 10.1101/2020.05.22.111344
+      doi: 10.1101/2020.05.22.111344
     - type: data
       data: github.com/viralemergence/Fresnel
-
-
 
 - title: "The influence of stochasticity, landscape structure, and species traits on abundant-centre relationships"
   key: rangeShape2
@@ -37,7 +35,7 @@
     - type: pdf
       pdf: 
     - type: doi
-			doi: 10.1111/ecog.05164
+      doi: 10.1111/ecog.05164
     - type: data
       data: https://doi.org/10.6084/m9.figshare.11553534.v1
 
@@ -57,10 +55,9 @@
     - type: pdf
       pdf: Dallas2020PRSB.pdf
     - type: doi
-			doi: 10.1098/rspb.2020.0684
+      doi: 10.1098/rspb.2020.0684
     - type: data
       data: https://doi.org/10.6084/m9.figshare.9036941.v1
-
 
 - title: "Summer drought decreases the predictability of local extinctions in a butterfly metapopulation"
   key: aland2020
