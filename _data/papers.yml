@@ -1,21 +1,3 @@
-- title: "What determines parasite species richness across host species?"
-  key: inFocus
-  authors:
-    - name: T Dallas
-      type: pi
-    - name: L Holian
-    - name: G Foster
-  date: 2020
-  journal: J Animal Ecology
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-			doi: 
-    - type: data
-      data:  
-
-
 - title: "Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization"
   key: betacov
   authors:
