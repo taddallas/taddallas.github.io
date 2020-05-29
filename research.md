@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Research
-description: The science that I do
+description: The science that we do
 ---
 
 
 
 <div class="pure-u-1 copy" markdown="1">
 
-My research is largely driven by theory and curiosity. That is, theory makes a prediction about how a natural system might operate, which leads to experimentation or empirical tests using observational data. Different systems are more suited for testing different theory. As a result, I do not deal with one specific system, but have worked with laboratory microcosms (zooplankton and flour beetles), monitoring of natural populations (small mammals and zooplankton), and freely available observational data (too many sources to list!). I am always open to a new system if it allows a demonstration or test of ecological theory. 
+Research in the lab is largely driven by theory and curiosity. That is, theory makes a prediction about how a natural system might operate, which leads to experimentation or empirical tests using observational data. Different systems are more suited for testing different theory. As a result, we do not deal with one specific system, but work with laboratory microcosms, observational data, and manipulative experimentation in natural populations. We are always open to a new system if it allows a demonstration or test of ecological theory. 
 
 </div>
 
@@ -16,8 +16,11 @@ My research is largely driven by theory and curiosity. That is, theory makes a p
 <div class="pure-u-1 copy" markdown="1">
 # Population Ecology
 
-Questions of population synchrony and stability in fluctuating environments have always interested me. What causes populations to crash, and can we predict population extinction? Scaling from populations to metapopulations, can we identify the important controls of patch occupancy, colonization, and extinction? 
+Temporal variability, synchrony, and extinction are fundamental population processes that are of interest to the lab. Further, spatial and environmental processes that determine the distribution of species and their abundance are also a central focus. As such, we pull from population theory, niche theory, coexistence theory, and the mathematical theory of stochastic population processes to understand the relative roles of the environment, geography, and the existing community on population processes.
+
 </div>
+
+
 
 
 <div class="pure-u-1 copy" markdown="1">
@@ -25,10 +28,25 @@ Questions of population synchrony and stability in fluctuating environments have
 
 But species do not exist only as populations, but are subject to interactions with many other species. Considering competitive interactions within the community of species, one thing my research has focused on is the relative importance of species interactions on determining where a species can be within their climatic niche tolerances, as well as the corresponding geographic area. Detecting and quantifying species interactions has been a long-standing interest of mine, as has predicting community composition of both free-living communities and parasite communities. 
 
-
-
+The lab is involved with the LIFEPLAN initiative (https://www.helsinki.fi/en/projects/lifeplan), a distributed observational program to quantify biodiversity around the globe. This will putatively generate both estimates of current biodiversity, inform models of biodiversity change, and produce openly available community data with which to test existing ecological theory. 
 
 </div>
+
+
+
+
+
+
+<div class="pure-u-1 copy" markdown="1">
+# Disease Ecology
+
+A variety of work in the lab is focused on epidemiology and disease ecology. For example, we have examined epidemic progression on social networks, and the incorporation of age, stage, and social structure into epidemic modeling approaches. Recently, Bret Elderd and Tad Dallas received an NSF rapid grant to examine epidemiological complexity on parameter estimation and forecasting of infectious disease, with clear links to the COVID-19 pandemic. Host-parasite networks have also been a large part of research in the lab, examining their structure, predictability, and scaling relationships over space and time. 
+
+</div>
+
+
+
+
 
 
 <div class="pure-u-1 copy" markdown="1">
