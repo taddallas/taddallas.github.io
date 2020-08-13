@@ -1,3 +1,15 @@
+- title: "Reproducible Research in R"
+  key: reproResearch
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2020
+  journal: Fall 2020 course taught at LSU
+  labels:
+    - type: doi
+      doi: https://www.youtube.com/playlist?list=PLGKQe3NU_VU05pjDL8QuklWRQ7N2t5e-0
+
+
 - title: "Macroecology of host-parasite interaction networks"
   key: helmCent
   authors:

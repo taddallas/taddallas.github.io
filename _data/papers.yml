@@ -1,3 +1,67 @@
+- title: "Variability in dispersal and spatial spread in two-species communities"
+  key: dispersalTrait
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: B Melbourne
+    - name: A Hastings
+  date: 2020
+  journal: J Animal Ecology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
+- title: "What determines parasite species richness across host species?"
+  key: inFocus
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: L Holian
+    - name: G Foster
+  date: 2020
+  journal: J Animal Ecology
+  labels:
+    - type: pdf
+      pdf: Dallas2020JAE.pdf
+    - type: doi
+      doi: http://dx.doi.org/10.1111/1365-2656.13276 
+
+
+- title: "The influence of stochasticity, landscape structure, and species traits on abundant-centre relationships"
+  key: rangeShape2
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: L Santini
+  date: 2020
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: Dallas2020Ecography.pdf
+    - type: doi
+      doi: 10.1111/ecog.05164
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.11553534.v1
+
+- title: "The abundant-centre is not all that abundant: a comment to Osorio-Olvera et al. 2020"
+  key: osorioComment
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: L Santini
+  date: 2020
+  journal: bioRxiv
+  labels:
+    - type: pdf
+      pdf: Dallas2020comment.pdf
+    - type: doi
+      doi: 10.1101/2020.02.27.968586
+    - type: data
+      data: 
+
+
 - title: "Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization"
   key: betacov
   authors:
@@ -22,22 +86,6 @@
       doi: 10.1101/2020.05.22.111344
     - type: data
       data: github.com/viralemergence/Fresnel
-
-- title: "The influence of stochasticity, landscape structure, and species traits on abundant-centre relationships"
-  key: rangeShape2
-  authors:
-    - name: T Dallas
-      type: pi
-    - name: L Santini
-  date: 2020
-  journal: Ecography
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi: 10.1111/ecog.05164
-    - type: data
-      data: https://doi.org/10.6084/m9.figshare.11553534.v1
 
 
 - title: "Spatial synchrony is related to the rate of environmental change in Finnish moth communities"
