@@ -1,3 +1,4 @@
+
 - name: "Tad Dallas"
   title: "assistant professor"
   picture: tad.jpg
@@ -19,7 +20,6 @@
       orcid: https://orcid.org/0000-0003-3328-9958
 
 
-
 - name: "Tivon Eugene"
   title: "undergraduate honors researcher"
   picture: tivon.jpg
@@ -31,20 +31,6 @@
       email: "mailto:teugen2@lsu.edu"
 
 
-
-- name: "Jane McKee"
-  title: "research associate"
-  picture: jane.jpeg
-  bio: "Jane has a background in applied mathematics, and recently graduated with an MSc in mathematical sciences. Jane's current research interests focus on using networks to analyze and control the spread of epidemics in populations."
-  labels:
-    - type: github
-      github: https://github.com/jane-mckee
-    - type: email
-      email: "mailto:jmckee8@lsu.edu"
-
-
-
-
 - name: "Cleber Ten Caten"
   title: "doctoral student"
   picture: cleber.jpg
@@ -54,6 +40,19 @@
       github: https://github.com/ctencaten
     - type: email
       email: "mailto:clebertencaten@gmail.com"
+
+
+
+- name: "Grant Foster"
+  title: "doctoral student"
+  picture: grant.jpg
+  bio: "Grant recently finished undergraduate degrees studying ecology and biology, and is interested in ways ecological and phylogenetic relationships within natural communities can affect patterns of multi-host parasite infection."
+  labels:
+    - type: github
+      github: https://github.com/GTFoster
+    - type: email
+      email: "mailto:gfoste5@lsu.edu"
+
 
 
 

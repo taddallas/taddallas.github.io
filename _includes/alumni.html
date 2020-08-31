@@ -47,24 +47,23 @@
 
 
 
-
   <div class="row publication">
   <div class="three columns text-left">    
     <div class="container">
-       <img class="image" src="/resources/photos/{{z.picture}}" /> 
+       <img class="image" src="/resources/photos/{{q.picture}}" /> 
       <div class="middle">
-        <div class="text"> <b>{{z.name}}</b> <br/>  {{z.title}} </div>
+        <div class="text"> <b>{{q.name}}</b> <br/>  {{q.title}} </div>
       </div>
       </div>
     </div>
    
 
   <div class="four columns">
-    <i> {{z.bio}} </i> 
+    <i> {{q.bio}} </i> 
   </div>
 
   <div class="three columns text-right">
-     {% for lab in z.labels %}
+     {% for lab in q.labels %}
      {% if lab.type == "figshare" %}<a href="{{lab.figshare}}"><span class="label label-figshare"> <i class="ai ai-figshare"></i></span></a>{% endif %}
      {% if lab.type == "scholar" %}<a href="{{lab.scholar}}"><span class="label label-scholar"> <i class="ai ai-google-scholar"></i></span></a>{% endif %}
      {% if lab.type == "orcid" %}<a href="{{lab.orcid}}"><span class="label label-orcid"> <i class="ai ai-orcid"></i></span></a>{% endif %}

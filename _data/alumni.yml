@@ -1,0 +1,12 @@
+- name: "Jane McKee"
+  title: "research associate"
+  picture: jane.jpeg
+  bio: "Jane has a background in applied mathematics, and recently graduated with an MSc in mathematical sciences. Jane's current research interests focus on using networks to analyze and control the spread of epidemics in populations."
+  labels:
+    - type: github
+      github: https://github.com/jane-mckee
+    - type: email
+      email: "mailto:jmckee8@lsu.edu"
+
+
+
