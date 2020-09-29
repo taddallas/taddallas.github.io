@@ -9,11 +9,12 @@
   journal: J Animal Ecology
   labels:
     - type: pdf
-      pdf: 
+      pdf: Dallas2020JAE2.pdf
     - type: doi
       doi: 10.1111/1365-2656.13331
     - type: data
       data: https://doi.org/10.6084/m9.figshare.7035731
+
 
 - title: "What determines parasite species richness across host species?"
   key: inFocus
