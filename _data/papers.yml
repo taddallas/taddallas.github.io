@@ -1,4 +1,41 @@
-- title: "Variability in dispersal and spatial spread in two-species communities"
+- title: "Weighing the evidence for the abundant-centre hypothesis"
+  key: rangeShape3
+  open: true
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: L Santini
+    - name: R Decker
+    - name: A Hastings 
+  date: 2020
+  journal: Biodiversity Informatics
+  labels:
+    - type: pdf
+      pdf: Dallas2020BioDiv.pdf
+    - type: doi
+      doi: https://doi.org/10.17161/bi.v15i3.11989 
+
+
+- title: "What would it take to describe the global diversity of parasites?"
+  key: carlson2020
+  authors:
+    - name: C Carlson
+    - name: AJ Phillips
+    - name: T Dallas
+      type: pi
+    - name: LW Alexander
+    - name: A Phelan
+    - name: S Bansal
+  date: 2020
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: Carlson2020PRSB.pdf
+    - type: preprint
+      preprint: https://doi.org/10.1101/815902
+
+
+- title: "Community context and dispersal stochasticity drive variation in spatial spread"
   key: dispersalTrait
   authors:
     - name: T Dallas
@@ -18,6 +55,7 @@
 
 - title: "What determines parasite species richness across host species?"
   key: inFocus
+  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -48,8 +86,10 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.11553534.v1
 
+
 - title: "The abundant-centre is not all that abundant: a comment to Osorio-Olvera et al. 2020"
   key: osorioComment
+  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -61,12 +101,11 @@
       pdf: Dallas2020comment.pdf
     - type: doi
       doi: 10.1101/2020.02.27.968586
-    - type: data
-      data: 
 
 
 - title: "Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization"
   key: betacov
+  open: true
   authors:
     - name: D Becker
     - name: GF Albery
@@ -88,7 +127,7 @@
     - type: doi
       doi: 10.1101/2020.05.22.111344
     - type: data
-      data: github.com/viralemergence/Fresnel
+      data: https://github.com/viralemergence/Fresnel
 
 
 - title: "Spatial synchrony is related to the rate of environmental change in Finnish moth communities"
@@ -130,26 +169,10 @@
       preprint:  https://doi.org/10.1101/863795
 
 
-- title: "What would it take to describe the global diversity of parasites?"
-  key: carlson2020
-  authors:
-    - name: C Carlson
-    - name: AJ Phillips
-    - name: T Dallas
-      type: pi
-    - name: LW Alexander
-    - name: A Phelan
-    - name: S Bansal
-  date: 2020
-  journal: 
-  labels:
-    - type: pdf
-      pdf: carlson2020.pdf
-    - type: preprint
-      preprint: https://doi.org/10.1101/815902
 
 - title: "Environmental biases in the study of ecological networks at the planetary scale"
   key: poisot2020
+  open: true
   authors:
     - name: T Poisot
     - name: G Bergeron

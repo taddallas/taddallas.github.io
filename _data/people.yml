@@ -54,6 +54,16 @@
       email: "mailto:gfoste5@lsu.edu"
 
 
+- name: "Lauren Holian"
+  title: "doctoral student"
+  picture: user.png
+  bio: ""
+  labels:
+    - type: github
+      github: https://github.com/LAHolian
+    - type: email
+      email: "mailto:lholia1@lsu.edu"
+
 
 
 
