@@ -56,11 +56,13 @@
 
 - name: "Lauren Holian"
   title: "doctoral student"
-  picture: user.png
-  bio: ""
+  picture: lauren.jpg
+  bio: "Lauren has a MSc in zoology and is interested in how eco-evolutionary drivers shape macroecological patterns and disease outcomes."
   labels:
     - type: github
       github: https://github.com/LAHolian
+    - type: cv
+    cv: ../resources/photos/HolianCV.pdf
     - type: email
       email: "mailto:lholia1@lsu.edu"
 
