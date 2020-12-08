@@ -62,7 +62,7 @@
     - type: github
       github: https://github.com/LAHolian
     - type: cv
-    cv: ../resources/photos/HolianCV.pdf
+      cv: ../resources/photos/HolianCV.pdf
     - type: email
       email: "mailto:lholia1@lsu.edu"
 
