@@ -1,3 +1,37 @@
+- title: "Exploring the dimensions of metapopulation persistence: a comparison of structural and temporal measures"
+  key: persistDistro
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: M Saastamoinen
+    - name: O Ovaskainen
+  date: 2020
+  journal: Theoretical Ecology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
+
+
+- title: "Taxonomic resolution affects host-parasite association model performance"
+  key: helmSubset
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: D Becker
+  date: 2020
+  journal: Parasitology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
+
+
+
 - title: "Weighing the evidence for the abundant-centre hypothesis"
   key: rangeShape3
   open: true
