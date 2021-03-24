@@ -1,3 +1,19 @@
+- title: "Species-area and network-area relationships in host-helminth interactions"
+  key: helmNAR
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: P Jordano
+  date: 2021
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: Dallas2021PRSB.pdf
+    - type: doi
+      doi: https://doi.org/10.1098/rspb.2020.3143
+
+
+
 - title: "Exploring the dimensions of metapopulation persistence: a comparison of structural and temporal measures"
   key: persistDistro
   authors:
@@ -11,7 +27,7 @@
     - type: pdf
       pdf: 
     - type: doi
-      doi: 
+      doi: https://doi.org/10.1007/s12080-020-00497-0
 
 
 
@@ -27,9 +43,7 @@
     - type: pdf
       pdf: 
     - type: doi
-      doi: 
-
-
+      doi: https://doi.org/10.1017/S0031182020002371
 
 
 - title: "Weighing the evidence for the abundant-centre hypothesis"

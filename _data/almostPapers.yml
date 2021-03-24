@@ -1,0 +1,92 @@
+- title: "Spatial variation in species roles in host-helminth networks"
+  key: helmCent2
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: P Jordano
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
+
+      
+
+- title: "Data proliferation, reconciliation, and synthesis in viral ecology"
+  key: reconciliation
+  authors:
+    - name: R Gibb
+    - name: GF Albery
+    - name: DJ Becker
+    - name: L Brierley
+    - name: R Connor
+    - name: T Dallas
+      type: pi
+    - name: EA Eskew
+    - name: MJ Farrell
+    - name: AL Rasmussen
+    - name: SJ Ryan
+    - name: A Sweeny
+    - name: CJ Carlson
+    - name: T Poisot
+  date: 2021
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+      
+
+- title: "The ghost of hosts past: impacts of host extinction on parasite specificity"
+  key: hostGhost
+  authors:
+    - name: MJ Farrell
+    - name: 
+    - name: T Dallas
+      type: pi
+    - name: 
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
+
+
+- title: ""
+  key: bioStability
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Andrew Kramer
+  date: 2021
+  journal: Ecology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
+
+- title: "Forecasting parasite sharing under climate change"
+  key: nacho
+  authors:
+    - name: I Morales-Castilla
+    - name: 
+    - name: T Dallas
+      type: pi
+    - name: 
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+
