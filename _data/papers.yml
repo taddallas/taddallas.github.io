@@ -1,3 +1,28 @@
+- title: "Global knowledge gaps in species interaction networks data"
+  key: poisot2020
+  open: true
+  authors:
+    - name: T Poisot
+    - name: G Bergeron
+    - name: K Cazelles
+    - name: T Dallas
+      type: pi
+    - name: D Gravel
+    - name: A MacDonald
+    - name: B Mercier
+    - name: S Vissault
+  date: 2021
+  journal: Journal of Biogeography
+  labels:
+    - type: pdf
+      pdf: poisot2020.pdf
+    - type: preprint
+      preprint: https://doi.org/10.1101/2020.01.27.921429
+    - type: data
+      data: https://github.com/PoisotLab/MangalSamplingStatus
+
+
+
 - title: "Species-area and network-area relationships in host-helminth interactions"
   key: helmNAR
   authors:
@@ -25,7 +50,7 @@
   journal: Theoretical Ecology
   labels:
     - type: pdf
-      pdf: 
+      pdf: Dallas2021Theory
     - type: doi
       doi: https://doi.org/10.1007/s12080-020-00497-0
 
@@ -41,7 +66,7 @@
   journal: Parasitology
   labels:
     - type: pdf
-      pdf: 
+      pdf: Dallas2021Parasitology
     - type: doi
       doi: https://doi.org/10.1017/S0031182020002371
 
@@ -218,28 +243,7 @@
 
 
 
-- title: "Environmental biases in the study of ecological networks at the planetary scale"
-  key: poisot2020
-  open: true
-  authors:
-    - name: T Poisot
-    - name: G Bergeron
-    - name: K Cazelles
-    - name: T Dallas
-      type: pi
-    - name: D Gravel
-    - name: A MacDonald
-    - name: B Mercier
-    - name: S Vissault
-  date: 2020
-  journal: 
-  labels:
-    - type: pdf
-      pdf: poisot2020.pdf
-    - type: preprint
-      preprint: https://doi.org/10.1101/2020.01.27.921429
-    - type: data
-      data: https://github.com/PoisotLab/MangalSamplingStatus
+
 
 
 - title: "The relative importance of local and regional processes to metapopulation dynamics"
