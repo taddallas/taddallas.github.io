@@ -34,6 +34,8 @@
   labels:
     - type: pdf
       pdf: Dallas2021PRSB.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.12597251.v1
     - type: doi
       doi: https://doi.org/10.1098/rspb.2020.3143
 
@@ -50,7 +52,9 @@
   journal: Theoretical Ecology
   labels:
     - type: pdf
-      pdf: Dallas2021Theory
+      pdf: Dallas2021Theory.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.12576038.v1
     - type: doi
       doi: https://doi.org/10.1007/s12080-020-00497-0
 
@@ -66,7 +70,9 @@
   journal: Parasitology
   labels:
     - type: pdf
-      pdf: Dallas2021Parasitology
+      pdf: Dallas2021Parasitology.pdf
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.12501995.v1      
     - type: doi
       doi: https://doi.org/10.1017/S0031182020002371
 
