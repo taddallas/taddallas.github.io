@@ -1,3 +1,22 @@
+- title: "Initial abundance and stochasticity influence competitive outcome in communities"
+  key: priorityEffects
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: BA Melbourne
+    - name: G Legault
+    - name: A Hastings
+  date: 2021
+  journal: Journal of Animal Ecology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.5593633.v1
+    - type: doi
+      pdf: https://doi.org/10.1111/1365-2656.13485
+
+
 - title: "Global knowledge gaps in species interaction networks data"
   key: poisot2020
   open: true
@@ -20,6 +39,8 @@
       preprint: https://doi.org/10.1101/2020.01.27.921429
     - type: data
       data: https://github.com/PoisotLab/MangalSamplingStatus
+    - type: doi
+      doi: http://doi.org/10.1111/jbi.14127
 
 
 
