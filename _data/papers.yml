@@ -14,7 +14,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5593633.v1
     - type: doi
-      pdf: https://doi.org/10.1111/1365-2656.13485
+      doi: https://doi.org/10.1111/1365-2656.13485
 
 
 - title: "Global knowledge gaps in species interaction networks data"
