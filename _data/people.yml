@@ -22,23 +22,11 @@
 
 - name: "Jaylon Braxton"
   title: "undergraduate researcher"
-  picture: jaylon.jpg
+  picture: jaylon.png
   bio: "Jaylon is an undergraduate pre-medicine student studying in biological sciences and is interested in epidemiology, host-parasite relationships, and ecology."
   labels:
     - type: email
       email: "mailto:jbraxt3@lsu.edu"
-
-
-- name: "Cleber Ten Caten"
-  title: "doctoral student"
-  picture: cleber.jpg
-  bio: "Cleber has a MSc in ecology and evolution and is interested in macroecology, biogeography and community ecology."
-  labels:
-    - type: github
-      github: https://github.com/ctencaten
-    - type: email
-      email: "mailto:clebertencaten@gmail.com"
-
 
 
 - name: "Grant Foster"
@@ -81,7 +69,16 @@
     - type: email
       email: "mailto:robbie@lsu.edu"
 
-
+- name: "Cleber Ten Caten"
+  title: "doctoral student"
+  picture: cleber.jpg
+  bio: "Cleber has a MSc in ecology and evolution and is interested in macroecology, biogeography and community ecology."
+  labels:
+    - type: github
+      github: https://github.com/ctencaten
+    - type: email
+      email: "mailto:clebertencaten@gmail.com"
+      
 - name: "Anandita Verma"
   title: "undergraduate researcher"
   picture: anandita.png
