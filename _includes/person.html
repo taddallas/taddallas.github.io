@@ -72,6 +72,7 @@
      {% if lab.type == "twitter" %}<a href="{{lab.twitter}}"><span class="label label-twitter"> <i class="fab fa-twitter-square"></i></span></a>{% endif %}
      {% if lab.type == "github" %}<a href="{{lab.github}}"><span class="label label-github"> <i class="fab fa-github"></i></span></a>{% endif %}
      {% if lab.type == "cv" %}<a href="{{lab.cv}}"><span class="label label-cv"> <i class="fas fa-file-pdf"></i></span></a>{% endif %}
+     {% if lab.type == "website" %}<a href="{{lab.website}}"><span class="label label-desktop"> <i class="fas fa-desktop"></i></span></a>{% endif %}
      {% if lab.type == "email" %}<a href="{{lab.email}}"><span class="label label-email"> <i class="fas fa-envelope"></i></span></a>{% endif %}
 
   {% endfor %}

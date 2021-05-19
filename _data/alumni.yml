@@ -10,3 +10,12 @@
 
 
 
+- name: "Tivon Eugene"
+  title: "undergraduate honors researcher"
+  picture: tivon.jpg
+  bio: "Tivon is an undergraduate pre-med student who did his honors thesis in the Dallas lab. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
+  labels:
+    - type: github
+      github: https://github.com/Tivon-Eugene
+    - type: email
+      email: "mailto:teugen2@lsu.edu"

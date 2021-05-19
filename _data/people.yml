@@ -20,15 +20,13 @@
       orcid: https://orcid.org/0000-0003-3328-9958
 
 
-- name: "Tivon Eugene"
-  title: "undergraduate honors researcher"
-  picture: tivon.jpg
-  bio: "Tivon is an undergraduate pre-med student currently working on an honors thesis. His current research focuses on the spatial and ecological relationships of pathogen outbreak events."
+- name: "Jaylon Braxton"
+  title: "undergraduate researcher"
+  picture: jaylon.jpg
+  bio: "Jaylon is an undergraduate pre-medicine student studying in biological sciences and is interested in epidemiology, host-parasite relationships, and ecology."
   labels:
-    - type: github
-      github: https://github.com/Tivon-Eugene
     - type: email
-      email: "mailto:teugen2@lsu.edu"
+      email: "mailto:jbraxt3@lsu.edu"
 
 
 - name: "Cleber Ten Caten"
@@ -65,6 +63,41 @@
       cv: ../resources/photos/HolianCV.pdf
     - type: email
       email: "mailto:lholia1@lsu.edu"
+
+
+- name: "Robert Richards"
+  title: "postdoctoral researcher"
+  picture: robbie.jpg
+  bio: "Robbie has a PhD in Ecology and is a population/community ecologist interested in parasite-host interactions."
+  labels:
+    - type: github
+      github: https://github.com/rlrichards
+    - type: twitter
+      twitter:  https://twitter.com/robbielrichards
+    - type: website
+      website: https://rlrichards.github.io/
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-4131-2732
+    - type: email
+      email: "mailto:robbie@lsu.edu"
+
+
+- name: "Anandita Verma"
+  title: "undergraduate researcher"
+  picture: anandita.png
+  bio: "Anandita is an undergraduate pre-med student interested in host parasite interactions and their ecological patterns on a large scale."
+  labels:
+    - type: email
+      email: "mailto:averma5@lsu.edu"
+
+
+- name: "Daniel Vilchez"
+  title: "researcher"
+  picture: daniel.png
+  bio: "Daniel has a MS in Physiology and Biophysics and is interested in how vaccination strategies affect epidemic spread in social contact networks."
+  labels:
+    - type: email
+      email: "mailto: dvilch1@lsu.edu"
 
 
 

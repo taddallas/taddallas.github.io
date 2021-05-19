@@ -14,7 +14,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5593633.v1
     - type: doi
-      doi: https://doi.org/10.1111/1365-2656.13485
+      doi: 10.1111/1365-2656.13485
 
 
 - title: "Global knowledge gaps in species interaction networks data"
@@ -40,7 +40,7 @@
     - type: data
       data: https://github.com/PoisotLab/MangalSamplingStatus
     - type: doi
-      doi: http://doi.org/10.1111/jbi.14127
+      doi: 10.1111/jbi.14127
 
 
 
@@ -58,7 +58,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.12597251.v1
     - type: doi
-      doi: https://doi.org/10.1098/rspb.2020.3143
+      doi: 10.1098/rspb.2020.3143
 
 
 
@@ -77,7 +77,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.12576038.v1
     - type: doi
-      doi: https://doi.org/10.1007/s12080-020-00497-0
+      doi: 10.1007/s12080-020-00497-0
 
 
 
@@ -95,7 +95,7 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.12501995.v1      
     - type: doi
-      doi: https://doi.org/10.1017/S0031182020002371
+      doi: 10.1017/S0031182020002371
 
 
 - title: "Weighing the evidence for the abundant-centre hypothesis"
@@ -113,7 +113,7 @@
     - type: pdf
       pdf: Dallas2020BioDiv.pdf
     - type: doi
-      doi: https://doi.org/10.17161/bi.v15i3.11989 
+      doi: 10.17161/bi.v15i3.11989 
 
 
 - title: "What would it take to describe the global diversity of parasites?"
@@ -150,7 +150,7 @@
     - type: doi
       doi: 10.1111/1365-2656.13331
     - type: data
-      data: https://doi.org/10.6084/m9.figshare.7035731
+      data: 10.6084/m9.figshare.7035731
 
 
 - title: "What determines parasite species richness across host species?"
@@ -167,7 +167,7 @@
     - type: pdf
       pdf: Dallas2020JAE.pdf
     - type: doi
-      doi: http://dx.doi.org/10.1111/1365-2656.13276 
+      doi: 10.1111/1365-2656.13276 
 
 
 - title: "The influence of stochasticity, landscape structure, and species traits on abundant-centre relationships"
@@ -266,10 +266,7 @@
     - type: pdf
       pdf: vanBergen2020.pdf
     - type: preprint
-      preprint:  https://doi.org/10.1101/863795
-
-
-
+      preprint: https://doi.org/10.1101/863795
 
 
 
