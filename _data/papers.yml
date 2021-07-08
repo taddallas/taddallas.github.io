@@ -10,7 +10,7 @@
   journal: Journal of Animal Ecology
   labels:
     - type: pdf
-      pdf: 
+      pdf: DallasJAE2021.pdf
     - type: data
       data: https://doi.org/10.6084/m9.figshare.5593633.v1
     - type: doi

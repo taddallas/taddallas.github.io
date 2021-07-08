@@ -1,3 +1,17 @@
+- title: "codeFests and makerSpaces @LSU"
+  key: hackCode
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2021 - 
+  journal: LSU-funded effort to develop software and hardware competencies among undergraduates in the College of Science
+  labels:
+    - type: doi
+      doi: https://lsudatasci.github.io/
+    - type: code
+      code: https://github.com/LSUdataSci
+      
+
 - title: "Reproducible Research in R"
   key: reproResearch
   authors:
