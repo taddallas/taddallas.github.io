@@ -12,6 +12,20 @@
       code: https://github.com/LSUdataSci
       
 
+- title: "Principles of Ecology"
+  key: ecology
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2021
+  journal: Spring 2021 course taught at LSU
+  labels:
+    - type: video
+      video: https://www.youtube.com/watch?v=q4xYt9b9TMI&list=PLGKQe3NU_VU1NtfDbKIl_hXfrpfeOMkz2
+    - type: code
+      code: https://github.com/dallasLab/biol4253
+
+
 - title: "Reproducible Research in R"
   key: reproResearch
   authors:
@@ -20,8 +34,10 @@
   date: 2020
   journal: Fall 2020 course taught at LSU
   labels:
-    - type: doi
-      doi: https://www.youtube.com/playlist?list=PLGKQe3NU_VU05pjDL8QuklWRQ7N2t5e-0
+    - type: video
+      video: https://www.youtube.com/playlist?list=PLGKQe3NU_VU05pjDL8QuklWRQ7N2t5e-0
+    - type: code
+      code: https://github.com/biol-4800/reproducibleResearch
 
 
 - title: "Macroecology of host-parasite interaction networks"

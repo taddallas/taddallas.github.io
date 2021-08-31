@@ -1,3 +1,28 @@
+- title: "Data proliferation, reconciliation, and synthesis in viral ecology"
+  key: reconciliation
+  authors:
+    - name: R Gibb
+    - name: GF Albery
+    - name: DJ Becker
+    - name: L Brierley
+    - name: R Connor
+    - name: T Dallas
+      type: pi
+    - name: EA Eskew
+    - name: MJ Farrell
+    - name: AL Rasmussen
+    - name: SJ Ryan
+    - name: A Sweeny
+    - name: CJ Carlson
+    - name: T Poisot
+  date: 2021
+  journal: BioScience
+  labels:
+    - type: pdf
+      pdf: Gibb2021.pdf
+    - type: doi
+      doi: 
+
 - title: "Initial abundance and stochasticity influence competitive outcome in communities"
   key: priorityEffects
   authors:
