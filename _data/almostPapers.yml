@@ -16,55 +16,28 @@
 
 
 
-- title: "Spatial variation in species roles in host-helminth networks"
-  key: helmCent2
-  authors:
-    - name: T Dallas
-      type: pi
-    - name: P Jordano
-  date: 2021
-  journal: Philosophical Transactions B
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi: 
 
 
-- title: "The ghost of hosts past: impacts of host extinction on parasite specificity"
-  key: hostGhost
-  authors:
+
+
+
+
+
+
     - name: MJ Farrell
-    - name: 
+    - name: Z Grange
+    - name: BA Han
+    - name: N Mollentze
+    - name: AL Phelan
+    - name: AL Rasmussen
+    - name: GF Albery
+    - name: B Bett
+    - name: DM Brett-Major
+    - name: LE Cohen
     - name: T Dallas
       type: pi
+    - name: E Eskew
+    - name: AC Fagre
+    - name: KM Forbes
+    - name: R Gibb
     - name: 
-  date: 2021
-  journal: Philosophical Transactions B
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi: 
-
-
-
-
-
-
-- title: "Forecasting parasite sharing under climate change"
-  key: nacho
-  authors:
-    - name: I Morales-Castilla
-    - name: 
-    - name: T Dallas
-      type: pi
-    - name: 
-  date: 2021
-  journal: Philosophical Transactions B
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi: 
-

@@ -1,3 +1,74 @@
+- title: "Spatial variation in species roles in host-helminth networks"
+  key: helmCent2
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: P Jordano
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: Dallas2021RSTB.pdf
+    - type: doi
+      doi: 10.1098/rstb.2020.0361
+
+
+- title: "The ghost of hosts past: impacts of host extinction on parasite specificity"
+  key: hostGhost
+  authors:
+    - name: MJ Farrell
+    - name: AW Park
+    - name: C Cressler
+    - name: T Dallas
+      type: pi
+    - name: S Huang
+    - name: N Mideo
+    - name: I Morales-Castilla
+    - name: TJ Davies
+    - name: P Stephens
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: Farrell2021RSTB.pdf
+    - type: doi
+      doi: 10.1098/rstb.2020.0351
+      
+
+- title: "Forecasting parasite sharing under climate change"
+  key: nacho
+  authors:
+    - name: I Morales-Castilla
+    - name: P Pappalardo
+    - name: MJ Farrell
+    - name: AA Aguirre
+    - name: S Huang
+    - name: ALM Gehman
+    - name: T Dallas
+      type: pi
+    - name: D Gravel
+    - name: TJ Davies
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 10.1098/rstb.2020.0360
+
+- title: "The future of zoonotic risk prediction"
+  key: carlsonZoo
+  authors:
+    - name: CJ Carlson
+    - name: et. al. 
+  date: 2021
+  journal: Philosophical Transactions B
+  labels:
+    - type: pdf
+      pdf: Carlson2021RSTB.pdf
+    - type: doi
+      doi: 10.1098/rstb.2020.0360
+      
 - title: "Data proliferation, reconciliation, and synthesis in viral ecology"
   key: reconciliation
   authors:
@@ -21,7 +92,7 @@
     - type: pdf
       pdf: Gibb2021.pdf
     - type: doi
-      doi: 
+      doi: 10.1093/biosci/biab080
 
 - title: "Initial abundance and stochasticity influence competitive outcome in communities"
   key: priorityEffects
