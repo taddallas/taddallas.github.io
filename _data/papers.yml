@@ -1,3 +1,19 @@
+- title: "Temporal variability in population and community dynamics"
+  key: bioStability
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Andrew Kramer
+  date: 2021
+  journal: Ecology
+  labels:
+    - type: pdf
+      pdf: Dallas2021Ecology.pdf
+    - type: doi
+      doi: 10.1002/ecy.3577
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.13911275
+
 - title: "Spatial variation in species roles in host-helminth networks"
   key: helmCent2
   authors:

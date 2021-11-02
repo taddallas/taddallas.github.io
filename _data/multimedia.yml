@@ -11,6 +11,15 @@
     - type: code
       code: https://github.com/LSUdataSci
       
+- title: "Lab YouTube channel"
+  key: ecology
+  authors:
+    - name: Dallas lab
+  date: 2021
+  journal: Outlet for recorded talks and forward-facing science
+  labels:
+    - type: video
+      video: https://www.youtube.com/playlist?list=PLGKQe3NU_VU1gSNUX6YkuQQgyPofmbXgG
 
 - title: "Principles of Ecology"
   key: ecology

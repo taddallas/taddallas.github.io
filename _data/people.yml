@@ -20,14 +20,6 @@
       orcid: https://orcid.org/0000-0003-3328-9958
 
 
-- name: "Jaylon Braxton"
-  title: "undergraduate researcher"
-  picture: jaylon.png
-  bio: "Jaylon is an undergraduate pre-medicine student studying in biological sciences and is interested in epidemiology, host-parasite relationships, and ecology."
-  labels:
-    - type: email
-      email: "mailto:jbraxt3@lsu.edu"
-
 
 - name: "Grant Foster"
   title: "doctoral student"
@@ -78,7 +70,8 @@
       github: https://github.com/ctencaten
     - type: email
       email: "mailto:clebertencaten@gmail.com"
-      
+
+
 - name: "Anandita Verma"
   title: "undergraduate researcher"
   picture: anandita.png

@@ -16,3 +16,15 @@
       github: https://github.com/Tivon-Eugene
     - type: email
       email: "mailto:teugen2@lsu.edu"
+      
+      
+      
+      
+- name: "Jaylon Braxton"
+  title: "undergraduate researcher"
+  picture: jaylon.png
+  bio: "Jaylon is an undergraduate pre-medicine student studying in biological sciences and is interested in epidemiology, host-parasite relationships, and ecology."
+  labels:
+    - type: email
+      email: "mailto:jbraxt3@lsu.edu"
+
