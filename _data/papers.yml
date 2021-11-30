@@ -1,9 +1,39 @@
+- title: "The science of the host–virus network"
+  key: hivemind
+  authors:
+    - name: GF Albery
+    - name: DJ Becker
+    - name: L Brierley
+    - name: CE Brook
+    - name: R Christofferson
+    - name: L Cohen
+    - name: T Dallas
+      type: pi
+    - name: EA Eskew
+    - name: A Fagre
+    - name: MJ Farrell
+    - name: E Glennon
+    - name: AL Rasmussen
+    - name: SJ Ryan
+    - name: S Seifert
+    - name: AR Sjodin
+    - name: EM Sorrell
+    - name: CJ Carlson
+  date: 2021
+  journal: Nature Microbiology
+  labels:
+    - type: pdf
+      pdf: Albery2021.pdf
+    - type: doi
+      doi: 10.1038/s41564-021-00999-5
+
+
 - title: "Temporal variability in population and community dynamics"
   key: bioStability
   authors:
     - name: T Dallas
       type: pi
-    - name: Andrew Kramer
+    - name: A Kramer
   date: 2021
   journal: Ecology
   labels:
