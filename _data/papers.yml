@@ -1,6 +1,5 @@
 - title: "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"
   key: betacov
-  open: true
   authors:
     - name: D Becker
     - name: GF Albery
@@ -187,7 +186,6 @@
 
 - title: "Global knowledge gaps in species interaction networks data"
   key: poisot2020
-  open: true
   authors:
     - name: T Poisot
     - name: G Bergeron
@@ -268,7 +266,6 @@
 
 - title: "Weighing the evidence for the abundant-centre hypothesis"
   key: rangeShape3
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -323,7 +320,6 @@
 
 - title: "What determines parasite species richness across host species?"
   key: inFocus
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -357,7 +353,6 @@
 
 - title: "The abundant-centre is not all that abundant: a comment to Osorio-Olvera et al. 2020"
   key: osorioComment
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -434,7 +429,6 @@
 
 - title: "Testing predictability of disease outbreaks with a simple model of pathogen biogeography"
   key: emergence
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -576,7 +570,6 @@
 
 - title: "Host traits associated with species roles in parasite sharing networks"
   key: nodeProperties
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -714,7 +707,6 @@
 
 - title: "Spatial extinction date estimation: a novel method for reconstructing spatiotemporal patterns of extinction and identifying potential zones of rediscovery"
   key: threshold
-  open: true
   authors:
     - name: C Carlson
     - name: Burgio, K
@@ -733,7 +725,6 @@
 
 - title: "Experimental evidence of pathogen invasion threshold"
   key: threshold
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -788,7 +779,6 @@
 
 - title: "The Parasite Extinction Assessment and Red List -- an open-source, online biodiversity database for neglected symbionts"
   key: parasiteRedList
-  open: true
   authors:
     - name: C. Carlson
     - name: Muellerklein, O
@@ -814,7 +804,6 @@
 
 - title: "The mathematics of extinction across scales -- from populations to the biosphere"
   key: mathExtinction
-  open: true
   authors:
     - name: C Carlson
     - name: Burgio, K
@@ -881,7 +870,6 @@
 
 - title: "Predicting cryptic links in host-parasite networks"
   key: missingLinks
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -918,7 +906,6 @@
 
 - title: "Data-driven identification of potential Zika virus vectors"
   key: zika
-  open: true
   authors:
     - name: M Evans
     - name: Dallas, T
@@ -940,7 +927,6 @@
 
 - title: "Ordination obscures the influence of environment on plankton metacommunity structure"
   key: srsMetacom
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -959,7 +945,6 @@
 
 - title: "Fluctuating temperatures alter environmental pathogen transmission in a <i>Daphnia</i>-pathogen system"
   key: tempVarInfection
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -976,7 +961,6 @@
 
 - title:  "The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts"
   key: diseaseMacro
-  open: true
   authors:
     - name: P. Stephens
     - name: Altizer, S
@@ -1012,7 +996,6 @@
 
 - title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
   key: helminthR
-  open: true
   authors:
     - name: T Dallas
       type: pi
@@ -1045,7 +1028,6 @@
 
 - title: "Costs of resistance and infection by a generalist pathogen"
   key: costs
-  open: true
   authors:
       - name: T Dallas
         type: pi
@@ -1081,7 +1063,6 @@
 
 - title: "Co-extinction in a host-parasite network: identifying key hosts for network stability"
   key: fishnest
-  open: true
   authors:
       - name: T Dallas
         type: pi
@@ -1114,7 +1095,6 @@
 
 - title: "Relative Importance of Environmental, Geographic, and Spatial Variables on Zooplankton Metacommunities"
   key: ELSmetacom
-  open: true
   authors:
       - name: T Dallas
         type: pi
@@ -1129,7 +1109,6 @@
 
 - title: "metacom: an R package for the analysis of metacommunity structure"
   key: metacom
-  open: true
   authors:
       - name: T Dallas
         type: pi
@@ -1145,7 +1124,6 @@
 
 - title: "Relative importance of host environment, transmission potential, and host phylogeny to the structure of parasite metacommunities"
   key: sevMetacom
-  open: true
   authors:
       - name: T Dallas
         type: pi
@@ -1176,7 +1154,6 @@
 
 - title: "Nitrate enrichment alters a Daphnia-microparasite interaction through multiple pathways"
   key: nitrate
-  open: true
   authors:
       - name: T Dallas
         type: pi
@@ -1205,7 +1182,6 @@
 
 - title: "Modeling the influence of Peromyscus leucopus body mass, sex and habitat on immature Dermacentor variabilis burdens"
   key: pldvfield
-  open: true
   authors:
       - name: T Dallas
         type: pi
