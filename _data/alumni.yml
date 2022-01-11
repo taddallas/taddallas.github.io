@@ -1,3 +1,11 @@
+- name: "Daniel Vilchez"
+  title: "researcher"
+  picture: daniel.png
+  bio: "Daniel has a MS in Physiology and Biophysics and is interested in how vaccination strategies affect epidemic spread in social contact networks."
+  labels:
+    - type: email
+      email: "mailto: dvilch1@lsu.edu"
+
 - name: "Jae McKee"
   title: "research associate"
   picture: jane.jpeg
@@ -5,7 +13,6 @@
   labels:
     - type: github
       github: https://github.com/j-mckee
-
 
 - name: "Tivon Eugene"
   title: "undergraduate honors researcher"
@@ -16,8 +23,6 @@
       github: https://github.com/Tivon-Eugene
     - type: email
       email: "mailto:teugen2@lsu.edu"
-      
-      
       
       
 - name: "Jaylon Braxton"

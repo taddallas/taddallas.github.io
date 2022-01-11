@@ -1,3 +1,17 @@
+- title: "Biological data science"
+  key: uscRepro
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2022-
+  journal: 
+  labels:
+    - type: code
+      code: https://github.com/biolDataScience/
+    - type: doi
+      code: https://bioldatascience.github.io/
+
+      
 - title: "codeFests and makerSpaces @LSU"
   key: hackCode
   authors:

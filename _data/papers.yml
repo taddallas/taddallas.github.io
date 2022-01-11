@@ -1,3 +1,29 @@
+- title: "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"
+  key: betacov
+  open: true
+  authors:
+    - name: D Becker
+    - name: GF Albery
+    - name: AR Sjodin
+    - name: T Poisot
+    - name: T Dallas
+      type: pi
+    - name: EA Eskew
+    - name: MJ Farrell
+    - name: S Guth
+    - name: BA Han 
+    - name: NB Simmons
+    - name: CJ Carlson
+  date: 2022
+  journal: Lancet Microbe
+  labels:
+    - type: pdf
+      pdf: becker2022.pdf
+    - type: doi
+      doi: 10.1016/S2666-5247(21)00245-7
+    - type: data
+      data: https://github.com/viralemergence/Fresnel
+
 - title: "The science of the host–virus network"
   key: hivemind
   authors:
@@ -98,7 +124,7 @@
   journal: Philosophical Transactions B
   labels:
     - type: pdf
-      pdf: 
+      pdf: moralesCastilla2021.pdf
     - type: doi
       doi: 10.1098/rstb.2020.0360
 
@@ -345,31 +371,7 @@
       doi: 10.1101/2020.02.27.968586
 
 
-- title: "Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization"
-  key: betacov
-  open: true
-  authors:
-    - name: D Becker
-    - name: GF Albery
-    - name: AR Sjodin
-    - name: T Poisot
-    - name: T Dallas
-      type: pi
-    - name: EA Eskew
-    - name: MJ Farrell
-    - name: S Guth
-    - name: BA Han 
-    - name: NB Simmons
-    - name: CJ Carlson
-  date: 2020
-  journal: bioRxiv
-  labels:
-    - type: pdf
-      pdf: Becker2020.pdf
-    - type: doi
-      doi: 10.1101/2020.05.22.111344
-    - type: data
-      data: https://github.com/viralemergence/Fresnel
+
 
 
 - title: "Spatial synchrony is related to the rate of environmental change in Finnish moth communities"

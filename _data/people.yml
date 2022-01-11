@@ -2,7 +2,7 @@
 - name: "Tad Dallas"
   title: "assistant professor"
   picture: tad.jpg
-  bio: "Tad is a population and community ecologist interested in large scale patterns of species diversity."
+  bio: "Tad is a population and community ecologist interested in large scale patterns of species diversity and predictive modeling."
   labels:
     - type: twitter
       twitter: https://twitter.com/taddallas
@@ -81,13 +81,7 @@
       email: "mailto:averma5@lsu.edu"
 
 
-- name: "Daniel Vilchez"
-  title: "researcher"
-  picture: daniel.png
-  bio: "Daniel has a MS in Physiology and Biophysics and is interested in how vaccination strategies affect epidemic spread in social contact networks."
-  labels:
-    - type: email
-      email: "mailto: dvilch1@lsu.edu"
+
 
 
 

@@ -1,7 +1,36 @@
+- title: "Weak but consistent abundance-occupancy relationships across taxa, space, and time"
+  key: neonAO
+  authors:
+    - name: C Ten Caten
+    - name: LA Holian    
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: Global Ecology and Biogeography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+    - type: data
+      data: 
 
 
-
-
+- title: "Parasite species richness and host range are not spatially conserved"
+  key: helmCent
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: P Jordano
+  date: 2022
+  journal: Global Ecology and Biogeography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+    - type: data
+      data: 
 
 
 
