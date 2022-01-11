@@ -6,10 +6,10 @@
   date: 2022-
   journal: 
   labels:
+    - type: doi
+      doi: https://bioldatascience.github.io/
     - type: code
       code: https://github.com/biolDataScience/
-    - type: doi
-      code: https://bioldatascience.github.io/
 
       
 - title: "codeFests and makerSpaces @LSU"
