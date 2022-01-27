@@ -16,14 +16,19 @@
       data: 
 
 
-- title: "Parasite species richness and host range are not spatially conserved"
-  key: helmCent
+
+
+- title: "insectDisease: programmatic access to the Ecological Database of the World's Insect Pathogens"
+  key: insectDisease
   authors:
     - name: T Dallas
       type: pi
-    - name: P Jordano
+    - name: C Carlson
+    - name: P Stephens
+    - name: SJ Ryan
+    - name: D Onstad    
   date: 2022
-  journal: Global Ecology and Biogeography
+  journal: Ecography
   labels:
     - type: pdf
       pdf: 
@@ -31,8 +36,6 @@
       doi: 
     - type: data
       data: 
-
-
 
 
 
