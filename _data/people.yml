@@ -11,7 +11,7 @@
     - type: cv
       cv: ../resources/CV/DallasCV.pdf
     - type: email
-      email: "mailto:tadallas@lsu.edu"
+      email: "mailto:tdallas@mailbox.sc.edu"
     - type: figshare
       figshare: https://figshare.com/authors/Tad_Dallas/2585290
     - type: publons
@@ -29,7 +29,7 @@
     - type: github
       github: https://github.com/GTFoster
     - type: email
-      email: "mailto:gfoste5@lsu.edu"
+      email: "mailto:fostergt@email.sc.edu"
 
 
 - name: "Lauren Holian"
@@ -42,7 +42,7 @@
     - type: cv
       cv: ../resources/photos/HolianCV.pdf
     - type: email
-      email: "mailto:lholia1@lsu.edu"
+      email: "mailto:LHOLIAN@email.sc.edu"
 
 
 - name: "Robert Richards"

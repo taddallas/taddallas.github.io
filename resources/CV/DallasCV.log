@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.6)  26 JAN 2022 10:46
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.10.6)  25 FEB 2022 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -252,110 +252,111 @@ Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
  -> 
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 10.00003pt
- -> `^^}^^ð^^ËU
+ -> p^^2^^4F^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
  -> 
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
  -> 
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ðy^^Á^^ð^^ËU
+ -> ^^ ^^å^^8F^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^P^^H^^Ã^^ð^^ËU
+ ->  4^^:F^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^P^^H^^Ã^^ð^^ËU
+ ->  4^^:F^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^P^^H^^Ã^^ð^^ËU
+ ->  4^^:F^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^^^Ã^^Ã^^ð^^ËU
+ -> @^^î^^:F^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> 
+ -> p^^_^^;F^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^ÐO^^Ã^^ð^^ËU
+ -> ^^à{^^:F^^ìU
 Requested font "Ubuntu" at 9.99997pt
- -> ^^Ð^^Õ^^Ä^^ð^^ËU
+ -> 
 Requested font "Ubuntu/OT" at 10.00003pt
- -> ^^ ^^Ú^^Ä^^ð^^ËU
+ -> P^^^^;F^^ìU
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^Pv^^Ä^^ð^^ËU
+ -> ^^À^^à^^;F^^ìU
 Requested font "Ubuntu/BI/OT:script=latn;language=dflt;" at 10.00002pt
- -> `?u^^ð^^ËU
+ -> ^^0j^^,F^^ìU
 Requested font "Ubuntu/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> pl^^Ä^^ð^^ËU
+ -> ^^ ^^Ö^^;F^^ìU
 Requested font "Ubuntu/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^ðo^^Ä^^ð^^ËU
+ ->  ^^Ú^^;F^^ìU
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 10.00003pt
  -> 
 Requested font "Ubuntu/B/OT:script=latn;language=dflt;" at 10.00003pt
  -> 
 Requested font "Ubuntu/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^P^^^^Ò^^ð^^ËU
+ -> `^^/^^IG^^ìU
 Requested font "Ubuntu/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> 0^^.^^Ò^^ð^^ËU
+ -> ^^À^^P
+G^^ìU
 Requested font "Ubuntu/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ ^^ó^^Ô^^ð^^ËU
+ -> ^^P^^^^KG^^ìU
 Requested font "Ubuntu/BI/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^À^^^^Ô^^ð^^ËU
+ -> ^^^^6^^KG^^ìU
 Requested font "Ubuntu/BI/OT:script=latn;language=dflt;" at 10.00003pt
- ->  ^^ç^^Ö^^ð^^ËU
+ -> p^^	^^MG^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
  -> 
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> P^^^^Ö^^ð^^ËU
+ -> ^^à^^;^^MG^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> p^^N^^×^^ð^^ËU
+ -> ^^ 0^^NG^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> P^^^^Ö^^ð^^ËU
+ -> ^^à^^;^^MG^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> P^^^^Ö^^ð^^ËU
+ -> ^^à^^;^^MG^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> P^^^^Ö^^ð^^ËU
+ -> ^^à^^;^^MG^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> P^^^^Ö^^ð^^ËU
+ -> ^^à^^;^^MG^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> P^^^^Ö^^ð^^ËU
+ -> ^^à^^;^^MG^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> P^^-^^×^^ð^^ËU
+ -> ^^à^^O^^OG^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^P1^^Ø^^ð^^ËU
+ -> `S^^OG^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^^^L^^×^^ð^^ËU
+ ->  /^^NG^^ìU
 Requested font "Linux Libertine O" at 9.99997pt
  -> 
 Requested font "Linux Libertine O/OT" at 10.00003pt
@@ -378,22 +379,22 @@ t
  -> 
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^0^^^^æ^^ð^^ËU
+ -> `
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^0^^^^æ^^ð^^ËU
+ -> `
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^À^^ö^^è^^ð^^ËU
+ -> ^^0^^^^_G^^ìU
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 10.00003
 pt
- -> ^^À^^ö^^è^^ð^^ËU
+ -> ^^0^^^^_G^^ìU
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 10.00003
 pt
- ->  Y^^ê^^ð^^ËU
+ -> ^^Ðz!G^^ìU
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 10.0pt
- -> ^^Ð^^à^^ê^^ð^^ËU
+ -> 
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
@@ -401,7 +402,7 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
 .tex)
 Requested font "FontAwesome" at 9.99997pt
- -> ^^^^^^ì^^ð^^ËU
+ -> @^^8#G^^ìU
 Requested font "FontAwesome/OT" at 10.00003pt
  -> 
 Requested font "FontAwesome/OT:language=dflt;" at 10.00002pt
@@ -409,11 +410,11 @@ Requested font "FontAwesome/OT:language=dflt;" at 10.00002pt
 Requested font "FontAwesome/BI/OT:language=dflt;" at 10.00002pt
  -> 
 Requested font "FontAwesome/B/OT:language=dflt;" at 10.00002pt
- -> ^^ð^^Q^^í^^ð^^ËU
+ ->  3$G^^ìU
 Requested font "FontAwesome/I/OT:language=dflt;" at 10.00002pt
- -> `^^Q^^í^^ð^^ËU
+ -> ^^2$G^^ìU
 Requested font "FontAwesome/OT:language=dflt;" at 10.00003pt
- -> `^^Q^^í^^ð^^ËU
+ -> ^^2$G^^ìU
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluate
 x.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
@@ -1107,9 +1108,9 @@ LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(1)/m/n' will be
 (Font)              scaled to size 16.80017pt on input line 14.
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;color=1564B2FF ;"
  at 16.80017pt
- -> ^^P^^^^ï^^ð^^ËU
+ -> `^^;&G^^ìU
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 28.0pt
- -> ^^^^^^ð^^ð^^ËU
+ ->  ^^/'G^^ìU
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 16.0pt
  -> 
 
@@ -1127,17 +1128,17 @@ File: dallasLab2.pdf Graphic file (type pdf)
 <use dallasLab2.pdf>
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 14.4pt
- -> ^^ ^^Ð^^ö^^ð^^ËU
+ -> ^^P^^ô-G^^ìU
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 14.4pt
  -> 
 Requested font "FontAwesome/OT:language=dflt;mapping=tex-text;" at 10.0pt
- -> 
+ -> ^^À^^Ñ1G^^ìU
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;color=2B6C14FF ;"
  at 10.0pt
- -> p^^^ú^^ð^^ËU
+ -> ^^0^^À1G^^ìU
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 7.0pt
- -> ^^À^^å^^ü^^ð^^ËU
+ -> 
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 5.0pt
  -> 
@@ -1147,7 +1148,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 17.28pt
- -> ^^à^^^^ ^^ð^^ËU
+ ->  ^^(7G^^ìU
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 17.28pt
  -> 
 Requested font "FontAwesome/OT:language=dflt;mapping=tex-text;" at 17.28pt
@@ -1175,20 +1176,20 @@ Requested font "Linux Libertine O/OT:script=latn;language=dflt;" at 8.00003pt
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 8.00003pt
  -> 
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 8.00003pt
- -> ^^ð^^8^^^^ð^^ËU
+ -> 0^^[NG^^ìU
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 8.00003pt
- -> ^^ð^^8^^^^ð^^ËU
+ -> 0^^[NG^^ìU
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 8.00003pt
- -> ^^ð^^^^^^ð^^ËU
+ -> 0^^5OG^^ìU
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 8.00003p
 t
- -> ^^ð^^^^^^ð^^ËU
+ -> 0^^5OG^^ìU
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 8.00003p
 t
- -> Pu^^^^ð^^ËU
+ -> ^^^^×QG^^ìU
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=999999FF ;" at 8.0pt
- -> ^^ ^^ü^^^^ð^^ËU
+ -> @^^QG^^ìU
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;mapping=tex-te
 xt;color=999999FF ;" at 8.0pt
  -> 
@@ -1207,7 +1208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--145
 
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;color=1564B2FF ;"
  at 10.0pt
- -> ^^ ^^Í^^^^ð^^ËU
+ -> `^^ð=G^^ìU
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
@@ -1283,122 +1284,117 @@ Underfull \hbox (badness 10000) in paragraph at lines 474--474
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--476
+Underfull \hbox (badness 10000) in paragraph at lines 458--485
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--502
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--507
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--512
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--514
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--532
+Underfull \hbox (badness 10000) in paragraph at lines 499--527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--537
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--542
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--554
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--609
+Underfull \hbox (badness 10000) in paragraph at lines 539--567
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 614--614
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--619
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 624--624
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 629--629
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 634--634
+Underfull \hbox (badness 10000) in paragraph at lines 661--661
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 593--636
+Underfull \hbox (badness 10000) in paragraph at lines 606--663
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 696--696
+Underfull \hbox (badness 10000) in paragraph at lines 722--722
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 690--698
+Underfull \hbox (badness 10000) in paragraph at lines 716--724
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 717--717
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 723--723
+Underfull \hbox (badness 10000) in paragraph at lines 748--748
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--728
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 711--736
+Underfull \hbox (badness 10000) in paragraph at lines 753--753
 
  []
 
@@ -1408,22 +1404,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 758--758
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 763--763
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 768--768
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 773--773
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--778
+Underfull \hbox (badness 10000) in paragraph at lines 737--761
 
  []
 
@@ -1438,22 +1419,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 788--788
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 752--790
+Underfull \hbox (badness 10000) in paragraph at lines 793--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 798--798
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--815
 
  []
 
 [8] [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 825.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 825.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 850.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 850.
  (./DallasCV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 825.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 825.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 850.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 850.
 Package rerunfilecheck Info: File `DallasCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 639 ({)
+### simple group (level 1) entered at line 666 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  33598 strings out of 479819

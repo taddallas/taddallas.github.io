@@ -1,3 +1,75 @@
+- title: "Infectious disease: Dog diets may drive transmission cycles in human Guinea worm disease"
+  key: robbieWorm
+  authors:
+    - name: RL Richards
+    - name: LA Holian
+  date: 2022
+  journal: Current Biology
+  labels:
+    - type: pdf
+      pdf: RichardsHolian2022.pdf
+    - type: doi
+      doi: 10.1016/j.cub.2022.01.005
+
+
+- title: "The Global Virome in One Network (VIRION): an Atlas of Vertebrate-Virus Associations"
+  key: virion
+  authors:
+    - name: CJ Carlson
+    - name: RJ Gibb
+    - name: GF Albery
+    - name: L Brierley
+    - name: RP Connor
+    - name: T Dallas
+      type: pi
+    - name: EA Eskew
+    - name: AC Fagre
+    - name: MJ Farrell
+    - name: HK Frank
+    - name: RL Muylaert
+    - name: T Poisot
+    - name: AL Rasmussen
+    - name: SJ Ryan
+    - name: SN Seifert
+  date: 2022
+  journal: mBio
+  labels:
+    - type: pdf
+      pdf: Carlson2022.pdf
+    - type: doi
+      doi: 10.1128/mbio.02985-21
+    - type: data
+      data: https://github.com/viralemergence/virion
+    - type: press
+      press: https://viralemergence.github.io/virion/
+
+
+- title: "Functional roles of frugivores and plants shape hyper-diverse mutualistic interactions under two antagonistic conservation scenarios"
+  key: lica
+  authors:
+    - name: L Fuzessy
+    - name: G Sobral
+    - name: D Carreira
+    - name: DC Rother
+    - name: G Barbosa
+    - name: M Landis
+    - name: M Galetti
+    - name: T Dallas
+      type: pi
+    - name: VC Cláudio
+    - name: L Culot
+    - name: P Jordano
+  date: 2022
+  journal: BioTropica
+  labels:
+    - type: pdf
+      pdf: Fuzessy2022.pdf
+    - type: doi
+      doi: 10.1111/btp.13065
+    - type: data
+      data: https://doi.org/10.5061/dryad.k3j9kd591
+
+
 - title: "Parasite species richness and host range are not spatially conserved"
   key: helmCent
   authors:
