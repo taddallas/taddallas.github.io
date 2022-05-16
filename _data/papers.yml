@@ -1,3 +1,21 @@
+- title: "Weak but consistent abundance-occupancy relationships across taxa, space, and time"
+  key: neonAO
+  authors:
+    - name: C Ten Caten
+    - name: LA Holian    
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: Global Ecology and Biogeography
+  labels:
+    - type: pdf
+      pdf: tencaten2022
+    - type: doi
+      doi: 10.1111/geb.13472
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.18786161
+
+
 - title: "Infectious disease: Dog diets may drive transmission cycles in human Guinea worm disease"
   key: robbieWorm
   authors:
