@@ -1,3 +1,42 @@
+- title: "Effects of occupancy estimation on abundance-occupancy relationships"
+  key: neonRange  
+  authors:
+    - name: C Ten Caten
+    - name: L Holian
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: Biology Letters
+  labels:
+    - type: pdf
+      pdf: tencaten2022b.pdf
+    - type: doi
+      doi: 10.1098/rsbl.2022.0137
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.19323644
+      
+- title: "Climate change reshuffles northern species within their niches"
+  key: recChange  
+  authors:
+    - name: Laura H Antão 
+    - name: Benjamin Weigel 
+    - name: Giovanni Strona 
+    - name: Maria Hällfors
+    - name: Elina Kaarlejärvi
+    - name: T Dallas
+      type: pi
+    - name: et al. 
+  date: 2022
+  journal: Nature Climate Change
+  labels:
+    - type: pdf
+      pdf: antao2022.pdf
+    - type: doi
+      doi: 0.1038/s41558-022-01381-x
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.19323644
+
+
 - title: "Weak but consistent abundance-occupancy relationships across taxa, space, and time"
   key: neonAO
   authors:

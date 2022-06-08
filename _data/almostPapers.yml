@@ -1,5 +1,42 @@
+- title: "Comparing Waves of COVID-19 in the US: Scale of response changes over time"
+  key: waveComparison
+  authors:
+    - name: RL Richards
+    - name: G Foster
+    - name: BD Elderd
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 
+    - type: preprint
+      preprint: https://www.medrxiv.org/content/10.1101/2022.03.01.22271713v1.full-text
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.19285379
 
 
+
+
+- title: "Effects of occupancy estimation on abundance-occupancy relationships"
+  key: neonRange  
+  authors:
+    - name: C Ten Caten
+    - name: L Holian
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: Biology Letters
+  labels:
+    - type: pdf
+      pdf: tencaten2022b.pdf
+    - type: doi
+      doi: 10.1098/rsbl.2022.0137
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.19323644
 
 
 

@@ -4,7 +4,7 @@
     - name: T Dallas
       type: pi
   date: 2022-
-  journal: Spring 2022 course taught at U of South Carolina
+  journal: course taught at U of South Carolina
   labels:
     - type: doi
       doi: https://bioldatascience.github.io/
