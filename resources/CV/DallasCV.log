@@ -1,90 +1,91 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2022.3.3)  16 MAY 2022 13:29
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2022.8.8)  8 AUG 2022 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **DallasCV.tex
 (./DallasCV.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (./CV.cls
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./CV.cls
 Document Class: CV 2012/04/30 CV class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count173
-\c@section=\count174
-\c@subsection=\count175
-\c@subsubsection=\count176
-\c@paragraph=\count177
-\c@subparagraph=\count178
-\c@figure=\count179
-\c@table=\count180
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 227.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-01-09 L3 programming layer (loader) 
+Package: expl3 2022-01-21 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2020-01-29 L3 backend support: XeTeX
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count181
-\l__color_backend_stack_int=\count182
-\g__graphics_track_int=\count183
-\l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count184
-\g__pdf_backend_annotation_int=\count185
-\g__pdf_backend_link_int=\count186
+\c__kernel_sys_dvipdfmx_version_int=\count189
+\l__color_backend_stack_int=\count190
+\g__color_backend_stack_int=\count191
+\g__graphics_track_int=\count192
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count193
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
 ))
-Package: xparse 2020-10-27 L3 Experimental document command parser
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
-Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count187
-\l__fontspec_language_int=\count188
-\l__fontspec_strnum_int=\count189
-\l__fontspec_tmp_int=\count190
-\l__fontspec_tmpa_int=\count191
-\l__fontspec_tmpb_int=\count192
-\l__fontspec_tmpc_int=\count193
-\l__fontspec_em_int=\count194
-\l__fontspec_emdef_int=\count195
-\l__fontspec_strong_int=\count196
-\l__fontspec_strongdef_int=\count197
+\l__fontspec_script_int=\count196
+\l__fontspec_language_int=\count197
+\l__fontspec_strnum_int=\count198
+\l__fontspec_tmp_int=\count199
+\l__fontspec_tmpa_int=\count266
+\l__fontspec_tmpb_int=\count267
+\l__fontspec_tmpc_int=\count268
+\l__fontspec_em_int=\count269
+\l__fontspec_emdef_int=\count270
+\l__fontspec_strong_int=\count271
+\l__fontspec_strongdef_int=\count272
 \l__fontspec_tmpa_dim=\dimen139
 \l__fontspec_tmpb_dim=\dimen140
 \l__fontspec_tmpc_dim=\dimen141
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
@@ -105,11 +106,11 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks15
-\XKV@tempa@toks=\toks16
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count198
+\XKV@depth=\count273
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
@@ -240,168 +241,161 @@ LaTeX Info: Redefining \liningnums on input line 475.
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/LKey.tex))
 Requested font "Linux Biolinum O" at 9.99997pt
- -> ^^Ò@^^Þ^^^E
+ -> l~$b^^E
 Requested font "Linux Biolinum O/OT" at 10.00003pt
- -> ^^ë@^^Þ^^^E
+ -> ^^Ã~$b^^E
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^@^^Þ^^^E
+ -> ^^Þ~$b^^E
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> ^^"@^^Þ^^^E
+ -> ^^ù~$b^^E
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^"@^^Þ^^^E
+ -> ^^ù~$b^^E
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^WA^^Þ^^^E
+ -> ^^.~$b^^E
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^Ç^^2^^Ï^^ú^^,U
+ -> ^^ÞV^^%'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> 6A^^Þ^^^E
+ -> ^^M^^?$b^^E
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> QA^^Þ^^^E
+ -> )^^?$b^^E
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^$^^Ë^^ú^^,U
+ -> ^^Y^^ã^^%'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^Á^^ò^^È^^ú^^,U
+ -> ^^Y^^T^^%'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^Á^^ò^^È^^ú^^,U
+ -> ^^Y^^T^^%'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^Á^^ò^^È^^ú^^,U
+ -> ^^Y^^T^^%'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> !^^^^É^^ú^^,U
+ -> ^^^^Ú^^%'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> q^^Û^^É^^ú^^,U
+ -> I'^^%'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^!{^^É^^ú^^,U
+ -> ^^I^^^^%'V
 Requested font "Ubuntu" at 9.99997pt
- -> ^^E^^
-^^Æ^^ú^^,U
+ ->  {^^%'V
 Requested font "Ubuntu/OT" at 10.00003pt
- -> ^^(7^^Æ^^ú^^,U
+ -> P^^î^^%'V
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 10.00002pt
- -> '"^^Æ^^ú^^,U
+ -> ^^í^^þ^^%'V
 Requested font "Ubuntu/BI/OT:script=latn;language=dflt;" at 10.00002pt
- -> V4^^Æ^^ú^^,U
+ -> ,^^á^^%'V
 Requested font "Ubuntu/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> f'^^Æ^^ú^^,U
+ -> ^^<^^æ^^%'V
 Requested font "Ubuntu/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^^^P^^Æ^^ú^^,U
+ -> ^^<^^û^^%'V
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ÆA^^Þ^^^E
+ -> \^^?$b^^E
 Requested font "Ubuntu/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> MB^^Þ^^^E
+ -> %^^À$b^^E
 Requested font "Ubuntu/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^í^^/^^ø^^ú^^,U
+ -> ^^å^^é *'V
 Requested font "Ubuntu/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^ý^^Ì^^ø^^ú^^,U
+ -> e^^ *'V
 Requested font "Ubuntu/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> }^^^^ö^^ú^^,U
+ -> ^^%^^Ð"*'V
 Requested font "Ubuntu/BI/OT:script=latn;language=dflt;" at 10.00003pt
- -> =^^6^^ö^^ú^^,U
+ -> ^^å^^í"*'V
 Requested font "Ubuntu/BI/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^Í^^^^ô^^ú^^,U
+ -> 5^^Ä,*'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> ^^êB^^Þ^^^E
+ -> ^^Â^^À$b^^E
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> 
-^^5^^ô^^ú^^,U
+ -> 2^^ò,*'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> *^^î^^ô^^ú^^,U
+ -> ^^"^^',*'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> 
-^^5^^ô^^ú^^,U
+ -> 2^^ò,*'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^Zr^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> 
-^^5^^ô^^ú^^,U
+ -> 2^^ò,*'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> 
-^^5^^ô^^ú^^,U
+ -> 2^^ò,*'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> 
-^^5^^ô^^ú^^,U
+ -> 2^^ò,*'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> 
-^^5^^ô^^ú^^,U
+ -> 2^^ò,*'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00002pt
- -> z^^Ê^^õ^^ú^^,U
+ -> ^^B^^?-*'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/B/OT:script=latn;language=dflt;" at 10.00003pt
- -> *N^^ò^^ú^^,U
+ -> ^^Â|-*'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/I/OT:script=latn;language=dflt;" at 10.00003pt
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Biolinum O/BI/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^^^_^^õ^^ú^^,U
+ -> 2.,*'V
 Requested font "Linux Libertine O" at 9.99997pt
- -> i^^ù^^ò^^ú^^,U
+ -> ^^ä^^À$b^^E
 Requested font "Linux Libertine O/OT" at 10.00003pt
- -> ^^B^^Þ^^^E
+ -> ^^þ^^À$b^^E
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;" at 10.00002pt
- -> ^^FC^^Þ^^^E
+ -> ^^^^À$b^^E
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 10.00002
 pt
- -> $C^^Þ^^^E
+ -> ^^<^^À$b^^E
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> $C^^Þ^^^E
+ -> ^^<^^À$b^^E
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 10.00002p
 t
- -> $C^^Þ^^^E
+ -> ^^<^^À$b^^E
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;" at 10.00003pt
- -> $C^^Þ^^^E
+ -> ^^<^^À$b^^E
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^ÑC^^Þ^^^E
+ -> i^^Á$b^^E
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^Á^^;^^ä^^ú^^,U
+ -> ^^é^^ý<*'V
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^Á^^;^^ä^^ú^^,U
+ -> ^^é^^ý<*'V
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 10.00003p
 t
- -> ^^Ñ^^^^â^^ú^^,U
+ -> 9^^Ô>*'V
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 10.00003
 pt
- -> ^^Ñ^^^^â^^ú^^,U
+ -> 9^^Ô>*'V
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 10.00003
 pt
- -> qr^^à^^ú^^,U
+ -> i9?*'V
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 10.0pt
- -> 3;^^à^^ú^^,U
+ -> K^^??*'V
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
@@ -409,67 +403,67 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
 .tex)
 Requested font "FontAwesome" at 9.99997pt
- -> m^^×^^^^ú^^,U
+ -> ^^^^:*'V
 Requested font "FontAwesome/OT" at 10.00003pt
- -> ^^í^^0^^^^ú^^,U
+ -> ^^^^ú:*'V
 Requested font "FontAwesome/OT:language=dflt;" at 10.00002pt
- -> ^^ND^^Þ^^^E
+ -> ^^'^^Á$b^^E
 Requested font "FontAwesome/BI/OT:language=dflt;" at 10.00002pt
- -> ^^PD^^Þ^^^E
+ -> ^^(^^Á$b^^E
 Requested font "FontAwesome/B/OT:language=dflt;" at 10.00002pt
- -> ^^0]^^^^ú^^,U
+ -> x!:*'V
 Requested font "FontAwesome/I/OT:language=dflt;" at 10.00002pt
- -> ^^À]^^^^ú^^,U
+ -> ^^è!:*'V
 Requested font "FontAwesome/OT:language=dflt;" at 10.00003pt
- -> ^^Á]^^^^ú^^,U
+ -> ^^ê!:*'V
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluate
 x.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks17
+\pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen142
 \pgfutil@tempdimb=\dimen143
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box48
+\pgfutil@abb=\box51
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 107.
 )
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks18
-\pgfkeys@temptoks=\toks19
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks20
+\pgfkeys@tmptoks=\toks21
 ))
 \pgf@x=\dimen146
 \pgf@y=\dimen147
@@ -483,54 +477,54 @@ ex
 \pgf@yd=\dimen155
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count199
-\c@pgf@countb=\count266
-\c@pgf@countc=\count267
-\c@pgf@countd=\count268
-\t@pgf@toka=\toks21
-\t@pgf@tokb=\toks22
-\t@pgf@tokc=\toks23
-\pgf@sys@id@count=\count269
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count278
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-xetex.def
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
-File: pgfsys-xetex.def 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
 f
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )
-\pgfsys@objnum=\count270
+\pgfsys@objnum=\count279
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count271
-\pgfsyssoftpath@bigbuffer@items=\count272
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count280
+\pgfsyssoftpath@bigbuffer@items=\count281
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen156
-\pgfmath@count=\count273
-\pgfmath@box=\box49
-\pgfmath@toks=\toks24
-\pgfmath@stack@operand=\toks25
-\pgfmath@stack@operation=\toks26
+\pgfmath@count=\count282
+\pgfmath@box=\box52
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -550,12 +544,12 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count274
+\c@pgfmathroundto@lastzeros=\count283
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen157
 \pgf@picmaxx=\dimen158
 \pgf@picminy=\dimen159
@@ -573,117 +567,117 @@ File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen171
 \pgf@path@lasty=\dimen172
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen173
 \pgf@shorten@start@additional=\dimen174
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box50
-\pgf@hbox=\box51
-\pgf@layerbox@main=\box52
-\pgf@picture@serial@count=\count275
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count284
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen175
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen176
 \pgf@pt@y=\dimen177
 \pgf@pt@temp=\dimen178
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
 ex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
 .code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen179
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen180
-\pgf@sys@shading@range@num=\count276
-\pgf@shadingcount=\count277
+\pgf@sys@shading@range@num=\count285
+\pgf@shadingcount=\count286
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box53
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box56
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
 ode.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
 tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodeparttextbox=\box54
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box57
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
-Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen181
 \pgf@nodesepend=\dimen182
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
-Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen183
 \pgffor@skip=\dimen184
-\pgffor@stack=\toks27
-\pgffor@toks=\toks28
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
-File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count278
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count287
 \pgfplotmarksize=\dimen185
 )
 \tikz@lastx=\dimen186
@@ -694,29 +688,29 @@ File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \tikz@lastmovetoy=\dimen191
 \tikzleveldistance=\dimen192
 \tikzsiblingdistance=\dimen193
-\tikz@figbox=\box55
-\tikz@figbox@bg=\box56
-\tikz@tempbox=\box57
-\tikz@tempbox@bg=\box58
-\tikztreelevel=\count279
-\tikznumberofchildren=\count280
-\tikznumberofcurrentchild=\count281
-\tikz@fig@count=\count282
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count288
+\tikznumberofchildren=\count289
+\tikznumberofcurrentchild=\count290
+\tikz@fig@count=\count291
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count283
-\pgfmatrixcurrentcolumn=\count284
-\pgf@matrix@numberofcolumns=\count285
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count292
+\pgfmatrixcurrentcolumn=\count293
+\pgf@matrix@numberofcolumns=\count294
 )
-\tikz@expandcount=\count286
+\tikz@expandcount=\count295
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
@@ -729,17 +723,17 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count287
+\etb@tempcnta=\count296
 ))
-\c@colorCounter=\count288
+\c@colorCounter=\count297
 
 (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2020/09/26 v1.10
 
 Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
 Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box59
-\TP@holdbox=\box60
+\TP@textbox=\box62
+\TP@holdbox=\box63
 \TPHorizModule=\dimen194
 \TPVertModule=\dimen195
 \TP@margin=\dimen196
@@ -748,7 +742,7 @@ Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TPboxrulesize=\dimen198
 \TP@ox=\dimen199
 \TP@oy=\dimen256
-\TP@tbargs=\toks29
+\TP@tbargs=\toks30
 TextBlockOrigin set to 0pt x 0pt
 ) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -756,9 +750,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count289
-\Gm@cntv=\count290
-\c@Gm@tempcnt=\count291
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
 \Gm@bindingoffset=\dimen257
 \Gm@wd@mp=\dimen258
 \Gm@odd@mp=\dimen259
@@ -767,10 +761,10 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen262
 \Gm@layouthoffset=\dimen263
 \Gm@layoutvoffset=\dimen264
-\Gm@dimlist=\toks30
+\Gm@dimlist=\toks31
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -799,11 +793,15 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen265
-\Hy@linkcounter=\count292
-\Hy@pagecounter=\count293
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
 )
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -811,21 +809,25 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count294
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+\Hy@SavedSpaceFactor=\count303
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count295
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count304
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5076.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen266
 Requested font "pzdr" at 0.00002pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
@@ -837,52 +839,48 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count296
+\Fld@menulength=\count305
 \Field@Width=\dimen267
 \Fld@charsize=\dimen268
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring OFF on input line 6367.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count297
-\c@Item=\count298
-\c@Hfootnote=\count299
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
-)
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box61
-\c@Hy@AnnotLevel=\count300
-\HyField@AnnotCount=\count301
-\Fld@listcount=\count302
-\c@bookmark@seq@number=\count303
+\pdfm@box=\box64
+\c@Hy@AnnotLevel=\count309
+\HyField@AnnotCount=\count310
+\Fld@listcount=\count311
+\c@bookmark@seq@number=\count312
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
 (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -894,31 +892,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip49
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count304
-\mult@box=\box62
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count313
+\mult@box=\box65
 \multicol@leftmargin=\dimen269
-\c@unbalance=\count305
-\c@collectmore=\count306
-\doublecol@number=\count307
-\multicoltolerance=\count308
-\multicolpretolerance=\count309
+\c@unbalance=\count314
+\c@collectmore=\count315
+\doublecol@number=\count316
+\multicoltolerance=\count317
+\multicolpretolerance=\count318
 \full@width=\dimen270
 \page@free=\dimen271
 \premulticols=\dimen272
 \postmulticols=\dimen273
 \multicolsep=\skip50
 \multicolbaselineskip=\skip51
-\partial@page=\box63
-\last@line=\box64
+\partial@page=\box66
+\last@line=\box67
 \maxbalancingoverflow=\dimen274
-\mult@rightbox=\box65
-\mult@grightbox=\box66
-\mult@gfirstbox=\box67
-\mult@firstbox=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
+\mult@rightbox=\box68
+\mult@grightbox=\box69
+\mult@firstbox=\box70
+\mult@gfirstbox=\box71
 \@tempa=\box72
 \@tempa=\box73
 \@tempa=\box74
@@ -953,15 +948,17 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box103
 \@tempa=\box104
 \@tempa=\box105
-\c@minrows=\count310
-\c@columnbadness=\count311
-\c@finalcolumnbadness=\count312
+\@tempa=\box106
+\@tempa=\box107
+\c@minrows=\count319
+\c@columnbadness=\count320
+\c@finalcolumnbadness=\count321
 \last@try=\dimen275
 \multicolovershoot=\dimen276
 \multicolundershoot=\dimen277
-\mult@nat@firstbox=\box106
-\colbreak@box=\box107
-\mc@col@check@num=\count313
+\mult@nat@firstbox=\box108
+\colbreak@box=\box109
+\mc@col@check@num=\count322
 ) (./DallasCV.aux)
 \openout1 = `DallasCV.aux'.
 
@@ -1092,7 +1089,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 Package hyperref Info: Link coloring OFF on input line 12.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -1100,7 +1097,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count314
+\c@section@level=\count323
 )
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
@@ -1114,11 +1111,11 @@ LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(1)/m/n' will be
 (Font)              scaled to size 16.80017pt on input line 14.
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;color=1564B2FF ;"
  at 16.80017pt
- -> ^^a^^^^ú^^,U
+ -> ]e^^D*'V
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 28.0pt
- -> ^^D^^Þ^^^E
+ -> ^^ë^^Â$b^^E
 Requested font "Ubuntu/OT:script=latn;language=dflt;" at 16.0pt
- -> ^^+D^^Þ^^^E
+ -> ^^^^Â$b^^E
 
 
 ! LaTeX Error: There's no line here to end.
@@ -1134,75 +1131,74 @@ File: dallasLab2.pdf Graphic file (type pdf)
 <use dallasLab2.pdf>
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 14.4pt
- -> ^^V'^^^^ú^^,U
+ -> P^^Â^^T*'V
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 14.4pt
- -> GE^^Þ^^^E
+ -> !^^Ã$b^^E
 Requested font "FontAwesome/OT:language=dflt;mapping=tex-text;" at 10.0pt
- -> ^^,^^^^ú^^,U
+ -> B^^Ä^^P*'V
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;color=2B6C14FF ;"
  at 10.0pt
- -> #h^^^^ú^^,U
+ -> ^^ìD^^W*'V
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 7.0pt
- -> e^^Í^^^^ú^^,U
+ -> ^^p^^W*'V
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 5.0pt
- -> ^^ìE^^Þ^^^E
+ -> ^^Æ^^Ã$b^^E
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 42.
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 17.28pt
- -> >^^ä^^^^ú^^,U
+ -> ^^)^^M^^^*'V
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 17.28pt
- -> ^^/E^^Þ^^^E
+ -> ^^	^^Ã$b^^E
 Requested font "FontAwesome/OT:language=dflt;mapping=tex-text;" at 17.28pt
- -> 
-F^^Þ^^^E
+ -> ^^$^^Ã$b^^E
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;" at 10.0pt
- -> ^^E^^Þ^^^E
+ -> ^^ç^^Ã$b^^E
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=4D4D4DFF ;" at 8.0pt
- -> +F^^Þ^^^E
+ -> ^^E^^Ä$b^^E
 Requested font "Linux Libertine O" at 7.99997pt
- -> NF^^Þ^^^E
+ -> (^^Ä$b^^E
 Requested font "Linux Libertine O/OT" at 8.00003pt
- -> mF^^Þ^^^E
+ -> G^^Ä$b^^E
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;" at 8.00002pt
- -> ^^ÌF^^Þ^^^E
+ -> f^^Ä$b^^E
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 8.00002p
 t
- -> ^^ëF^^Þ^^^E
+ -> ^^Å^^Ä$b^^E
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 8.00002pt
- -> ^^ëF^^Þ^^^E
+ -> ^^Å^^Ä$b^^E
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 8.00002pt
- -> ^^ëF^^Þ^^^E
+ -> ^^Å^^Ä$b^^E
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;" at 8.00003pt
- -> ^^ëF^^Þ^^^E
+ -> ^^Å^^Ä$b^^E
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 8.00003pt
- -> ^^XG^^Þ^^^E
+ -> ^^2^^Ä$b^^E
 Requested font "Linux Libertine O/B/OT:script=latn;language=dflt;" at 8.00003pt
- -> Xa^^-^^ú^^,U
+ -> "@t*'V
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 8.00003pt
- -> Xa^^-^^ú^^,U
+ -> "@t*'V
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;" at 8.00003pt
- -> ^^ø^^ø^^*^^ú^^,U
+ -> "^^[v*'V
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 8.00003p
 t
- -> ^^ø^^ø^^*^^ú^^,U
+ -> "^^[v*'V
 Requested font "Linux Libertine O/BI/OT:script=latn;language=dflt;" at 8.00003p
 t
- -> ^^Ø^^%^^(^^ú^^,U
+ -> r^^p*'V
 Requested font "Linux Libertine O/OT:script=latn;language=dflt;mapping=tex-text
 ;color=999999FF ;" at 8.0pt
- -> ^^Z^^î^^(^^ú^^,U
+ -> 4^^Lp*'V
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;mapping=tex-te
 xt;color=999999FF ;" at 8.0pt
- -> ^^ÍG^^Þ^^^E
+ -> f^^Å$b^^E
 Requested font "Linux Libertine O/I/OT:script=latn;language=dflt;mapping=tex-te
 xt;color=4D4D4DFF ;" at 10.0pt
- -> ^^éG^^Þ^^^E
+ -> ^^Ä^^Å$b^^E
 
 Underfull \hbox (badness 10000) in paragraph at lines 56--115
 
@@ -1215,49 +1211,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--144
 
 Requested font "Linux Biolinum O/OT:script=latn;language=dflt;color=1564B2FF ;"
  at 10.0pt
- -> ^^^^Ñ^^"^^ú^^,U
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
-
-)
+ -> G^^d*'V
 [1
 
 ]
-Overfull \hbox (23.42392pt too wide) in paragraph at lines 180--181
+Overfull \hbox (23.42392pt too wide) in paragraph at lines 184--185
 \TU/LinuxLibertineO(0)/m/n/10 istic interactions under two antagonistic conserv
 ation scenarios. \TU/LinuxLibertineO(0)/m/it/10 Biotropica\TU/LinuxLibertineO(0
 )/m/n/10 . doi: 10.1111/btp.13065 
  []
 
 
-Overfull \hbox (8.01064pt too wide) in paragraph at lines 186--187
+Overfull \hbox (8.01064pt too wide) in paragraph at lines 190--191
 \TU/LinuxLibertineO(0)/m/n/10 tionships across taxa, space, and time. \TU/Linux
 LibertineO(0)/m/it/10 Global Ecology and Biogeography\TU/LinuxLibertineO(0)/m/n
 /10 . doi: 10.1111/geb.13472 
  []
 
 [2]
-Overfull \hbox (0.6906pt too wide) in paragraph at lines 266--267
+Overfull \hbox (0.6906pt too wide) in paragraph at lines 270--271
 \TU/LinuxLibertineO(0)/m/n/10 simple model of pathogen biogeography. \TU/LinuxL
 ibertineO(0)/m/it/10 Royal Society Open Science\TU/LinuxLibertineO(0)/m/n/10 . 
 doi: 10.1098/rsos.190883 
  []
 
-
-Overfull \hbox (0.9184pt too wide) in paragraph at lines 274--275
+[3]
+Overfull \hbox (0.9184pt too wide) in paragraph at lines 278--279
 \TU/LinuxLibertineO(0)/m/n/10 tion about bird condition during fall migration? 
 \TU/LinuxLibertineO(0)/m/it/10 Wilson Journal of Ornithology \TU/LinuxLibertine
 O(0)/m/n/10 doi:10.1676/18-
  []
 
-[3]
-Overfull \hbox (11.85814pt too wide) in paragraph at lines 299--300
+
+Overfull \hbox (11.85814pt too wide) in paragraph at lines 303--304
 \TU/LinuxLibertineO(0)/m/n/10 R Poulin, CL Nunn, and TJ Davies. 2018. Character
 izing the phylogenetic specialism-generalism
  []
 
 [4]
-Overfull \hbox (16.45065pt too wide) in paragraph at lines 337--338
+Overfull \hbox (16.45065pt too wide) in paragraph at lines 341--342
 \TU/LinuxLibertineO(0)/m/n/10 transmission in a \TU/LinuxLibertineO(0)/m/it/10 
 Daphnia\TU/LinuxLibertineO(0)/m/n/10 -pathogen system. \TU/LinuxLibertineO(0)/m
 /it/10 Ecology and Evolution \TU/LinuxLibertineO(0)/m/n/10 00: 1-8. doi:10.1002
@@ -1265,217 +1257,227 @@ Daphnia\TU/LinuxLibertineO(0)/m/n/10 -pathogen system. \TU/LinuxLibertineO(0)/m
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--414
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--424
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--426
+Underfull \hbox (badness 10000) in paragraph at lines 402--430
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--510
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 492--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--536
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 541--541
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--546
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 559--559
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--553
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--608
+Underfull \hbox (badness 10000) in paragraph at lines 537--566
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 613--613
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--618
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 623--623
+Underfull \hbox (badness 10000) in paragraph at lines 631--631
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--630
+Underfull \hbox (badness 10000) in paragraph at lines 636--636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--643
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 714--714
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--724
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 729--729
+Underfull \hbox (badness 10000) in paragraph at lines 745--745
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
+Underfull \hbox (badness 10000) in paragraph at lines 750--750
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 708--736
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 795--804
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 823--823
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 828--828
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 833--833
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 838--838
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 817--840
+Underfull \hbox (badness 10000) in paragraph at lines 724--752
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 862--862
+Underfull \hbox (badness 10000) in paragraph at lines 816--816
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 867--867
+Underfull \hbox (badness 10000) in paragraph at lines 822--822
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 872--872
+Underfull \hbox (badness 10000) in paragraph at lines 811--824
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 877--877
+Underfull \hbox (badness 10000) in paragraph at lines 855--855
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 882--882
+Underfull \hbox (badness 10000) in paragraph at lines 860--860
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 887--887
+Underfull \hbox (badness 10000) in paragraph at lines 865--865
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 892--892
+Underfull \hbox (badness 10000) in paragraph at lines 870--870
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 897--897
+Underfull \hbox (badness 10000) in paragraph at lines 837--872
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 856--899
+Underfull \hbox (badness 10000) in paragraph at lines 894--894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 899--899
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--904
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 919--919
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--929
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--931
 
  []
 
@@ -1485,15 +1487,15 @@ Package rerunfilecheck Info: File `DallasCV.out' has not changed.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 739 ({)
+### simple group (level 1) entered at line 755 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33359 strings out of 479212
- 686336 string characters out of 5875087
- 917276 words of memory out of 5000000
- 52431 multiletter control sequences out of 15000+600000
- 405633 words of font info for 123 fonts, out of 8000000 for 9000
+ 33625 strings out of 478190
+ 707664 string characters out of 5854828
+ 929359 words of memory out of 5000000
+ 53725 multiletter control sequences out of 15000+600000
+ 471462 words of font info for 124 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 128i,9n,138p,632b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,9n,126p,632b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on DallasCV.pdf (9 pages).
