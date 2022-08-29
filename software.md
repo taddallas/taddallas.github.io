@@ -23,6 +23,8 @@ title: Software
 <img src ="../resources/metacom.png" width="150" align="middle"> 
 <br/>
 <a href="https://github.com/taddallas/metacom"><i style="color:Black" class="fab fa-2x fa-github"></i></a>
+<a href="https://cran.r-project.org/web/packages/metacom/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
+
 <br/>
 [![Build Status](https://travis-ci.org/taddallas/metacom.png?branch=master)](https://travis-ci.org/taddallas/metacom)
 <br/>
@@ -44,6 +46,7 @@ If you find a bug, please [report it](https://github.com/taddallas/metacom/issue
 <img src ="../resources/helminthR.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/ropensci/helminthR"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
+<a href="https://cran.r-project.org/web/packages/helminthR/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
 <br/>
 [![Build Status](https://travis-ci.org/ropensci/helminthR.svg?branch=master)](https://travis-ci.org/ropensci/helminthR)
 <br/>
@@ -65,6 +68,7 @@ If you find a bug, please [report it](https://github.com/ropensci/helminthR/issu
 <img src ="../resources/insectDisease.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/viralemergence/insectDisease"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
+<a href="https://cran.r-project.org/web/packages/insectDisease/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
 <br/>
 [![R build status](https://github.com/viralemergence/insectDisease/workflows/R-CMD-check/badge.svg)](https://github.com/viralemergence/insectDisease/actions)
 <br/>
@@ -86,6 +90,7 @@ If you find a bug, please [report it](https://github.com/viralemergence/insectDi
 <img src ="../resources/hmsc.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/hmsc-r/hmsc"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
+<a href="https://cran.r-project.org/web/packages/Hmsc/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
 <br/>
 [![Build Status](https://travis-ci.org/hmsc-r/HMSC.svg?branch=master)](https://travis-ci.org/hmsc-r/HMSC)
 <br/>

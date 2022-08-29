@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="181px"
    height="209px"
    viewBox="0 0 181 209"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="insectDisease.svg"
-   inkscape:export-filename="/media/tad/HUTCH/taddallas.github.io/resources/helminthR.svg.png"
+   inkscape:export-filename="/media/tad/sanDisk1TB/Web/taddallas.github.io/resources/insectDisease.png"
    inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800">
+   inkscape:export-ydpi="800"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,17 +26,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="962"
-     inkscape:window-height="1022"
+     inkscape:window-width="958"
+     inkscape:window-height="1023"
      id="namedview28"
      showgrid="false"
      inkscape:zoom="1.596911"
-     inkscape:cx="163.30845"
-     inkscape:cy="-23.241118"
+     inkscape:cx="-25.987672"
+     inkscape:cy="-23.169732"
      inkscape:window-x="1920"
-     inkscape:window-y="20"
+     inkscape:window-y="19"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Group-2" />
+     inkscape:current-layer="Group-2"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -120,6 +121,17 @@
                style="fill:#aaeeff;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
+        <text
+           xml:space="preserve"
+           style="font-size:22.4967px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:1.05453"
+           x="16.106182"
+           y="67.160568"
+           id="text2155"><tspan
+             sodipodi:role="line"
+             id="tspan2153"
+             x="16.106182"
+             y="67.160568"
+             style="font-size:22.4967px;fill:#000000;stroke-width:1.05453">insectDisease</tspan></text>
       </g>
     </g>
   </g>

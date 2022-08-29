@@ -1,3 +1,20 @@
+- name: "Robert Richards"
+  title: "postdoctoral researcher"
+  picture: robbie.jpg
+  bio: "Robbie has a PhD in Ecology and is a population/community ecologist interested in parasite-host interactions."
+  labels:
+    - type: github
+      github: https://github.com/rlrichards
+    - type: twitter
+      twitter:  https://twitter.com/robbielrichards
+    - type: website
+      website: https://rlrichards.github.io/
+    - type: orcid
+      orcid: https://orcid.org/0000-0003-4131-2732
+    - type: email
+      email: "mailto:robbie@lsu.edu"
+
+
 - name: "Daniel Vilchez"
   title: "researcher"
   picture: daniel.png
@@ -32,4 +49,5 @@
   labels:
     - type: email
       email: "mailto:jbraxt3@lsu.edu"
+
 
