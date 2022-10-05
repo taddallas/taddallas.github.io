@@ -1,3 +1,64 @@
+
+
+
+
+- title: "A latitudinal signal in the relationship between species geographic range size and climatic niche area"
+  key: rangeNiche
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: D Kramer
+  date: 2022
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 10.1111/ecog.06349
+    - type: data
+      data: https://figshare.com/articles/dataset/Code_and_data_for_A_latitudinal_signal_in_the_relationship_between_species_geographic_range_size_and_climatic_niche_area_/7964666
+
+
+- title: "Estimating R0 from early exponential growth: Parallels between 1918 influenza and 2020 SARS-CoV-2 pandemics "
+  key: revisit1918
+  authors:
+    - name: G Foster
+    - name: BD Elderd
+    - name: RL Richards
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: PNAS Nexus
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 10.1093/pnasnexus/pgac194
+    - type: data
+      data: https://github.com/viralemergence/insectDisease
+
+
+- title: "insectDisease: programmatic access to the Ecological Database of the World's Insect Pathogens"
+  key: insectDisease
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: C Carlson
+    - name: P Stephens
+    - name: SJ Ryan
+    - name: D Onstad    
+  date: 2022
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi: 10.1111/ecog.06152
+    - type: data
+      data: https://github.com/viralemergence/insectDisease
+
+
+
 - title: "Comparing Waves of COVID-19 in the US: Scale of response changes over time"
   key: waveComparison
   authors:
@@ -17,48 +78,6 @@
       preprint: https://www.medrxiv.org/content/10.1101/2022.03.01.22271713v1.full-text
     - type: data
       data: https://doi.org/10.6084/m9.figshare.19285379
-
-
-
-
-- title: "Effects of occupancy estimation on abundance-occupancy relationships"
-  key: neonRange  
-  authors:
-    - name: C Ten Caten
-    - name: L Holian
-    - name: T Dallas
-      type: pi
-  date: 2022
-  journal: Biology Letters
-  labels:
-    - type: pdf
-      pdf: tencaten2022b.pdf
-    - type: doi
-      doi: 10.1098/rsbl.2022.0137
-    - type: data
-      data: https://doi.org/10.6084/m9.figshare.19323644
-
-
-
-- title: "insectDisease: programmatic access to the Ecological Database of the World's Insect Pathogens"
-  key: insectDisease
-  authors:
-    - name: T Dallas
-      type: pi
-    - name: C Carlson
-    - name: P Stephens
-    - name: SJ Ryan
-    - name: D Onstad    
-  date: 2022
-  journal: Ecography
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi: 
-    - type: data
-      data: 
-
 
 
 
