@@ -65,6 +65,14 @@
       email: "mailto:averma5@lsu.edu"
 
 
+- name: "Hilde Tollefsen"
+  title: "undergraduate researcher"
+  picture: .png
+  bio: "Hilde is an undergraduate researcher interested in insect ecology, movement, and life history variation."
+  labels:
+    - type: email
+      email: "mailto:tollefsh@email.sc.edu"
+
 
 
 

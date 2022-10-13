@@ -1,3 +1,20 @@
+- title: "Estimating R0 from early exponential growth: Parallels between 1918 influenza and 2020 SARS-CoV-2 pandemics"
+  key: revisit1918
+  authors:
+    - name: G Foster
+    - name: BD Elderd
+    - name: RL Richards
+    - name: T Dallas
+      type: pi
+  date: 2022
+  journal: PNAS Nexus
+  labels:
+    - type: pdf
+      pdf: foster2022.pdf
+    - type: doi
+      doi: 10.1093/pnasnexus/pgac194
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.19763074.v2
 
 - title: "Effects of occupancy estimation on abundance-occupancy relationships"
   key: neonRange  
