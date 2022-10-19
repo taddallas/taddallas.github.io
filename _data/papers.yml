@@ -1,3 +1,23 @@
+
+- title: "A latitudinal signal in the relationship between species geographic range size and climatic niche area"
+  key: rangeNiche
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: D Kramer
+  date: 2022
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: dallas2022Ecog.pdf
+    - type: doi
+      doi: 10.1111/ecog.06349
+    - type: preprint
+      preprint: https://doi.org/10.22541/au.162816719.91311556/v1
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.7964666.v3
+
+      
 - title: "Estimating R0 from early exponential growth: Parallels between 1918 influenza and 2020 SARS-CoV-2 pandemics"
   key: revisit1918
   authors:
@@ -15,6 +35,25 @@
       doi: 10.1093/pnasnexus/pgac194
     - type: data
       data: https://doi.org/10.6084/m9.figshare.19763074.v2
+
+
+- title: "Epidemic time series similarity is related to geographic distance and age structure"
+  key: dallas2022idm
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: G Foster
+    - name: RL Richards
+    - name: BD Elderd
+  date: 2022
+  journal: Infectious Disease Modeling
+  labels:
+    - type: pdf
+      pdf: dallas2022idm.pdf
+    - type: doi
+      doi: 10.1016/j.idm.2022.09.002
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.19782406.v1
 
 - title: "Effects of occupancy estimation on abundance-occupancy relationships"
   key: neonRange  
