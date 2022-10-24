@@ -1,4 +1,26 @@
 
+- title: "insectDisease: programmatic access to the Ecological Database of the World's Insect Pathogens"
+  key: insectDisease
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: C Carlson
+    - name: P Stephens
+    - name: SJ Ryan
+    - name: D Onstad    
+  date: 2022
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: insectDisease.pdf
+    - type: doi
+      doi: 10.1111/ecog.06152
+    - type: preprint
+      preprint: https://ecoevorxiv.org/yd3x5/
+    - type: data
+      data: https://github.com/viralemergence/insectDisease
+
+
 - title: "A latitudinal signal in the relationship between species geographic range size and climatic niche area"
   key: rangeNiche
   authors:
