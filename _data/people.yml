@@ -15,14 +15,13 @@
     - type: figshare
       figshare: https://figshare.com/authors/Tad_Dallas/2585290
     - type: publons
-      publons: https://publons.com/researcher/904038/tad-dallas/
+      publons: https://www.webofscience.com/wos/author/record/33218188
     - type: orcid
       orcid: https://orcid.org/0000-0003-3328-9958
 
 
-
 - name: "Grant Foster"
-  title: "doctoral student"
+  title: "doctoral researcher"
   picture: grant.jpg
   bio: "Grant recently finished undergraduate degrees studying ecology and biology, and is interested in ways ecological and phylogenetic relationships within natural communities can affect patterns of multi-host parasite infection."
   labels:
@@ -33,7 +32,7 @@
 
 
 - name: "Lauren Holian"
-  title: "doctoral student"
+  title: "doctoral researcher"
   picture: lauren.jpg
   bio: "Lauren has a MSc in zoology and is interested in how eco-evolutionary drivers shape macroecological patterns and disease outcomes."
   labels:
@@ -46,7 +45,7 @@
 
 
 - name: "Cleber Ten Caten"
-  title: "doctoral student"
+  title: "doctoral researcher"
   picture: cleber.jpg
   bio: "Cleber has a MSc in ecology and evolution and is interested in macroecology, biogeography and community ecology."
   labels:
@@ -54,6 +53,9 @@
       github: https://github.com/ctencaten
     - type: email
       email: "mailto:clebertencaten@gmail.com"
+
+
+
 
 
 - name: "Anandita Verma"
@@ -65,17 +67,32 @@
       email: "mailto:averma5@lsu.edu"
 
 
+
 - name: "Hilde Tollefsen"
   title: "undergraduate researcher"
-  picture: .png
+  picture: user.png
   bio: "Hilde is an undergraduate researcher interested in insect ecology, movement, and life history variation."
   labels:
     - type: email
       email: "mailto:tollefsh@email.sc.edu"
 
 
+- name: "Sayi Saran Sathish Kumar"
+  title: "undergraduate researcher"
+  picture: sayi.jpg
+  bio: "Sayi is an undergraduate pre-med student majoring in biological sciences interested in yeast community assembly and dynamics."
+  labels:
+    - type: email
+      email: "mailto:sathishs@email.sc.edu"
 
 
+- name: "Nabeeha Baig"
+  title: "undergraduate researcher"
+  picture: nabeeha.png
+  bio: "Nabeeha is an undergraduate public health major on the pre-med track. She is interested in infectious diseases and how pathogens affect ecosystems and their way of life."
+  labels:
+    - type: email
+      email: "mailto:nbaig@email.sc.edu"
 
 
 

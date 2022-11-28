@@ -1,4 +1,18 @@
-- title: "Biological data science"
+- title: "Theoretical ecology"
+  key: uscTheory
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2023-
+  journal: course taught at U of South Carolina 
+  labels:
+    - type: doi
+      doi: https://theoretical-ecology.github.io/
+    - type: code
+      code: https://github.com/theoretical-ecology/
+
+
+- title: "Reproducible research"
   key: uscRepro
   authors:
     - name: T Dallas
