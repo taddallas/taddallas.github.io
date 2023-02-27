@@ -1,3 +1,5 @@
 _site/
 .sass-cache/*
 resources/CV/refLetters.csv
+resources/CV/data
+

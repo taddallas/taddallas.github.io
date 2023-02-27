@@ -6,7 +6,7 @@
     - name: BD Elderd
     - name: T Dallas
       type: pi
-  date: 2022
+  date: 2023
   journal: 
   labels:
     - type: pdf
@@ -20,12 +20,19 @@
 
 
 
+
+
+
+
+
+
+
 - title: "The NEON Ecological Forecasting Challenge"
   key: eco4cast
   authors:
     - name: RQ Thomas
     - name: et al.
-  date: 2022
+  date: 2023
   journal: 
   labels:
     - type: pdf
@@ -36,4 +43,106 @@
       preprint: https://www.authorea.com/users/546171/articles/611488-the-neon-ecological-forecasting-challenge?commit=db101fa9cc1545051de6116eaf77c443e0646a69
     - type: data
       data: http://www.neon4cast.org/
+
+
+- title: "Mean-variance scaling and stability in commercial sex work networks"
+  key: swModScaling
+  authors:
+    - name: Tad Dallas
+      type: pi
+    - name: Bret Elderd
+  date: 2023
+  journal: Social Network Analysis and Mining
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+
+
+
+- title: ""
+  key: neonVar
+  authors:
+    - name: 
+    - name: 
+  date: 2023
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+- title: ""
+  key: spectralSpread
+  authors:
+    - name: 
+    - name: 
+  date: 2022
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+
+
+- title: ""
+  key: neonTime
+  authors:
+    - name: 
+    - name: 
+  date: 2022
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+
+- title: "Thinning presence points does not improve species distribution model performance"
+  key: sdmThin
+  authors:
+    - name: Cleber Ten Caten
+    - name: Tad Dallas
+      type: pi
+  date: 2022
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+
+
+
+- title: ""
+  key: neonRicker
+  authors:
+    - name: 
+    - name: 
+  date: 2022
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
 

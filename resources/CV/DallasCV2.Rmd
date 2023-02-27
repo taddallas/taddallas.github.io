@@ -1,0 +1,182 @@
+---
+title: "Tad Dallas"
+author: 
+includes:
+  in_header:
+    - \usepackage{lmodern}
+output:
+  pdf_document:
+    fig_caption: yes
+  html_document:
+    fig_caption: yes
+    highlight: tango
+    theme: journal    
+---
+
+```{r, include=FALSE, echo=FALSE, message=FALSE}
+
+library(knitr)
+library(rmarkdown)
+
+```
+
+### About 
+Assistant professor, University of South Carolina, Biological Sciences \\
+
+| -- | -- | 
+| email | tad.a.dallas@gmail.com |
+| website | taddallas.github.io | 
+| github  | taddallas | 
+
+
+
+
+### Experience 
+
+
+\begin{itemize}[label={\quad 9999--9999:}, leftmargin=*, itemsep=0pt]
+
+\item[2022--present:] \textbf{Assistant Professor}, \textit{Department of Biological Sciences}, University of South Carolina, Columbia, SC
+
+\item[2019--2021:] \textbf{Assistant Professor}, \textit{Department of Biological Sciences}, Louisiana State University, Baton Rouge, LA
+
+\item[2018] \textbf{Visiting Researcher}, \textit{Department of Mathematics}, International University of Rijeka
+
+\item[2015:] \textbf{Analytics intern}, HP Vertica - Big Data Platform Dev Team. Boston, MA. 
+
+\end{itemize}
+
+
+
+
+### Education 
+
+\begin{tabular}{cccc}
+  Institution & Location & Degree or Position & Completion Date   \\
+  \hline
+  Truman State University & Kirksville, MO. & Biology. B.Sc. & 2009 \\
+  Truman State University & Kirksville, MO. & Biology. M.Sc. & 2010 \\
+  University of Georgia & Athens, GA & Ecology Ph.D & 2016\\
+  University of California & Davis & Postdoctoral Researcher & 2018\\
+  University of Helsinki & Finland & Postdoctoral Researcher & 2019 \\
+  \hline
+\end{tabular}
+
+
+
+
+
+
+### Publications 
+
+Ugh this is dumb!
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+readyaml 
+
+```
+
+
+
+
+
+
+
+
+### Software 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+software <- read.csv('data/software.csv')
+
+```
+
+
+
+
+### Presentations 
+
+
+```{r echo=FALSE, results='asis', message=FALSE}
+prez <- read.csv('data/presentations.csv')
+
+```
+
+
+
+
+
+
+### Teaching 
+
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+teaching <- read.csv('data/teaching.csv')
+
+
+```
+
+
+
+
+
+
+
+### Funding 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+funding <- read.csv('data/grants.csv')
+
+```
+
+
+
+
+
+## Service
+
+### Academic service 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+service <- read.csv('data/service.csv')
+
+```
+
+### Community engagement 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+community <- read.csv('data/community.csv')
+
+```
+
+
+
+
+### Mentoring 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+mentoring <- read.csv('data/mentoring.csv')
+
+```
+
+
+
+
+
+
+
+
+
+### Awards 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+awards <- read.csv('data/awards.csv')
+
+```
+
+
+

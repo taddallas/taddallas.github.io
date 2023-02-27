@@ -1,3 +1,20 @@
+- title: "Vector communities under global change may exacerbate and redistribute infectious disease risk"
+  key: park2023
+  authors:
+    - name: CA Cleveland
+    - name: T Dallas
+      type: pi
+    - name: S Vigil
+    - name: DG Mead
+    - name: JL Corn
+    - name: AW Park
+  date: 2023
+  journal: Parasitology Research
+  labels:
+    - type: pdf
+      pdf: park2023.pdf
+    - type: doi
+      doi: 10.1007/s00436-023-07799-2
 
 - title: "insectDisease: programmatic access to the Ecological Database of the World's Insect Pathogens"
   key: insectDisease
