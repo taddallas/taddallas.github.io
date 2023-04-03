@@ -3,8 +3,6 @@ layout: page
 title: Software
 ---
 
-
-
 <style>
     .pure-g > div {
         -webkit-box-sizing: border-box;
@@ -90,8 +88,6 @@ If you find a bug, please [report it](https://github.com/viralemergence/insectDi
 <br/>
 <a href="https://github.com/hmsc-r/hmsc"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/Hmsc/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
-<br/>
-[![R build status](https://github.com/hmsc-r/hmsc/workflows/R-CMD-check/badge.svg)](https://github.com/hmsc-r/hmsc/actions)
 <br/>
 [![Downloads](http://cranlogs.r-pkg.org/badges/Hmsc)](http://cranlogs.r-pkg.org/badges/Hmsc)
 <br/>
