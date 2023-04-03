@@ -1,3 +1,19 @@
+- title: "Mean-variance scaling and stability in commercial sex work networks"
+  key: swModScaling
+  authors:
+    - name: Tad Dallas
+      type: pi
+    - name: Bret Elderd
+  date: 2023
+  journal: Social Network Analysis and Mining
+  labels:
+    - type: pdf
+      pdf: dallas2023swNet.pdf
+    - type: doi
+      doi:  10.1007/s13278-023-01071-2
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.14186663.v1
+
 - title: "Vector communities under global change may exacerbate and redistribute infectious disease risk"
   key: park2023
   authors:

@@ -9,7 +9,7 @@
     - type: github
       github: https://github.com/taddallas
     - type: cv
-      cv: ../resources/CV/DallasCV.pdf
+      cv: ../resources/CV/DallasCV2.pdf
     - type: email
       email: "mailto:tdallas@mailbox.sc.edu"
     - type: figshare
@@ -56,8 +56,6 @@
 
 
 
-
-
 - name: "Anandita Verma"
   title: "undergraduate researcher"
   picture: anandita.png
@@ -65,6 +63,7 @@
   labels:
     - type: email
       email: "mailto:averma5@lsu.edu"
+
 
 - name: "Hilde Tollefsen"
   title: "undergraduate researcher"
@@ -105,8 +104,8 @@
 
 - name: "Bailey Kane"
   title: "undergraduate researcher"
-  picture: user.png
-  bio: ""
+  picture: bailey.jpg
+  bio: "Bailey is an undergraduate biological sciences major with a minor in chemistry who is interested in infectious diseases and their effects on populations."
   labels:
     - type: email
       email: "mailto:blkane@email.sc.edu"

@@ -2,4 +2,9 @@ _site/
 .sass-cache/*
 resources/CV/refLetters.csv
 resources/CV/data
+resources/CV/DallasCV2.tex
+resources/CV/old/
+resources/CV/modern*
+resources/CV/fonts
+_data/almostPapers.yml
 

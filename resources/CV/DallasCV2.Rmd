@@ -1,79 +1,81 @@
 ---
-title: "Tad Dallas"
-author: 
-includes:
-  in_header:
-    - \usepackage{lmodern}
+name: "Tad Dallas"
+position: "Assistant professor, U of South Carolina, Biological Sciences"
+www: taddallas.github.io
+email: "tad.a.dallas@gmail.com"
+github: taddallas
 output:
-  pdf_document:
-    fig_caption: yes
-  html_document:
-    fig_caption: yes
-    highlight: tango
-    theme: journal    
+  vitae::moderncv
 ---
 
-```{r, include=FALSE, echo=FALSE, message=FALSE}
 
+```{r, include=FALSE, echo=FALSE, message=FALSE}
 library(knitr)
 library(rmarkdown)
-
+library(vitae)
 ```
 
-### About 
-Assistant professor, University of South Carolina, Biological Sciences \\
+\vspace{-1cm} 
 
-| -- | -- | 
-| email | tad.a.dallas@gmail.com |
-| website | taddallas.github.io | 
-| github  | taddallas | 
+# Experience 
 
+\begin{itemize}
 
+\item [2022-- :] \textbf{Assistant Professor}, \textit{Dept of Biological Sciences}, University of South Carolina, Columbia, SC
 
+\item [2019--2021:] \textbf{Assistant Professor}, \textit{Dept of Biological Sciences}, Louisiana State University, Baton Rouge, LA
 
-### Experience 
+\item [2018] \textbf{Visiting Researcher}, \textit{Department of Mathematics}, International University of Rijeka
 
-
-\begin{itemize}[label={\quad 9999--9999:}, leftmargin=*, itemsep=0pt]
-
-\item[2022--present:] \textbf{Assistant Professor}, \textit{Department of Biological Sciences}, University of South Carolina, Columbia, SC
-
-\item[2019--2021:] \textbf{Assistant Professor}, \textit{Department of Biological Sciences}, Louisiana State University, Baton Rouge, LA
-
-\item[2018] \textbf{Visiting Researcher}, \textit{Department of Mathematics}, International University of Rijeka
-
-\item[2015:] \textbf{Analytics intern}, HP Vertica - Big Data Platform Dev Team. Boston, MA. 
+\item [2015:] \textbf{Analytics intern}, HP Vertica - Big Data Platform Dev Team. Boston, MA. 
 
 \end{itemize}
 
 
 
 
-### Education 
-
+# Education 
+\begin{center}
 \begin{tabular}{cccc}
   Institution & Location & Degree or Position & Completion Date   \\
   \hline
-  Truman State University & Kirksville, MO. & Biology. B.Sc. & 2009 \\
-  Truman State University & Kirksville, MO. & Biology. M.Sc. & 2010 \\
+  Truman State University \ \ \ & Kirksville, MO. & Biology. B.Sc. & 2009 \\
+  Truman State University \ \ \  & Kirksville, MO. & Biology. M.Sc. & 2010 \\
   University of Georgia & Athens, GA & Ecology Ph.D & 2016\\
   University of California & Davis & Postdoctoral Researcher & 2018\\
   University of Helsinki & Finland & Postdoctoral Researcher & 2019 \\
   \hline
 \end{tabular}
+\end{center}
 
 
 
 
 
+# Publications 
 
-### Publications 
 
-Ugh this is dumb!
+```{r echo=FALSE, results='asis', message=FALSE, comment=""}
 
-```{r echo=FALSE, results='asis', message=FALSE}
+pubs <- yaml::read_yaml('../../_data/papers.yml')
 
-readyaml 
+formatPub <- function(x){
+  auth <- sapply(x$authors, function(x){x$name})
+  auth <- paste0(auth, collapse=', ')
+  return(paste0(c("\\item ", 
+        auth, '. \\textbf{', x$date,'}. ', x$title, '.  \\textit{',x$journal, '} '), 
+          collapse='')
+        )
+}
+
+
+cat('\\begin{enumerate}')
+for(i in 1:length(pubs)){
+  cat(formatPub(pubs[[i]]))
+}
+cat('\\end{enumerate}')
+
+# noquote(sapply(pubs, formatPub))
 
 ```
 
@@ -83,22 +85,38 @@ readyaml
 
 
 
-
-### Software 
+# Software 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
-software <- read.csv('data/software.csv')
+soft <- read.csv('data/software.csv')
+soft <- as.data.frame(soft)
 
+soft$Description <- paste(soft$Description, ' (', soft$Location, ')', sep='')
+brief_entries(soft,
+    when = Name, 
+    with = Description
+  ) 
+  
 ```
 
 
 
 
-### Presentations 
+# Presentations 
 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 prez <- read.csv('data/presentations.csv')
+prez <- as.data.frame(prez)
+prez$Title <- paste(prez$Title, ' (', prez$Location, ')', sep='')
+prez$Host <- paste('Hosted by ', prez$Host, '.', sep='')
+prez$Host[which(prez$Host == "Hosted by .")] <- ' '
+
+vitae::brief_entries(data=prez, 
+  what = Title, 
+  when = Date,
+  with = Host) |> 
+  arrange(desc(when))
 
 ```
 
@@ -107,12 +125,18 @@ prez <- read.csv('data/presentations.csv')
 
 
 
-### Teaching 
+# Teaching 
 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 teaching <- read.csv('data/teaching.csv')
+teaching$students <- paste(teaching$students, 'students')
+vitae::brief_entries(data=teaching, 
+  what = course, 
+  when = term,
+  with = students) |> 
+  arrange(desc(when))
 
 
 ```
@@ -123,10 +147,21 @@ teaching <- read.csv('data/teaching.csv')
 
 
 
-### Funding 
+# Funding 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 funding <- read.csv('data/grants.csv')
+funding <- funding[which(funding$funded==1),]
+funding$End[which(is.na(funding$End))] <- '   '
+funding$DateRange <- paste(funding$Start, '-', funding$End, sep='')
+funding$totalMoney <- paste('$', funding$Amount, ' ($', funding$AmountToMe, ')', sep='')
+
+vitae::detailed_entries(data=funding,  
+  what = Name, 
+  when = DateRange,
+  where= Funding, 
+  with = totalMoney)  |> 
+  arrange(desc(when))
 
 ```
 
@@ -134,47 +169,64 @@ funding <- read.csv('data/grants.csv')
 
 
 
-## Service
-
-### Academic service 
+# Academic service
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 service <- read.csv('data/service.csv')
+service$End[which(is.na(service$End))] <- '   '
+service$DateRange <- paste(service$Start, '-', service$End, sep='')
+
+
+vitae::brief_entries(data=service,  
+  with = Description, 
+  when = DateRange,
+  what= trimws(Organization))
+
 
 ```
 
-### Community engagement 
+# Community engagement 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 community <- read.csv('data/community.csv')
+community$End[which(is.na(community$End))] <- '   '
+community$DateRange <- paste(community$Start, '-', community$End, sep='')
+
+
+vitae::brief_entries(data=community,  
+  with = Description, 
+  when = DateRange,
+  what= Organization)
 
 ```
 
 
 
 
-### Mentoring 
+# Mentoring 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 mentoring <- read.csv('data/mentoring.csv')
+mentoring$End[which(is.na(mentoring$End))] <- '   '
+mentoring$DateRange <- paste(mentoring$Start, '-', mentoring$End, sep='')
+mentoring$Type <- paste(mentoring$Type, ' (', mentoring$Location, ')', sep='')
+
+vitae::brief_entries(data=mentoring,  
+  what = Student, 
+  when = DateRange,
+  with= Type 
+ )
 
 ```
 
 
 
 
-
-
-
-
-
-### Awards 
-
 ```{r echo=FALSE, results='asis', message=FALSE}
 
-awards <- read.csv('data/awards.csv')
+# awards <- read.csv('data/awards.csv')
 
 ```
 

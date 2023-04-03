@@ -45,21 +45,7 @@
       data: http://www.neon4cast.org/
 
 
-- title: "Mean-variance scaling and stability in commercial sex work networks"
-  key: swModScaling
-  authors:
-    - name: Tad Dallas
-      type: pi
-    - name: Bret Elderd
-  date: 2023
-  journal: Social Network Analysis and Mining
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 
+
 
 
 
@@ -78,6 +64,11 @@
       doi:  
     - type: data
       data: 
+
+
+
+
+
 
 - title: ""
   key: spectralSpread
@@ -110,6 +101,10 @@
       doi:  
     - type: data
       data: 
+
+
+
+
 
 
 - title: "Thinning presence points does not improve species distribution model performance"
