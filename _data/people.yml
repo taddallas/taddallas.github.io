@@ -67,8 +67,8 @@
 
 - name: "Hilde Tollefsen"
   title: "undergraduate researcher"
-  picture: user.png
-  bio: "Hilde is an undergraduate researcher interested in insect ecology, movement, and life history variation."
+  picture: hilde.png
+  bio: "Hilde is an undergraduate researcher majoring in environmental science. She is interested in insect ecology, movement, and life history variation, and plans to do a PhD in entomology."
   labels:
     - type: email
       email: "mailto:tollefsh@email.sc.edu"

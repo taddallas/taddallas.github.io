@@ -62,6 +62,13 @@ pubs <- yaml::read_yaml('../../_data/papers.yml')
 formatPub <- function(x){
   auth <- sapply(x$authors, function(x){x$name})
   auth <- paste0(auth, collapse=', ')
+  if(grepl("<i>", x$title)){
+    x$title <- gsub("<i>", "", x$title)
+    x$title <- gsub("</i>", "", x$title)
+
+#    x$title <- gsub("<i>", "\\textit{", x$title)
+#    x$title <- gsub("</i>", "}", x$title)
+  }
   return(paste0(c("\\item ", 
         auth, '. \\textbf{', x$date,'}. ', x$title, '.  \\textit{',x$journal, '} '), 
           collapse='')
