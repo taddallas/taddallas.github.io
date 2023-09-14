@@ -20,13 +20,6 @@
 
 
 
-
-
-
-
-
-
-
 - title: "The NEON Ecological Forecasting Challenge"
   key: eco4cast
   authors:
@@ -50,11 +43,32 @@
 
 
 
-- title: ""
+- title: "Temporal variability of carabid beetles as a function of geography, environment, and species"
   key: neonVar
   authors:
-    - name: 
-    - name: 
+    - name: T Dallas
+    - name: C Ten Caten
+    - name: LA Holian
+  date: 2023
+  journal: Theoretical Ecology
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.21217709
+
+
+
+
+
+
+- title: "Structural network characteristics aﬀect epidemic severity and prediction in social contact networks"
+  key: spectralSpread
+  authors:
+    - name: J McKee
+    - name: T Dallas
   date: 2023
   journal: 
   labels:
@@ -67,32 +81,13 @@
 
 
 
-
-
-
-- title: ""
-  key: spectralSpread
-  authors:
-    - name: 
-    - name: 
-  date: 2022
-  journal: 
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 
-
-
-
-- title: ""
+- title: "Spatial and temporal perspectives on occupancy and abundance"
   key: neonTime
   authors:
-    - name: 
-    - name: 
-  date: 2022
+    - name: LA Holian
+    - name: C Ten Caten 
+    - name: T Dallas
+  date: 2023
   journal: 
   labels:
     - type: pdf
@@ -113,8 +108,8 @@
     - name: Cleber Ten Caten
     - name: Tad Dallas
       type: pi
-  date: 2022
-  journal: Ecography
+  date: 2023
+  journal: Ecosphere
   labels:
     - type: pdf
       pdf: 
@@ -126,12 +121,14 @@
 
 
 
-- title: ""
+- title: "Landscape structure and species life history eﬀects on abundance-occupancy
+relationships"
   key: neonRicker
   authors:
-    - name: 
-    - name: 
-  date: 2022
+    - name: T Dallas
+    - name: LA Holian
+    - name: C Ten Caten
+  date: 2023
   journal: 
   labels:
     - type: pdf
@@ -141,3 +138,19 @@
     - type: data
       data: 
 
+
+- title: "Geographic and temporal distance-decay relationships across taxa"
+  key: neonTurnover
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: C Ten Caten
+  date: 2023
+  journal: Oikos
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 

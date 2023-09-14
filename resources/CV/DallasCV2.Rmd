@@ -141,7 +141,7 @@ teaching <- read.csv('data/teaching.csv')
 teaching$students <- paste(teaching$students, 'students')
 vitae::brief_entries(data=teaching, 
   what = course, 
-  when = term,
+  when = year,
   with = students) |> 
   arrange(desc(when))
 
@@ -187,7 +187,8 @@ service$DateRange <- paste(service$Start, '-', service$End, sep='')
 vitae::brief_entries(data=service,  
   with = Description, 
   when = DateRange,
-  what= trimws(Organization))
+  what= trimws(Organization)) |> 
+  arrange(desc(when))
 
 
 ```
@@ -204,7 +205,8 @@ community$DateRange <- paste(community$Start, '-', community$End, sep='')
 vitae::brief_entries(data=community,  
   with = Description, 
   when = DateRange,
-  what= Organization)
+  what= Organization)|> 
+  arrange(desc(when))
 
 ```
 
@@ -223,8 +225,8 @@ mentoring$Type <- paste(mentoring$Type, ' (', mentoring$Location, ')', sep='')
 vitae::brief_entries(data=mentoring,  
   what = Student, 
   when = DateRange,
-  with= Type 
- )
+  with= Type)|> 
+  arrange(desc(when))
 
 ```
 

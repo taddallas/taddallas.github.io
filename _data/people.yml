@@ -54,6 +54,21 @@
     - type: email
       email: "mailto:clebertencaten@gmail.com"
 
+- name: "Anthony Pignatelli"
+  title: "doctoral researcher"
+  picture: anthony.png
+  bio: "Anthony has a B.S in Environmental & Conservation Biology and a M.S in Biology. He is interested in environmental & anthropogenic effects on population and community dynamics in freshwater and terrestrial systems."
+  labels:
+    - type: github
+      github: https://github.com/anthony-pignatelli
+    - type: email
+      email: "mailto:pignatea@email.sc.edu"
+
+
+
+
+
+
 
 
 - name: "Anandita Verma"
@@ -73,16 +88,6 @@
     - type: email
       email: "mailto:tollefsh@email.sc.edu"
 
-
-- name: "Sayi Saran Sathish Kumar"
-  title: "undergraduate researcher"
-  picture: sayi.jpg
-  bio: "Sayi is an undergraduate pre-med student majoring in biological sciences interested in yeast community assembly and dynamics."
-  labels:
-    - type: email
-      email: "mailto:sathishs@email.sc.edu"
-
-
 - name: "Nabeeha Baig"
   title: "undergraduate researcher"
   picture: nabeeha.png
@@ -101,13 +106,10 @@
       email: "mailto:aaronjk@email.sc.edu"
 
 
-
-- name: "Bailey Kane"
+- name: "Cayden Scruggs"
   title: "undergraduate researcher"
-  picture: bailey.jpg
-  bio: "Bailey is an undergraduate biological sciences major with a minor in chemistry who is interested in infectious diseases and their effects on populations."
+  picture: cayden.png
+  bio: "Cayden is an undergraduate in computer science with a minor in video game design. He loves game design and software engineering and is interested in making games out of subject matter like evolution and genetics."
   labels:
     - type: email
-      email: "mailto:blkane@email.sc.edu"
-
-
+      email: "mailto:caydens@email.sc.edu"

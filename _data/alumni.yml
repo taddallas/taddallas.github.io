@@ -1,3 +1,22 @@
+
+
+- name: "Bailey Kane"
+  title: "undergraduate researcher"
+  picture: bailey.jpg
+  bio: "Bailey is an undergraduate biological sciences major with a minor in chemistry who is interested in infectious diseases and their effects on populations."
+  labels:
+    - type: email
+      email: "mailto:blkane@email.sc.edu"
+
+
+- name: "Sayi Saran Sathish Kumar"
+  title: "undergraduate researcher"
+  picture: sayi.jpg
+  bio: "Sayi is an undergraduate pre-med student majoring in biological sciences interested in yeast community assembly and dynamics."
+  labels:
+    - type: email
+      email: "mailto:sathishs@email.sc.edu"
+
 - name: "Robert Richards"
   title: "postdoctoral researcher"
   picture: robbie.jpg
