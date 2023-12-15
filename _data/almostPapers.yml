@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 - title: "Comparing Waves of COVID-19 in the US: Scale of response changes over time"
   key: waveComparison
   authors:
@@ -43,28 +56,9 @@
 
 
 
-- title: "Temporal variability of carabid beetles as a function of geography, environment, and species"
-  key: neonVar
-  authors:
-    - name: T Dallas
-    - name: C Ten Caten
-    - name: LA Holian
-  date: 2023
-  journal: Theoretical Ecology
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: https://doi.org/10.6084/m9.figshare.21217709
 
 
-
-
-
-
-- title: "Structural network characteristics aﬀect epidemic severity and prediction in social contact networks"
+- title: "Structural network characteristics affect epidemic severity and prediction in social contact networks"
   key: spectralSpread
   authors:
     - name: J McKee
@@ -102,26 +96,8 @@
 
 
 
-- title: "Thinning presence points does not improve species distribution model performance"
-  key: sdmThin
-  authors:
-    - name: Cleber Ten Caten
-    - name: Tad Dallas
-      type: pi
-  date: 2023
-  journal: Ecosphere
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 
 
-
-
-
-- title: "Landscape structure and species life history eﬀects on abundance-occupancy
+- title: "Landscape structure and species life history effects on abundance-occupancy
 relationships"
   key: neonRicker
   authors:
