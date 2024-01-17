@@ -1,3 +1,20 @@
+- title: "Structural network characteristics affect epidemic severity and prediction in social contact networks"
+  key: spectralSpread
+  authors:
+    - name: Jae McKee
+    - name: Tad Dallas
+      type: pi
+  date: 2023
+  journal: Infectious Disease Modeling
+  labels:
+    - type: pdf
+      pdf: mcKee2023.pdf
+    - type: doi
+      doi:  10.1016/j.idm.2023.12.008
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.12059526.v3
+
+
 - title: "Thinning presence points does not improve species distribution model performance"
   key: sdmThin
   authors:

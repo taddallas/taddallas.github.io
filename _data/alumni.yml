@@ -1,5 +1,13 @@
 
 
+- name: "Sarah Pence"
+  title: "undergraduate researcher"
+  picture: user.png
+  bio: "Sarah is an undergraduate public health major who is interested in infectious diseases and their effects on populations."
+  labels:
+    - type: email
+      email: "mailto:sp46@email.sc.edu"
+
 - name: "Bailey Kane"
   title: "undergraduate researcher"
   picture: bailey.jpg

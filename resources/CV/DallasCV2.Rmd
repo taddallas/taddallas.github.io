@@ -13,6 +13,9 @@ output:
 library(knitr)
 library(rmarkdown)
 library(vitae)
+
+admin=FALSE
+
 ```
 
 \vspace{-1cm} 
@@ -134,11 +137,11 @@ vitae::brief_entries(data=prez,
 
 # Teaching 
 
-
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 teaching <- read.csv('data/teaching.csv')
 teaching$students <- paste(teaching$students, 'students')
+
 vitae::brief_entries(data=teaching, 
   what = course, 
   when = year,
@@ -161,7 +164,12 @@ funding <- read.csv('data/grants.csv')
 funding <- funding[which(funding$funded==1),]
 funding$End[which(is.na(funding$End))] <- '   '
 funding$DateRange <- paste(funding$Start, '-', funding$End, sep='')
-funding$totalMoney <- paste('$', funding$Amount, ' ($', funding$AmountToMe, ')', sep='')
+if(admin){
+  funding$totalMoney <- paste('$', funding$Amount, ' ($', trimws(funding$AmountToMe), ')', sep='')
+}else{
+  funding$totalMoney <- paste('$', funding$Amount, sep='')
+}
+
 
 vitae::detailed_entries(data=funding,  
   what = Name, 
@@ -249,9 +257,12 @@ vitae::brief_entries(data=ugmentoring,
 
 
 
+
+
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 # awards <- read.csv('data/awards.csv')
+# refLetters <- read.csv('refLetters.csv')
 
 ```
 
