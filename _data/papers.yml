@@ -14,7 +14,6 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.12059526.v3
 
-
 - title: "Thinning presence points does not improve species distribution model performance"
   key: sdmThin
   authors:

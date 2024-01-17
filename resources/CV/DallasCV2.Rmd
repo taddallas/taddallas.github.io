@@ -240,6 +240,26 @@ vitae::brief_entries(data=mentoring,
 
 
 # Undergraduate research
+<<<<<<< HEAD
+=======
+```{r echo=FALSE, results='asis', message=FALSE}
+
+ugmentoring <- read.csv('data/undergrads.csv')
+ugmentoring$End[which(is.na(ugmentoring$End))] <- '   '
+ugmentoring$DateRange <- paste(ugmentoring$Start, '-', ugmentoring$End, sep='')
+ugmentoring$Major <- paste('(', ugmentoring$Major,')', sep='')
+
+vitae::brief_entries(data=ugmentoring,  
+  what = Student, 
+  when = DateRange,
+  with= Major) |> 
+  arrange(desc(when))
+
+```
+
+
+
+>>>>>>> ea4ed1b0cf7bfeeae2523c368a27d380ef0e73f3
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 ugmentoring <- read.csv('data/undergrads.csv')
