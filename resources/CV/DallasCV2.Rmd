@@ -190,6 +190,7 @@ vitae::detailed_entries(data=funding,
 service <- read.csv('data/service.csv')
 service$End[which(is.na(service$End))] <- '   '
 service$DateRange <- paste(service$Start, '-', service$End, sep='')
+service$DateRange[which(is.na(service$Start))] <- service$End[which(is.na(service$Start))]
 
 
 vitae::brief_entries(data=service,  
@@ -240,8 +241,9 @@ vitae::brief_entries(data=mentoring,
 
 
 # Undergraduate research
-<<<<<<< HEAD
-=======
+
+
+
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 ugmentoring <- read.csv('data/undergrads.csv')
@@ -259,7 +261,7 @@ vitae::brief_entries(data=ugmentoring,
 
 
 
->>>>>>> ea4ed1b0cf7bfeeae2523c368a27d380ef0e73f3
+
 ```{r echo=FALSE, results='asis', message=FALSE}
 
 ugmentoring <- read.csv('data/undergrads.csv')
