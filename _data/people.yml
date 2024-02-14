@@ -113,3 +113,12 @@
   labels:
     - type: email
       email: "mailto:caydens@email.sc.edu"
+
+
+- name: "Anthony Maione"
+  title: "undergraduate researcher"
+  picture: anthony2.png
+  bio: "Anthony is an undergraduate biological sciences major on the pre-med track.  He is interested in studying host-parasite relationships, mechanisms of infection, and how these relationships affect ecosystems."
+  labels:
+    - type: email
+      email: "mailto:armaione@email.sc.edu"

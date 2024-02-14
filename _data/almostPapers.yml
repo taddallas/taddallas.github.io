@@ -6,8 +6,22 @@
 
 
 
-
-
+- title: "Landscape structure and species life history effects on abundance-occupancy
+relationships"
+  key: neonRicker
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: C Ten Caten
+  date: 2023
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
 
 
 
@@ -33,45 +47,7 @@
 
 
 
-- title: "The NEON Ecological Forecasting Challenge"
-  key: eco4cast
-  authors:
-    - name: RQ Thomas
-    - name: et al.
-  date: 2023
-  journal: 
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  10.22541/essoar.167079499.99891914/v1
-    - type: preprint
-      preprint: https://www.authorea.com/users/546171/articles/611488-the-neon-ecological-forecasting-challenge?commit=db101fa9cc1545051de6116eaf77c443e0646a69
-    - type: data
-      data: http://www.neon4cast.org/
 
-
-
-
-
-
-
-
-
-- title: "Structural network characteristics affect epidemic severity and prediction in social contact networks"
-  key: spectralSpread
-  authors:
-    - name: J McKee
-    - name: T Dallas
-  date: 2023
-  journal: 
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 
 
 
 
@@ -91,42 +67,3 @@
     - type: data
       data: 
 
-
-
-
-
-
-
-- title: "Landscape structure and species life history effects on abundance-occupancy
-relationships"
-  key: neonRicker
-  authors:
-    - name: T Dallas
-    - name: LA Holian
-    - name: C Ten Caten
-  date: 2023
-  journal: 
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 
-
-
-- title: "Geographic and temporal distance-decay relationships across taxa"
-  key: neonTurnover
-  authors:
-    - name: T Dallas
-    - name: LA Holian
-    - name: C Ten Caten
-  date: 2023
-  journal: Oikos
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 

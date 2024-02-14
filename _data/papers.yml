@@ -1,10 +1,26 @@
+- title: "Geographic and temporal distance-decay relationships across taxa"
+  key: neonTurnover
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: C Ten Caten
+  date: 2024
+  journal: Oikos
+  labels:
+    - type: pdf
+      pdf: Dallas2024Oikos.pdf
+    - type: doi
+      doi:  10.1111/oik.10269
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.22666234.v2
+
 - title: "Structural network characteristics affect epidemic severity and prediction in social contact networks"
   key: spectralSpread
   authors:
     - name: Jae McKee
     - name: Tad Dallas
       type: pi
-  date: 2023
+  date: 2024
   journal: Infectious Disease Modeling
   labels:
     - type: pdf
