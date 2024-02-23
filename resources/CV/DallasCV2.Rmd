@@ -191,7 +191,7 @@ service <- read.csv('data/service.csv')
 service$End[which(is.na(service$End))] <- '   '
 service$DateRange <- paste(service$Start, '-', service$End, sep='')
 service$DateRange[which(is.na(service$Start))] <- service$End[which(is.na(service$Start))]
-
+service <- service[which(service$internal==0), ]
 
 vitae::brief_entries(data=service,  
   with = Description, 
@@ -241,26 +241,6 @@ vitae::brief_entries(data=mentoring,
 
 
 # Undergraduate research
-
-
-
-```{r echo=FALSE, results='asis', message=FALSE}
-
-ugmentoring <- read.csv('data/undergrads.csv')
-ugmentoring$End[which(is.na(ugmentoring$End))] <- '   '
-ugmentoring$DateRange <- paste(ugmentoring$Start, '-', ugmentoring$End, sep='')
-ugmentoring$Major <- paste('(', ugmentoring$Major,')', sep='')
-
-vitae::brief_entries(data=ugmentoring,  
-  what = Student, 
-  when = DateRange,
-  with= Major) |> 
-  arrange(desc(when))
-
-```
-
-
-
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 
