@@ -1,4 +1,20 @@
 
+- name: "Aaron Kucinski"
+  title: "undergraduate researcher"
+  picture: aaron.jpg
+  bio: "Aaron is an undergraduate biological sciences major who is interested in the infectious dose and transmission of fungal pathogens."
+  labels:
+    - type: email
+      email: "mailto:aaronjk@email.sc.edu"
+
+- name: "Anandita Verma"
+  title: "undergraduate researcher"
+  picture: anandita.png
+  bio: "Anandita is an undergraduate pre-med student interested in host parasite interactions and their ecological patterns on a large scale."
+  labels:
+    - type: email
+      email: "mailto:averma5@lsu.edu"
+
 
 - name: "Sarah Pence"
   title: "undergraduate researcher"

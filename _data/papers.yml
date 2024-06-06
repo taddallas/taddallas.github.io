@@ -1,3 +1,19 @@
+- title: "Latitudinal specificity of plant–avian frugivore interactions"
+  key: spatInt
+  authors:
+    - name: C Ten Caten
+    - name: T Dallas
+      type: pi
+  date: 2024
+  journal: Journal of Animal Ecology
+  labels:
+    - type: pdf
+      pdf: tenCaten2024.pdf
+    - type: doi
+      doi: 10.1111/1365-2656.14116
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.22280629
+
 - title: "Geographic and temporal distance-decay relationships across taxa"
   key: neonTurnover
   authors:

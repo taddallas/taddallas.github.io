@@ -1,3 +1,29 @@
+- title: "Ecoinformatics"
+  key: uscEcoinform
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2023-
+  journal: course taught at U of South Carolina 
+  labels:
+    - type: doi
+      doi: https://ecoinformatix.github.io/
+    - type: code
+      code: https://github.com/ecoinformatix/
+
+- title: "Parasitology"
+  key: uscDisease
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2024-
+  journal: course taught at U of South Carolina 
+  labels:
+    - type: doi
+      doi: https://dallaslab.github.io/diseaseEcology/
+    - type: code
+      code: https://github.com/dallasLab/diseaseEcology
+
 - title: "Theoretical ecology"
   key: uscTheory
   authors:
@@ -10,7 +36,6 @@
       doi: https://theoretical-ecology.github.io/
     - type: code
       code: https://github.com/theoretical-ecology/
-
 
 - title: "Reproducible research"
   key: uscRepro

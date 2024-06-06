@@ -160,6 +160,7 @@ vitae::brief_entries(data=teaching,
 # Funding 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
+
 funding <- read.csv('data/grants.csv')
 funding <- funding[which(funding$funded==1),]
 funding$End[which(is.na(funding$End))] <- '   '
@@ -170,7 +171,6 @@ if(admin){
   funding$totalMoney <- paste('$', funding$Amount, sep='')
 }
 
-
 vitae::detailed_entries(data=funding,  
   what = Name, 
   when = DateRange,
@@ -179,6 +179,37 @@ vitae::detailed_entries(data=funding,
   arrange(desc(when))
 
 ```
+
+
+```{r echo=FALSE, results='asis'}
+if(admin){
+  cat("# Non-funded grants")
+}
+```
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+if(admin){
+  funding <- read.csv('data/grants.csv')
+  funding <- funding[which(funding$funded==0),]
+  funding$End[which(is.na(funding$End))] <- '   '
+  funding$DateRange <- paste(funding$Start, '-', funding$End, sep='')
+  if(admin){
+    funding$totalMoney <- paste('$', funding$Amount, ' ($', trimws(funding$AmountToMe), ')', sep='')
+  }else{
+    funding$totalMoney <- paste('$', funding$Amount, sep='')
+  }
+  vitae::detailed_entries(data=funding,  
+    what = Name, 
+    when = DateRange,
+    where= Funding, 
+    with = totalMoney)  |> 
+    arrange(desc(when))
+}
+
+```
+
+
 
 
 
@@ -257,6 +288,27 @@ vitae::brief_entries(data=ugmentoring,
 
 ```
 
+
+# Undergraduate and graduate researcher funding 
+
+```{r echo=FALSE, results='asis', message=FALSE}
+
+funding <- read.csv('data/UGfunding.csv')
+funding <- funding[which(funding$funded==1),]
+funding$End[which(is.na(funding$End))] <- '   '
+funding$DateRange <- paste(funding$Start, '-', funding$End, sep='')
+funding$totalMoney <- paste('$', funding$Amount, sep='')
+
+
+
+vitae::detailed_entries(data=funding,  
+  what = Name, 
+  when = DateRange,
+  where= Funding, 
+  with = totalMoney)  |> 
+  arrange(desc(when))
+
+```
 
 
 
