@@ -1,4 +1,4 @@
-- title: "Latitudinal specificity of plant–avian frugivore interactions"
+- title: "Latitudinal specificity of plant-avian frugivore interactions"
   key: spatInt
   authors:
     - name: C Ten Caten
@@ -47,6 +47,23 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.12059526.v3
 
+- title: "Temporal variability of carabid beetles as a function of geography, environment, and species"
+  key: neonVar
+  authors:
+    - name: T Dallas
+    - name: C Ten Caten
+    - name: LA Holian
+  date: 2024
+  journal: Theoretical Ecology
+  labels:
+    - type: pdf
+      pdf: dallas2023neonVar.pdf
+    - type: doi
+      doi:  10.1007/s12080-023-00573-1
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.21217709
+
+
 - title: "Thinning presence points does not improve species distribution model performance"
   key: sdmThin
   authors:
@@ -63,21 +80,6 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.21764129
 
-- title: "Temporal variability of carabid beetles as a function of geography, environment, and species"
-  key: neonVar
-  authors:
-    - name: T Dallas
-    - name: C Ten Caten
-    - name: LA Holian
-  date: 2023
-  journal: Theoretical Ecology
-  labels:
-    - type: pdf
-      pdf: dallas2023neonVar.pdf
-    - type: doi
-      doi:  10.1007/s12080-023-00573-1
-    - type: data
-      data: https://doi.org/10.6084/m9.figshare.21217709
 
 - title: "Exploring species diversity across space and time with data from the National Ecological Observatory Network"
   key: neonTeaching

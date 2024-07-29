@@ -78,7 +78,6 @@ formatPub <- function(x){
         )
 }
 
-
 cat('\\begin{enumerate}')
 for(i in 1:length(pubs)){
   cat(formatPub(pubs[[i]]))
@@ -315,7 +314,20 @@ vitae::detailed_entries(data=funding,
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 
-# awards <- read.csv('data/awards.csv')
+if(admin){
+  cat(paste0('# Awards'))
+}
+```
+
+
+```{r echo=FALSE, results='asis', message=FALSE}
+if(admin){
+  awards <- read.csv('data/awards.csv')
+  vitae::brief_entries(data=awards,  
+    what = Name, 
+    when = Year) |> 
+    arrange(desc(when))
+}
 # refLetters <- read.csv('refLetters.csv')
 
 ```
