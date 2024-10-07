@@ -25,6 +25,8 @@
   picture: grant.jpg
   bio: "Grant recently finished undergraduate degrees studying ecology and biology, and is interested in ways ecological and phylogenetic relationships within natural communities can affect patterns of multi-host parasite infection."
   labels:
+    - type: website 
+      website: https://gtfoster.github.io
     - type: github
       github: https://github.com/GTFoster
     - type: email
@@ -53,6 +55,7 @@
       github: https://github.com/ctencaten
     - type: email
       email: "mailto:clebertencaten@gmail.com"
+
 
 - name: "Anthony Pignatelli"
   title: "doctoral researcher"

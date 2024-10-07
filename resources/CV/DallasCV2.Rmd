@@ -1,43 +1,60 @@
 ---
 name: "Tad Dallas"
 position: "Assistant professor, U of South Carolina, Biological Sciences"
+docname: theory + ecology
 www: taddallas.github.io
 email: "tad.a.dallas@gmail.com"
 github: taddallas
+pronouns: he/him
 output:
-  vitae::moderncv
+  vitae::hyndman:
+    keep_tex: true
 ---
 
 
 ```{r, include=FALSE, echo=FALSE, message=FALSE}
+# latexcv, hyndman, moderncv
+
 library(knitr)
 library(rmarkdown)
 library(vitae)
 
-admin=FALSE
+admin <- FALSE
+short <- FALSE
 
 ```
 
-\vspace{-1cm} 
 
 # Experience 
 
+\begin{center}
+\begin{tabular}{cccc}
+  Dates & Position & Institution & Location   \\
+  \hline
+
+  2022-- & \textbf{Assistant Professor} & \textit{Dept of Biological Sciences}, University of South Carolina & Columbia, SC \\
+
+  2019--2021 & \textbf{Assistant Professor} & \textit{Dept of Biological Sciences}, Louisiana State University & Baton Rouge, LA \\
+
+  2018 & \textbf{Visiting Researcher} & \textit{Department of Mathematics}, Int Uni of Rijeka & Rijeka, Croatia \\
+
+  2015 & \textbf{Analytics intern} & HP Vertica - Big Data Platform Dev Team. &  Boston, MA. \\
+
+  \hline
+\end{tabular}
+\end{center}
+
+
+\begin{center}
 \begin{itemize}
 
-\item [2022-- :] \textbf{Assistant Professor}, \textit{Dept of Biological Sciences}, University of South Carolina, Columbia, SC
-
-\item [2019--2021:] \textbf{Assistant Professor}, \textit{Dept of Biological Sciences}, Louisiana State University, Baton Rouge, LA
-
-\item [2018] \textbf{Visiting Researcher}, \textit{Department of Mathematics}, International University of Rijeka
-
-\item [2015:] \textbf{Analytics intern}, HP Vertica - Big Data Platform Dev Team. Boston, MA. 
-
 \end{itemize}
-
+\end{center}
 
 
 
 # Education 
+
 \begin{center}
 \begin{tabular}{cccc}
   Institution & Location & Degree or Position & Completion Date   \\
@@ -57,10 +74,10 @@ admin=FALSE
 
 # Publications 
 
-
 ```{r echo=FALSE, results='asis', message=FALSE, comment=""}
 
 pubs <- yaml::read_yaml('../../_data/papers.yml')
+
 
 formatPub <- function(x){
   auth <- sapply(x$authors, function(x){x$name})
@@ -78,12 +95,18 @@ formatPub <- function(x){
         )
 }
 
-cat('\\begin{enumerate}')
-for(i in 1:length(pubs)){
-  cat(formatPub(pubs[[i]]))
-}
-cat('\\end{enumerate}')
 
+if(short==FALSE){
+  cat('\\begin{enumerate}')
+  for(i in 1:length(pubs)){
+    cat(formatPub(pubs[[i]]))
+  }
+  cat('\\end{enumerate}')
+}
+
+if(short==TRUE){
+  cat("See Google Scholar for a complete record. Summary statistics provided below, including the total number of citations, $h$ index and $i10$ index. Together, I have published over 80 peer-reviewed publications with over 50 scientific collaborators. At least 8 of these publications from the past 5 years have had graduate student first authors, and are in well-respected journals in the field, such as Global Ecology and Biogeography, Ecology, Journal of Animal ecology, Theoretical Ecology, Nature Climate Change, and Proceedings of the Royal Society B. Currently, 3307 publications have cited our work.")  
+}
 # noquote(sapply(pubs, formatPub))
 
 ```
@@ -103,16 +126,15 @@ soft <- as.data.frame(soft)
 soft$Description <- paste(soft$Description, ' (', soft$Location, ')', sep='')
 brief_entries(soft,
     when = Name, 
-    with = Description
+    what = Description,
+    with = Link
   ) 
   
 ```
 
 
 
-
 # Presentations 
-
 
 ```{r echo=FALSE, results='asis', message=FALSE}
 prez <- read.csv('data/presentations.csv')
@@ -121,11 +143,20 @@ prez$Title <- paste(prez$Title, ' (', prez$Location, ')', sep='')
 prez$Host <- paste('Hosted by ', prez$Host, '.', sep='')
 prez$Host[which(prez$Host == "Hosted by .")] <- ' '
 
+
+
+if(short==FALSE){
 vitae::brief_entries(data=prez, 
   what = Title, 
   when = Date,
   with = Host) |> 
   arrange(desc(when))
+}
+
+if(short==TRUE){
+  cat("I have given an average of 2-3 invited seminars or working groups every year since starting at University of South Carolina in 2022, including talks at University of Georgia, Duke, and University of South Florida. Additionally, I have been an invited working group participant in the Response Diversity Network (Okinawa, Japan) and InvaPact, a working group attempting to quantify the impact of biological invasions (Avignon, France). ")
+
+}
 
 ```
 
@@ -232,6 +263,7 @@ vitae::brief_entries(data=service,
 
 ```
 
+
 # Community engagement 
 
 ```{r echo=FALSE, results='asis', message=FALSE}
@@ -308,8 +340,6 @@ vitae::detailed_entries(data=funding,
   arrange(desc(when))
 
 ```
-
-
 
 
 ```{r echo=FALSE, results='asis', message=FALSE}

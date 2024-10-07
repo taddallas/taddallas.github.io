@@ -19,6 +19,53 @@ relationships"
 
 
 
+
+
+- title: "Spatial and temporal perspectives on occupancy and abundance"
+  key: neonTime
+  authors:
+    - name: LA Holian
+    - name: C Ten Caten 
+    - name: T Dallas
+  date: 2024
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+
+
+
+
+
+- title: ""
+  key: srsDiversity
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: A Pignatelli
+    - name: A Kramer
+  date: 2024
+  journal: 
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: 
+
+
+
+
+
+
+
+
 - title: "Comparing Waves of COVID-19 in the US: Scale of response changes over time"
   key: waveComparison
   authors:
@@ -38,27 +85,4 @@ relationships"
       preprint: https://www.medrxiv.org/content/10.1101/2022.03.01.22271713v1.full-text
     - type: data
       data: https://doi.org/10.6084/m9.figshare.19285379
-
-
-
-
-
-
-
-- title: "Spatial and temporal perspectives on occupancy and abundance"
-  key: neonTime
-  authors:
-    - name: LA Holian
-    - name: C Ten Caten 
-    - name: T Dallas
-  date: 2023
-  journal: 
-  labels:
-    - type: pdf
-      pdf: 
-    - type: doi
-      doi:  
-    - type: data
-      data: 
-
 
