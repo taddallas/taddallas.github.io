@@ -112,6 +112,23 @@ if(short==TRUE){
 ```
 
 
+# Book chapters 
+
+```{r echo=FALSE, results='asis', message=FALSE, comment=""}
+
+book <- read.csv('data/bookChapters.csv')
+book <- as.data.frame(book)
+
+book$auth <- paste(book$Title, ' (', book$Authors, ')', sep='')
+brief_entries(book,
+    when = Year, 
+    what = Book,
+    with = auth
+  ) 
+  
+
+
+```
 
 
 

@@ -20,6 +20,22 @@
       orcid: https://orcid.org/0000-0003-3328-9958
 
 
+- name: "Damie Pak"
+  title: "postdoctoral researcher"
+  picture: dpak.png
+  bio: "Damie is an ecologist interested in infectious disease dynamics."
+  labels:
+    - type: website 
+      website: https://pakdamie.github.io
+    - type: github
+      github: https://github.com/pakdamie
+    - type: email
+      email: "mailto:dpak@mailbox.sc.edu"
+    - type: twitter
+      twitter: https://twitter.com/pakdamie
+
+
+
 - name: "Grant Foster"
   title: "doctoral researcher"
   picture: grant.jpg
