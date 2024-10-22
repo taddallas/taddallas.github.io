@@ -56,14 +56,14 @@ short <- FALSE
 # Education 
 
 \begin{center}
-\begin{tabular}{cccc}
-  Institution & Location & Degree or Position & Completion Date   \\
+\begin{tabular}{ccccc}
+  Institution & Mentor & Location & Degree or Position & Completion Date   \\
   \hline
-  Truman State University \ \ \ & Kirksville, MO. & Biology. B.Sc. & 2009 \\
-  Truman State University \ \ \  & Kirksville, MO. & Biology. M.Sc. & 2010 \\
-  University of Georgia & Athens, GA & Ecology Ph.D & 2016\\
-  University of California & Davis & Postdoctoral Researcher & 2018\\
-  University of Helsinki & Finland & Postdoctoral Researcher & 2019 \\
+  Truman State University & -- & Kirksville, MO. & Biology. B.Sc. & 2009 \\
+  Truman State University & Stephanie Fore & Kirksville, MO. & Biology. M.Sc. & 2010 \\
+  University of Georgia & John Drake & Athens, GA & Ecology Ph.D & 2016\\
+  University of California & Alan Hastings & Davis & Postdoctoral Researcher & 2018\\
+  University of Helsinki & Otso Ovaskainen & Finland & Postdoctoral Researcher & 2019 \\
   \hline
 \end{tabular}
 \end{center}
@@ -124,7 +124,8 @@ brief_entries(book,
     when = Year, 
     what = Book,
     with = auth
-  ) 
+  ) |> 
+  arrange(desc(when))
   
 
 
@@ -189,7 +190,7 @@ if(short==TRUE){
 teaching <- read.csv('data/teaching.csv')
 teaching$students <- paste(teaching$students, 'students')
 
-vitae::brief_entries(data=teaching, 
+vitae::detailed_entries(data=teaching, 
   what = course, 
   when = year,
   with = students) |> 
@@ -213,9 +214,10 @@ funding <- funding[which(funding$funded==1),]
 funding$End[which(is.na(funding$End))] <- '   '
 funding$DateRange <- paste(funding$Start, '-', funding$End, sep='')
 if(admin){
-  funding$totalMoney <- paste('$', funding$Amount, ' ($', trimws(funding$AmountToMe), ')', sep='')
+  funding$totalMoney <- paste('$', formatC(funding$Amount, format='d', big.mark=','), 
+    ' ($', trimws(funding$AmountToMe), ')', sep='')
 }else{
-  funding$totalMoney <- paste('$', funding$Amount, sep='')
+  funding$totalMoney <- paste('$', formatC(funding$Amount, format='d', big.mark=','), sep='')
 }
 
 vitae::detailed_entries(data=funding,  
@@ -310,7 +312,7 @@ mentoring$End[which(is.na(mentoring$End))] <- '   '
 mentoring$DateRange <- paste(mentoring$Start, '-', mentoring$End, sep='')
 mentoring$Type <- paste(mentoring$Type, ' (', mentoring$Location, ')', sep='')
 
-vitae::brief_entries(data=mentoring,  
+vitae::detailed_entries(data=mentoring,  
   what = Student, 
   when = DateRange,
   with= Type)|> 
@@ -328,7 +330,7 @@ ugmentoring$End[which(is.na(ugmentoring$End))] <- '   '
 ugmentoring$DateRange <- paste(ugmentoring$Start, '-', ugmentoring$End, sep='')
 ugmentoring$Major <- paste('(', ugmentoring$Major,')', sep='')
 
-vitae::brief_entries(data=ugmentoring,  
+vitae::detailed_entries(data=ugmentoring,  
   what = Student, 
   when = DateRange,
   with= Major) |> 
