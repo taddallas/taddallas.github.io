@@ -1,3 +1,20 @@
+- title: "Population variability across geographic ranges: perspectives and challenges"
+  key: varRev
+  authors:
+    - name: C Ten Caten
+    - name: T Dallas
+      type: pi
+  date: 2024
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.26213915
+
+
 - title: "Latitudinal specificity of plant-avian frugivore interactions"
   key: spatInt
   authors:

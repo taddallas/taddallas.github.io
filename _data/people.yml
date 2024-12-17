@@ -4,8 +4,6 @@
   picture: tad.jpg
   bio: "Tad is a population and community ecologist interested in large scale patterns of species diversity and predictive modeling."
   labels:
-    - type: twitter
-      twitter: https://twitter.com/taddallas
     - type: github
       github: https://github.com/taddallas
     - type: cv
@@ -123,3 +121,11 @@
   labels:
     - type: email
       email: "mailto:armaione@email.sc.edu"
+
+- name: "Nicholas Christov"
+  title: "undergraduate researcher"
+  picture: user.png
+  bio: "Nick is an undergraduate biological sciences major interested in population and community ecology."
+  labels:
+    - type: email
+      email: "mailto:christov@email.sc.edu"
