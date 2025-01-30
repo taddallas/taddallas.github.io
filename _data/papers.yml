@@ -4,13 +4,13 @@
     - name: C Ten Caten
     - name: T Dallas
       type: pi
-  date: 2024
+  date: 2025
   journal: Proceedings of the Royal Society B
   labels:
     - type: pdf
-      pdf: 
+      pdf: tenCaten2025.pdf
     - type: doi
-      doi:  
+      doi:  10.1098/rspb.2024.1644
     - type: data
       data: https://doi.org/10.6084/m9.figshare.26213915
 
