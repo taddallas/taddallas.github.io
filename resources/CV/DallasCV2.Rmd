@@ -79,16 +79,18 @@ short <- FALSE
 pubs <- yaml::read_yaml('../../_data/papers.yml')
 
 
+
+
 formatPub <- function(x){
   auth <- sapply(x$authors, function(x){x$name})
   auth <- paste0(auth, collapse=', ')
   if(grepl("<i>", x$title)){
     x$title <- gsub("<i>", "", x$title)
     x$title <- gsub("</i>", "", x$title)
-
 #    x$title <- gsub("<i>", "\\textit{", x$title)
 #    x$title <- gsub("</i>", "}", x$title)
   }
+  x$journal <- sub('&', '\\&', x$journal, fixed=TRUE)
   return(paste0(c("\\item ", 
         auth, '. \\textbf{', x$date,'}. ', x$title, '.  \\textit{',x$journal, '} '), 
           collapse='')
@@ -329,6 +331,11 @@ ugmentoring <- read.csv('data/undergrads.csv')
 ugmentoring$End[which(is.na(ugmentoring$End))] <- '   '
 ugmentoring$DateRange <- paste(ugmentoring$Start, '-', ugmentoring$End, sep='')
 ugmentoring$Major <- paste('(', ugmentoring$Major,')', sep='')
+
+if(any(ugmentoring$Start==ugmentoring$End)){
+  inds <- which(ugmentoring$Start==ugmentoring$End)
+  ugmentoring$DateRange[inds] <- paste(ugmentoring$Start[inds], sep='')
+}
 
 vitae::detailed_entries(data=ugmentoring,  
   what = Student, 

@@ -1,4 +1,53 @@
 
+- name: "Damie Pak"
+  title: "postdoctoral researcher"
+  picture: dpak.png
+  bio: "Damie is an ecologist interested in infectious disease dynamics."
+  labels:
+    - type: website 
+      website: https://pakdamie.github.io
+    - type: github
+      github: https://github.com/pakdamie
+    - type: email
+      email: "mailto:dpak@mailbox.sc.edu"
+    - type: twitter
+      twitter: https://twitter.com/pakdamie
+      
+- name: "Hilde Tollefsen"
+  title: "undergraduate researcher"
+  picture: hilde.png
+  bio: "Hilde is an undergraduate researcher majoring in environmental science. She is interested in insect ecology, movement, and life history variation, and plans to do a PhD in entomology."
+  labels:
+    - type: email
+      email: "mailto:tollefsh@email.sc.edu"
+
+- name: "Nabeeha Baig"
+  title: "undergraduate researcher"
+  picture: nabeeha.png
+  bio: "Nabeeha is an undergraduate public health major on the pre-med track. She is interested in infectious diseases and how pathogens affect ecosystems and their way of life."
+  labels:
+    - type: email
+      email: "mailto:nbaig@email.sc.edu"
+
+
+- name: "Cayden Scruggs"
+  title: "undergraduate researcher"
+  picture: cayden.png
+  bio: "Cayden is an undergraduate in computer science with a minor in video game design. He loves game design and software engineering and is interested in making games out of subject matter like evolution and genetics."
+  labels:
+    - type: email
+      email: "mailto:caydens@email.sc.edu"
+
+
+- name: "Anthony Maione"
+  title: "undergraduate researcher"
+  picture: anthony2.png
+  bio: "Anthony is an undergraduate biological sciences major on the pre-med track.  He is interested in studying host-parasite relationships, mechanisms of infection, and how these relationships affect ecosystems."
+  labels:
+    - type: email
+      email: "mailto:armaione@email.sc.edu"
+
+
 - name: "Aaron Kucinski"
   title: "undergraduate researcher"
   picture: aaron.jpg

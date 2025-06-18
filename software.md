@@ -23,8 +23,6 @@ title: Software
 <a href="https://github.com/taddallas/metacom"><i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/metacom/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
 <br/>
-[![R build status](https://github.com/taddallas/metacom/workflows/R-CMD-check/badge.svg)](https://github.com/taddallas/metacom/actions)
-<br/>
 [![Downloads](http://cranlogs.r-pkg.org/badges/metacom)](http://cranlogs.r-pkg.org/badges/metacom)
 
 `metacom` performs the Elements of Metacommunity Structure analysis. This analysis aims to classify metacommunites based on the combination of three statistics (coherence, turnover, and boundary clumping). The analysis is performed on site-by-species matrices depicting the distribution of species among sites, but can also be used to examine any similarly bipartite interaction (plant-pollinator, host-parasite, etc.).
@@ -45,8 +43,6 @@ If you find a bug, please [report it](https://github.com/taddallas/metacom/issue
 <a href="https://github.com/ropensci/helminthR"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/helminthR/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
 <br/>
-[![R build status](https://github.com/ropensci/helminthR/workflows/R-CMD-check/badge.svg)](https://github.com/ropensci/helminthR/actions)
-<br/>
 [![Downloads](http://cranlogs.r-pkg.org/badges/helminthR)](http://cranlogs.r-pkg.org/badges/helminthR)
 <br/>
 
@@ -66,8 +62,6 @@ If you find a bug, please [report it](https://github.com/ropensci/helminthR/issu
 <br/>
 <a href="https://github.com/viralemergence/insectDisease"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/insectDisease/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
-<br/>
-[![R build status](https://github.com/viralemergence/insectDisease/workflows/R-CMD-check/badge.svg)](https://github.com/viralemergence/insectDisease/actions)
 <br/>
 [![DOI](https://zenodo.org/badge/314071063.svg)](https://zenodo.org/badge/latestdoi/314071063)
 <br/>

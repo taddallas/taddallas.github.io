@@ -1,9 +1,22 @@
+- title: "Biological data science"
+  key: bioldatascience
+  authors:
+    - name: T Dallas
+      type: pi
+  date: 2025
+  journal: grad-level data science course at U of South Carolina
+  labels:
+    - type: doi
+      doi: https://bioldatascience.github.io/
+    - type: code
+      code: https://github.com/biolDataScience/
+
 - title: "Ecoinformatics"
   key: uscEcoinform
   authors:
     - name: T Dallas
       type: pi
-  date: 2023-
+  date: 2024
   journal: course taught at U of South Carolina 
   labels:
     - type: doi
@@ -16,8 +29,8 @@
   authors:
     - name: T Dallas
       type: pi
-  date: 2024-
-  journal: course taught at U of South Carolina 
+  date: 2024 - 
+  journal: course+lab taught at U of South Carolina 
   labels:
     - type: doi
       doi: https://dallaslab.github.io/diseaseEcology/
@@ -29,7 +42,7 @@
   authors:
     - name: T Dallas
       type: pi
-  date: 2023-
+  date: 2023
   journal: course taught at U of South Carolina 
   labels:
     - type: doi
@@ -42,7 +55,7 @@
   authors:
     - name: T Dallas
       type: pi
-  date: 2022-
+  date: 2022
   journal: course taught at U of South Carolina
   labels:
     - type: doi
@@ -56,7 +69,7 @@
   authors:
     - name: T Dallas
       type: pi
-  date: 2021 - 
+  date: 2021 - 2022 
   journal: LSU-funded effort to develop software and hardware competencies among undergraduates in the College of Science
   labels:
     - type: doi
@@ -68,7 +81,7 @@
   key: ecology
   authors:
     - name: Dallas lab
-  date: 2021
+  date: 2021 - 
   journal: Outlet for recorded talks and forward-facing science
   labels:
     - type: video

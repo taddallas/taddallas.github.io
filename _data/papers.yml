@@ -1,3 +1,52 @@
+- title: "The influence of geographic ranges, climatic niches, and temperature fluctuations on population variability"
+  key: varRange
+  authors:
+    - name: C Ten Caten
+    - name: LA Holian
+    - name: T Dallas
+      type: pi
+  date: 2025
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: tencaten2025b.pdf
+    - type: doi
+      doi: 
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.25244392.v1
+
+
+- title: "Linking geographic distribution and niche through estimation of niche density"
+  key: rangeNiche2
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: C Ten Caten
+  date: 2025
+  journal: Journal of Animal Ecology
+  labels:
+    - type: pdf
+      pdf: dallas2025jae.pdf
+    - type: doi
+      doi: 10.1111/1365-2656.70052
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.24158340.v1
+
+
+- title: "Typology of the ecological impacts of biological invasions"
+  key: invaPact0
+  authors:
+    - name: L Carneiro
+    - name: et al. 
+  date: 2025
+  journal: Trends in Ecology & Evolution
+  labels:
+    - type: pdf
+      pdf: carneiro2025.pdf
+    - type: doi
+      doi:  10.1016/j.tree.2025.03.010
+
+
 - title: "Population variability across geographic ranges: perspectives and challenges"
   key: varRev
   authors:
@@ -51,8 +100,8 @@
 - title: "Structural network characteristics affect epidemic severity and prediction in social contact networks"
   key: spectralSpread
   authors:
-    - name: Jae McKee
-    - name: Tad Dallas
+    - name: J McKee
+    - name: T Dallas
       type: pi
   date: 2024
   journal: Infectious Disease Modeling
@@ -84,8 +133,8 @@
 - title: "Thinning presence points does not improve species distribution model performance"
   key: sdmThin
   authors:
-    - name: Cleber Ten Caten
-    - name: Tad Dallas
+    - name: C Ten Caten
+    - name: T Dallas
       type: pi
   date: 2023
   journal: Ecosphere
@@ -101,9 +150,9 @@
 - title: "Exploring species diversity across space and time with data from the National Ecological Observatory Network"
   key: neonTeaching
   authors:
-    - name: Lauren Holian
-    - name: Cleber Ten Caten    
-    - name: Tad Dallas
+    - name: L Holian
+    - name: C Ten Caten    
+    - name: T Dallas
       type: pi
   date: 2023
   journal: Teaching Issues and Experiments in Ecology
@@ -117,9 +166,9 @@
 - title: "Mean-variance scaling and stability in commercial sex work networks"
   key: swModScaling
   authors:
-    - name: Tad Dallas
+    - name: T Dallas
       type: pi
-    - name: Bret Elderd
+    - name: B Elderd
   date: 2023
   journal: Social Network Analysis and Mining
   labels:
@@ -246,11 +295,11 @@
 - title: "Climate change reshuffles northern species within their niches"
   key: recChange  
   authors:
-    - name: Laura H Antão 
-    - name: Benjamin Weigel 
-    - name: Giovanni Strona 
-    - name: Maria Hällfors
-    - name: Elina Kaarlejärvi
+    - name: LH Antão 
+    - name: B Weigel 
+    - name: G Strona 
+    - name: M Hällfors
+    - name: E Kaarlejärvi
     - name: T Dallas
       type: pi
     - name: et al. 

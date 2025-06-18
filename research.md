@@ -62,6 +62,6 @@ Macroecology is an area where there are a lot of conceptual hypotheses based on 
 <div class="pure-u-1 copy" markdown="1">
 # Open Science
 
-I build tools for [accessing](https://github.com/ropensci/helminthR) and [analyzing](https://github.com/taddallas/metacom) ecological data. I also maintain an [open lab notebook](http://taddallas.github.io/LabNotebook/), and have been [interviewed by Georgia public radio](https://beta.prx.org/stories/138032) about Open Access publishing (John Drake and I are around the 15 minute mark). A majority of the code and data used in my publications is freely available and hosted on [Figshare](https://figshare.com/authors/Tad_Dallas/2585290) 
+I build tools for [accessing](https://github.com/ropensci/helminthR) and [analyzing](https://github.com/taddallas/metacom) ecological data. I previously maintained an [open lab notebook](http://taddallas.github.io/LabNotebook/), and have been [interviewed by Georgia public radio](https://beta.prx.org/stories/138032) about Open Access publishing (John Drake and I are around the 15 minute mark). A vast majority of the code and data used in my publications is freely available and hosted on [Figshare](https://figshare.com/authors/Tad_Dallas/2585290). Thanks to [recent NSF funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2329961&HistoricalAwards=false) will allow for the augmentation, georeferencing, and serving of one of the largest host-parasite databases in existence.
 
 </div>

@@ -1,0 +1,35 @@
+- name: "Maven Rose Busby"
+  title: "undergraduate researcher"
+  picture: user.png
+  major: ""
+
+- name: "Riley O'Hare"
+  title: "undergraduate researcher"
+  picture: user.png
+  major: ""
+
+- name: "Madeline Ronningen"
+  title: "undergraduate researcher"
+  picture: madeline.png
+  major: "biology"
+
+- name: "Cheyenne Chen"
+  title: "undergraduate researcher"
+  picture: user.png
+  major: ""
+
+- name: "Addy Rose McClure"
+  title: "undergraduate researcher"
+  picture: addy.png
+  major: "biology"
+
+- name: "Josh Nolan"
+  title: "undergraduate researcher"
+  picture: user.png
+  major: "biology"
+
+- name: "Jaden Conner"
+  title: "undergraduate researcher"
+  picture: user.png
+  major: ""
+
