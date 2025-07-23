@@ -94,3 +94,19 @@
   labels:
     - type: email
       email: "mailto:ESEE@email.sc.edu"
+
+- name: "Haley Hair"
+  title: "undergraduate researcher"
+  picture: haley.png
+  bio: "Haley is an undergraduate biology major with a minor in English. She is interested in plant science, community ecology, and network science."
+  labels:
+    - type: email
+      email: "mailto:jsc16@email.sc.edu"
+
+- name: "Jackson Carpenter"
+  title: "undergraduate researcher"
+  picture: user.png
+  bio: "Jackson is an undergraduate biology major interested in infectious disease."
+  labels:
+    - type: email
+      email: "mailto:jsc16@email.sc.edu"

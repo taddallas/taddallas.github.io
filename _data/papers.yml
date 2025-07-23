@@ -1,3 +1,19 @@
+- title: "Human contributions to global soundscapes are less predictable than the acoustic rhythms of wildlife"
+  key: lifeplanSound
+  authors:
+    - name: P Somervuo
+    - name: et. al.
+  date: 2025
+  journal: Nature Ecology & Evolution
+  labels:
+    - type: pdf
+      pdf: somervuo2025.pdf
+    - type: doi
+      doi: 10.1038/s41559-025-02786-5
+    - type: data
+      data: https://doi.org/10.5281/zenodo.15369637
+
+
 - title: "The influence of geographic ranges, climatic niches, and temperature fluctuations on population variability"
   key: varRange
   authors:
@@ -11,7 +27,7 @@
     - type: pdf
       pdf: tencaten2025b.pdf
     - type: doi
-      doi: 
+      doi: 10.1098/rspb.2025.0818
     - type: data
       data: https://doi.org/10.6084/m9.figshare.25244392.v1
 
