@@ -1,3 +1,63 @@
+
+- title: "Costs of parasite generalism revealed by abundance patterns across mammalian hosts "
+  key: paraAbundo
+  authors:
+  - name: Andrew W. Park
+  - name: Clayton E. Cressler
+  - name: Tad A. Dallas
+    type: pi
+  - name: Maxwell J. Farrell
+  - name: Shan Huang
+  - name: Amy B. Pedersen
+  - name: Rebecca M. Varney
+  date: 2025
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: park2025PRSB.pdf
+    - type: doi
+      doi: 10.1098/rspb.2025.1157
+    - type: data
+      data: https://doi.org/10.5061/dryad.18931zd5j
+
+
+
+
+
+- title: "Dependencies, archivals, and package development in the R ecosystem"
+  key: rViews
+  authors:
+    - name: T Dallas
+      type: pi
+    - name: Michael Krabbe Borregaard
+  date: 2025
+  journal: BioScience
+  labels:
+    - type: pdf
+      pdf: dallas2025BioSci.pdf
+    - type: doi
+      doi: 10.1093/biosci/biaf148
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.25537282.v1
+
+
+
+- title: "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology"
+  key: sortee
+  authors:
+    - name: JL Pick
+    - name: et al.
+  date: 2025
+  journal: EcoEvoRxiv
+  labels:
+    - type: pdf
+      pdf: pick2025.pdf
+    - type: doi
+      doi: 10.32942/X24P8S
+
+
+
+
 - title: "Human contributions to global soundscapes are less predictable than the acoustic rhythms of wildlife"
   key: lifeplanSound
   authors:
@@ -761,7 +821,7 @@
     - type: pdf
       pdf: Carlson2020PRSB.pdf
     - type: doi
-      doi: https://doi.org/10.1098/rspb.2020.1841
+      doi: 10.1098/rspb.2020.1841
     - type: preprint
       preprint: https://doi.org/10.1101/815902
 
@@ -1283,6 +1343,8 @@
   labels:
     - type: preprint
       preprint: https://doi.org/10.1101/192351
+    - type: doi
+      doi: 10.1101/192351
 
 - title: "The mathematics of extinction across scales -- from populations to the biosphere"
   key: mathExtinction
@@ -1297,7 +1359,8 @@
   labels:
     - type: preprint
       preprint: http://dx.doi.org/10.7287/peerj.preprints.3367v1
-
+    - type: doi
+      doi: 10.7287/peerj.preprints.3367v1
 
 - title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
   key: parEx

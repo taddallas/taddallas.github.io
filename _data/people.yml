@@ -48,15 +48,6 @@
       email: "mailto:LHOLIAN@email.sc.edu"
 
 
-- name: "Cleber Ten Caten"
-  title: "doctoral researcher"
-  picture: cleber.jpg
-  bio: "Cleber has a MSc in ecology and evolution and is interested in macroecology, biogeography and community ecology."
-  labels:
-    - type: github
-      github: https://github.com/ctencaten
-    - type: email
-      email: "mailto:clebertencaten@gmail.com"
 
 
 - name: "Anthony Pignatelli"
@@ -110,3 +101,4 @@
   labels:
     - type: email
       email: "mailto:jsc16@email.sc.edu"
+

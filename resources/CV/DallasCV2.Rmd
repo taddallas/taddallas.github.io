@@ -91,8 +91,13 @@ formatPub <- function(x){
 #    x$title <- gsub("</i>", "}", x$title)
   }
   x$journal <- sub('&', '\\&', x$journal, fixed=TRUE)
+  
+  doi <- try(x$labels[[2]]$doi)
+  if(inherits(doi, 'try-error')){
+    doi <- NULL
+  }
   return(paste0(c("\\item ", 
-        auth, '. \\textbf{', x$date,'}. ', x$title, '.  \\textit{',x$journal, '} '), 
+        auth, '. \\textbf{', x$date,'}. ', x$title, '.  \\textit{',x$journal, '} . doi: ', doi), 
           collapse='')
         )
 }
@@ -162,8 +167,7 @@ prez <- as.data.frame(prez)
 prez$Title <- paste(prez$Title, ' (', prez$Location, ')', sep='')
 prez$Host <- paste('Hosted by ', prez$Host, '.', sep='')
 prez$Host[which(prez$Host == "Hosted by .")] <- ' '
-
-
+prez$Date <- paste(prez$Month, ', ', prez$Date, sep='')
 
 if(short==FALSE){
 vitae::brief_entries(data=prez, 

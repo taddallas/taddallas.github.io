@@ -1,4 +1,15 @@
 
+- name: "Cleber Ten Caten"
+  title: "doctoral researcher"
+  picture: cleber.jpg
+  bio: "Cleber has a MSc in ecology and evolution and is interested in macroecology, biogeography and community ecology."
+  labels:
+    - type: github
+      github: https://github.com/ctencaten
+    - type: email
+      email: "mailto:clebertencaten@gmail.com"
+
+
 - name: "Damie Pak"
   title: "postdoctoral researcher"
   picture: dpak.png
