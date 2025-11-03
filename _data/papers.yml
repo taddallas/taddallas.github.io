@@ -1,4 +1,22 @@
 
+- title: "Comparing the power of phylogenetic, trait and network structure information to predict plant-frugivore interactions"
+  key: frugLink
+  authors:
+  - name: Grant Foster
+  - name: Tad A. Dallas
+    type: pi
+  date: 2025
+  journal: Oikos
+  labels:
+    - type: pdf
+      pdf: foster2025.pdf
+    - type: doi
+      doi: doi: 10.1002/oik.11156
+    - type: data
+      data: https://figshare.com/s/544021fc48732ca5bb13
+
+
+
 - title: "Costs of parasite generalism revealed by abundance patterns across mammalian hosts "
   key: paraAbundo
   authors:
