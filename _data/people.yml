@@ -102,3 +102,10 @@
     - type: email
       email: "mailto:jsc16@email.sc.edu"
 
+- name: "Alden McCann"
+  title: "undergraduate researcher"
+  picture: alden.png
+  bio: "Alden is an undergraduate in the honors college, majoring in biological sciences on a pre-med track. He is interested in community and disease ecology."
+  labels:
+    - type: email
+      email: "mailto:AJMCCANN@email.sc.edu"
