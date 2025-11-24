@@ -1,9 +1,26 @@
+- title: "Landscape structure and species life history effects on abundance-occupancy relationships"
+  key: neonRicker
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: C Ten Caten
+  date: 2025
+  journal: Ecology
+  labels:
+    - type: pdf
+      pdf: dallas2025Ecology.pdf
+    - type: doi
+      doi:  10.1002/ecy.70258
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.17072759.v4
+
+
 
 - title: "Comparing the power of phylogenetic, trait and network structure information to predict plant-frugivore interactions"
   key: frugLink
   authors:
-  - name: Grant Foster
-  - name: Tad A. Dallas
+  - name: G Foster
+  - name: TA Dallas
     type: pi
   date: 2025
   journal: Oikos
@@ -20,14 +37,14 @@
 - title: "Costs of parasite generalism revealed by abundance patterns across mammalian hosts "
   key: paraAbundo
   authors:
-  - name: Andrew W. Park
-  - name: Clayton E. Cressler
-  - name: Tad A. Dallas
+  - name: AW Park
+  - name: CE Cressler
+  - name: TA Dallas
     type: pi
-  - name: Maxwell J. Farrell
-  - name: Shan Huang
-  - name: Amy B. Pedersen
-  - name: Rebecca M. Varney
+  - name: MJ Farrell
+  - name: S Huang
+  - name: AB Pedersen
+  - name: RM Varney
   date: 2025
   journal: Proceedings of the Royal Society B
   labels:

@@ -1,3 +1,10 @@
+- name: "Aiden Siebers"
+  title: "undergraduate researcher"
+  picture: aiden.png
+  bio: "Aiden is an undergraduate biology major on the pre-med track interested in community ecology."
+  labels:
+    - type: email
+      email: "mailto:SIEBERSA@email.sc.edu"
 
 - name: "Cleber Ten Caten"
   title: "doctoral researcher"
@@ -8,7 +15,6 @@
       github: https://github.com/ctencaten
     - type: email
       email: "mailto:clebertencaten@gmail.com"
-
 
 - name: "Damie Pak"
   title: "postdoctoral researcher"
