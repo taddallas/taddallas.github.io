@@ -1,3 +1,19 @@
+- title: "Demography and dispersal influence the relationship between habitat suitability and population density"
+  key: neonAge
+  authors:
+    - name: C Ten Caten
+    - name: T Dallas
+  date: 2026
+  journal: Ecography
+  labels:
+    - type: pdf
+      pdf: 
+    - type: doi
+      doi:  10.1002/ecog.08299
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.26940301
+
+
 - title: "Landscape structure and species life history effects on abundance-occupancy relationships"
   key: neonRicker
   authors:

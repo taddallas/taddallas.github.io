@@ -6,14 +6,16 @@ www: taddallas.github.io
 email: "tad.a.dallas@gmail.com"
 github: taddallas
 pronouns: he/him
+date: "2026"
+headcolor: "00509e"
 output:
   vitae::hyndman:
     keep_tex: true
 ---
 
 
+
 ```{r, include=FALSE, echo=FALSE, message=FALSE}
-# latexcv, hyndman, moderncv
 
 library(knitr)
 library(rmarkdown)
@@ -167,7 +169,7 @@ prez <- as.data.frame(prez)
 prez$Title <- paste(prez$Title, ' (', prez$Location, ')', sep='')
 prez$Host <- paste('Hosted by ', prez$Host, '.', sep='')
 prez$Host[which(prez$Host == "Hosted by .")] <- ' '
-prez$Date <- paste(prez$Month, ', ', prez$Date, sep='')
+prez$Date <- format(paste(prez$Date, ', ', prez$Month, sep=''))
 
 if(short==FALSE){
 vitae::brief_entries(data=prez, 
