@@ -1,3 +1,20 @@
+
+- title: "Community Synchrony in Aquatic Macroinvertebrates Is Unrelated to Environmental Variability but Differs Among Functional Feeding Groups"
+  key: streamSync
+  authors:
+    - name: A Pignatelli
+    - name: T Dallas
+  date: 2026
+  journal: Ecology and Evolution
+  labels:
+    - type: pdf
+      pdf: pignatelli2026.pdf
+    - type: doi
+      doi:  10.1002/ece3.72999
+    - type: data
+      data: https://figshare.com/s/7a6aa97fe73e44b8c19e
+
+
 - title: "Demography and dispersal influence the relationship between habitat suitability and population density"
   key: neonAge
   authors:
