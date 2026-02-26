@@ -3,7 +3,8 @@
   key: streamSync
   authors:
     - name: A Pignatelli
-    - name: T Dallas
+    - name: TA Dallas
+      type: pi
   date: 2026
   journal: Ecology and Evolution
   labels:
@@ -19,12 +20,13 @@
   key: neonAge
   authors:
     - name: C Ten Caten
-    - name: T Dallas
+    - name: TA Dallas
+      type: pi
   date: 2026
   journal: Ecography
   labels:
     - type: pdf
-      pdf: 
+      pdf: tencaten2026.pdf
     - type: doi
       doi:  10.1002/ecog.08299
     - type: data
@@ -34,7 +36,8 @@
 - title: "Landscape structure and species life history effects on abundance-occupancy relationships"
   key: neonRicker
   authors:
-    - name: T Dallas
+    - name: TA Dallas
+      type: pi
     - name: LA Holian
     - name: C Ten Caten
   date: 2025
