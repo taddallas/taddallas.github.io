@@ -70,16 +70,6 @@
       email: "mailto:christov@email.sc.edu"
 
 
-
-
-- name: "Evan See"
-  title: "undergraduate researcher"
-  picture: evan.png
-  bio: "Evan See is an undergraduate Biological Sciences major who is interested in studying how climate change and public health interlink, as well as how public policy can be used to combat both."
-  labels:
-    - type: email
-      email: "mailto:ESEE@email.sc.edu"
-
 - name: "Haley Hair"
   title: "undergraduate researcher"
   picture: haley.png

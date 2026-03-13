@@ -1,4 +1,21 @@
 
+- title: "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology"
+  key: sortee
+  authors:
+    - name: JL Pick
+    - name: et al.
+  date: 2026
+  journal: PCI Ecology
+  labels:
+    - type: pdf
+      pdf: pick2026.pdf
+    - type: doi
+      doi: 10.24072/pci.ecology.100857
+    - type: preprint
+      preprint: pick2025.pdf
+
+
+
 - title: "Community Synchrony in Aquatic Macroinvertebrates Is Unrelated to Environmental Variability but Differs Among Functional Feeding Groups"
   key: streamSync
   authors:
@@ -112,19 +129,6 @@
       data: https://doi.org/10.6084/m9.figshare.25537282.v1
 
 
-
-- title: "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology"
-  key: sortee
-  authors:
-    - name: JL Pick
-    - name: et al.
-  date: 2025
-  journal: EcoEvoRxiv
-  labels:
-    - type: pdf
-      pdf: pick2025.pdf
-    - type: doi
-      doi: 10.32942/X24P8S
 
 
 
