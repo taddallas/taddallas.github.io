@@ -1,3 +1,19 @@
+- title: "Abundance-Occupancy Relationships are Informed by Species Temporal Occupancy"
+  key: neonTime
+  authors:
+    - name: LA Holian
+    - name: C Ten Caten 
+    - name: T Dallas
+  date: 2026
+  journal: Ecology & Evolution
+  labels:
+    - type: pdf
+      pdf: holian2026.pdf
+    - type: doi
+      doi:  10.1002/ece3.73214
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.26060407
+
 
 - title: "The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology"
   key: sortee
