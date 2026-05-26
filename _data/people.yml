@@ -17,9 +17,6 @@
     - type: orcid
       orcid: https://orcid.org/0000-0003-3328-9958
 
-
-
-
 - name: "Grant Foster"
   title: "doctoral researcher"
   picture: grant.jpg
@@ -47,9 +44,6 @@
     - type: email
       email: "mailto:LHOLIAN@email.sc.edu"
 
-
-
-
 - name: "Anthony Pignatelli"
   title: "doctoral researcher"
   picture: anthony.png
@@ -69,14 +63,13 @@
     - type: email
       email: "mailto:christov@email.sc.edu"
 
-
-- name: "Haley Hair"
+- name: "Haley Helms"
   title: "undergraduate researcher"
-  picture: haley.png
-  bio: "Haley is an undergraduate biology major with a minor in English. She is interested in plant science, community ecology, and network science."
+  picture: user.png
+  bio: "Haley is an undergraduate biology major interested in infectious disease ecology."
   labels:
     - type: email
-      email: "mailto:jsc16@email.sc.edu"
+      email: "mailto:HAHELMS@email.sc.edu"
 
 - name: "Jackson Carpenter"
   title: "undergraduate researcher"

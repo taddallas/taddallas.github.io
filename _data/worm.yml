@@ -3,11 +3,6 @@
   picture: user.png
   major: ""
 
-- name: "Riley O'Hare"
-  title: "undergraduate researcher"
-  picture: user.png
-  major: ""
-
 - name: "Madeline Ronningen"
   title: "undergraduate researcher"
   picture: madeline.png
@@ -21,11 +16,6 @@
 - name: "Addy Rose McClure"
   title: "undergraduate researcher"
   picture: addy.png
-  major: "biology"
-
-- name: "Josh Nolan"
-  title: "undergraduate researcher"
-  picture: user.png
   major: "biology"
 
 - name: "Jaden Conner"

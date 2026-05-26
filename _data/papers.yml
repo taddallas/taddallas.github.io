@@ -47,6 +47,8 @@
       doi:  10.1002/ece3.72999
     - type: data
       data: https://figshare.com/s/7a6aa97fe73e44b8c19e
+    - type: press 
+      press: https://www.neonscience.org/impact/observatory-blog/data-action-what-keeps-stream-critters-sync-or-not
 
 
 - title: "Demography and dispersal influence the relationship between habitat suitability and population density"
@@ -65,6 +67,21 @@
     - type: data
       data: https://doi.org/10.6084/m9.figshare.26940301
 
+- title: "Comparing the power of phylogenetic, trait and network structure information to predict plant-frugivore interactions"
+  key: frugLink
+  authors:
+  - name: G Foster
+  - name: TA Dallas
+    type: pi
+  date: 2025
+  journal: Oikos
+  labels:
+    - type: pdf
+      pdf: foster2025.pdf
+    - type: doi
+      doi: 10.1002/oik.11156
+    - type: data
+      data: https://figshare.com/s/544021fc48732ca5bb13
 
 - title: "Landscape structure and species life history effects on abundance-occupancy relationships"
   key: neonRicker
@@ -85,21 +102,6 @@
 
 
 
-- title: "Comparing the power of phylogenetic, trait and network structure information to predict plant-frugivore interactions"
-  key: frugLink
-  authors:
-  - name: G Foster
-  - name: TA Dallas
-    type: pi
-  date: 2025
-  journal: Oikos
-  labels:
-    - type: pdf
-      pdf: foster2025.pdf
-    - type: doi
-      doi: 10.1002/oik.11156
-    - type: data
-      data: https://figshare.com/s/544021fc48732ca5bb13
 
 
 
