@@ -1,9 +1,63 @@
+- title: "Marine zooplankton contribute differentially to community synchrony across a 37 year time series"
+  key: joshZoops
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: A Pignatelli
+    - name: J Stone
+  date: 2026
+  journal: Journal of Animal Ecology
+  labels:
+    - type: pdf
+      pdf: dallas2026jae
+    - type: doi
+      doi:  10.1111/1365-2656.70323
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.28832429
+
+
+
+- title: "Helminth parasite body size scaling with host species size"
+  key: harrison
+  authors:
+    - name: T Dallas
+    - name: LA Holian
+    - name: G Foster
+  date: 2026
+  journal: Proceedings of the Royal Society B
+  labels:
+    - type: pdf
+      pdf: dallas2026PRSB
+    - type: doi
+      doi: 10.1098/rspb.2026.1330
+    - type: data
+      data: https://doi.org/10.6084/m9.figshare.30764579
+
+
+- title: "Preparing for the Next Pandemic: Learning Lessons from the Recent Past"
+  key: elderd2026
+  authors:
+    - name: BD Elderd
+    - name: TA Dallas
+      type: pi
+    - name: G Foster
+    - name: RL Richards
+  date: 2026
+  journal: Handbook of Visual, Experimental and Computational Mathematics
+  labels:
+    - type: pdf
+      pdf: elderd2026
+    - type: doi
+      doi:  10.1007/978-3-032-16368-4_49
+
+
 - title: "Abundance-Occupancy Relationships are Informed by Species Temporal Occupancy"
   key: neonTime
   authors:
     - name: LA Holian
     - name: C Ten Caten 
-    - name: T Dallas
+    - name: TA Dallas
+      type: pi
   date: 2026
   journal: Ecology & Evolution
   labels:

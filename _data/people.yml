@@ -17,19 +17,18 @@
     - type: orcid
       orcid: https://orcid.org/0000-0003-3328-9958
 
-- name: "Grant Foster"
-  title: "doctoral researcher"
-  picture: grant.jpg
-  bio: "Grant recently finished undergraduate degrees studying ecology and biology, and is interested in ways ecological and phylogenetic relationships within natural communities can affect patterns of multi-host parasite infection."
+
+- name: "Vincent Pan"
+  title: "postdoctoral researcher"
+  picture: vincent.jpg
+  bio: "Vincent is a postdoctoral researcher interested in host-helminth interactions and theoretical ecology."
   labels:
-    - type: website 
-      website: https://gtfoster.github.io
     - type: github
-      github: https://github.com/GTFoster
+      github: https://github.com/vsbpan
     - type: cv
-      cv: ../resources/photos/grantCV.pdf
+      cv: ../resources/photos/PanCV.pdf
     - type: email
-      email: "mailto:fostergt@email.sc.edu"
+      email: "mailto:@email.sc.edu"
 
 
 - name: "Lauren Holian"
@@ -53,6 +52,20 @@
       github: https://github.com/anthony-pignatelli
     - type: email
       email: "mailto:pignatea@email.sc.edu"
+
+
+
+- name: "Yanella Colón-Marty"
+  title: "doctoral researcher"
+  picture: user.png
+  bio: "Yanella is a doctoral researcher interested in host-helminth interactions and disease ecology."
+  labels:
+    - type: github
+      github: https://github.com/Lalili18
+    - type: email
+      email: "mailto:@email.sc.edu"
+
+
 
 
 - name: "Nicholas Christov"

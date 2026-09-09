@@ -1,3 +1,17 @@
+- name: "Grant Foster"
+  title: "doctoral researcher"
+  picture: grant.jpg
+  bio: "Grant defended in 2026 and accepted a tenure-track teaching professorship at Texas Wesleyan University."
+  labels:
+    - type: website 
+      website: https://gtfoster.github.io
+    - type: github
+      github: https://github.com/GTFoster
+    - type: cv
+      cv: ../resources/photos/grantCV.pdf
+    - type: email
+      email: "mailto:fostergt@email.sc.edu"
+
 - name: "Aiden Siebers"
   title: "undergraduate researcher"
   picture: aiden.png
