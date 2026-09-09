@@ -78,7 +78,7 @@
 
 - name: "Haley Helms"
   title: "undergraduate researcher"
-  picture: user.png
+  picture: haley2.png
   bio: "Haley is an undergraduate biology major interested in infectious disease ecology."
   labels:
     - type: email
@@ -86,7 +86,7 @@
 
 - name: "Jackson Carpenter"
   title: "undergraduate researcher"
-  picture: user.png
+  picture: jackson.png
   bio: "Jackson is an undergraduate biology major interested in infectious disease."
   labels:
     - type: email

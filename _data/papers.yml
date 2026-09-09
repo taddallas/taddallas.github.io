@@ -9,7 +9,7 @@
   journal: Journal of Animal Ecology
   labels:
     - type: pdf
-      pdf: dallas2026jae
+      pdf: dallas2026jae.pdf
     - type: doi
       doi:  10.1111/1365-2656.70323
     - type: data
@@ -27,7 +27,7 @@
   journal: Proceedings of the Royal Society B
   labels:
     - type: pdf
-      pdf: dallas2026PRSB
+      pdf: dallas2026PRSB.pdf
     - type: doi
       doi: 10.1098/rspb.2026.1330
     - type: data
@@ -46,7 +46,7 @@
   journal: Handbook of Visual, Experimental and Computational Mathematics
   labels:
     - type: pdf
-      pdf: elderd2026
+      pdf: elderd2026.pdf
     - type: doi
       doi:  10.1007/978-3-032-16368-4_49
 
