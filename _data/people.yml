@@ -25,6 +25,8 @@
   labels:
     - type: github
       github: https://github.com/vsbpan
+    - type: cv
+      cv: ../resources/photos/PanCV.pdf
     - type: email
       email: "mailto:VPAN@mailbox.sc.edu"
 
