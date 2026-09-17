@@ -8,62 +8,32 @@ description:
    {% include header.html %}
 </head>
 
-<style>
-.container2{
-    width:100%;
-    display:block;
-    font-size:0;
-}
-</style>
-
-
-
 <body>
 
 <div class="top-bar pure-menu pure-menu-open pure-menu-horizontal">
   {% include nav.html %}
 </div>
 
+<main class="page-shell page-shell--wide">
+  <h1 class="page-title">Lab members</h1>
 
-<br/>
-<br/>
+  {% for z in site.data.people %}
+  {% include person.html %}
+  {% endfor %}
 
-<h1> Lab members </h1>
+  <h1 class="page-title">Helminth team</h1>
 
-{% for z in site.data.people %}
-{% include person.html %}
-{% endfor %}
+  <div class="team-grid">
+  {% for a in site.data.worm %}
+  {% include worm.html %}
+  {% endfor %}
+  </div>
 
-<br/>
-<br/>
-
-
-<h1> Helminth team </h1>
-
-<br/>
-<br/>
-
-
-
-<div class="container2">
-{% for a in site.data.worm %}
-{% include worm.html %}
-{% endfor %}
-</div>
-
-
-
-
-
-<br/>
-<br/>
-
-
-<h1> Alumni </h1>
-{% for q in site.data.alumni %}
-{% include alumni.html %}
-{% endfor %}
+  <h1 class="page-title">Alumni</h1>
+  {% for q in site.data.alumni %}
+  {% include alumni.html %}
+  {% endfor %}
+</main>
 
 
 </body>
-

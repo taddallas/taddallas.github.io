@@ -13,14 +13,10 @@ description: Videos and such
      {% include nav.html %}
   </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-{% for p in site.data.multimedia %}
-{% include multimedia.html %}
-{% endfor %}
+  <main class="page-shell">
+    {% for p in site.data.multimedia %}
+    {% include multimedia.html %}
+    {% endfor %}
+  </main>
 
 </body>

@@ -14,15 +14,10 @@ description: Scientific currency
    {% include nav.html %}
   </div>
 
-
-
-
-<br/>
-<br/>
-<br/>
-
-{% for p in site.data.papers %}
-{% include paper.html %}
-{% endfor %}
+  <main class="page-shell">
+    {% for p in site.data.papers %}
+    {% include paper.html %}
+    {% endfor %}
+  </main>
 
 </body>
