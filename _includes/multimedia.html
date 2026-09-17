@@ -1,24 +1,22 @@
-<html class="no-js" lang="en">
-  <div class="row publication">
-     <div class="nine columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
-     <span class="text-muted">{{forloop.rindex}}.</span>
+<div class="row publication resource-row">
+  <div class="nine columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
+    <span class="text-muted">{{forloop.rindex}}.</span>
     <b>{{p.title}}</b><br/>
-   {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
-   {{ p.date }}. <i> {{ p.journal }} </i>
-    </div>
-
-  <div class="one column"></div>
-   <div class="two columns text-right">
-       {% for lab in p.labels %}
-       {% if lab.type == "pdf" %}<a href="{{lab.pdf}}"><span class="label label-pdf"> <i class="fas fa-file-pdf"></i> </span></a>{% endif %}
-       {% if lab.type == "doi" %}<a href="{{lab.doi}}"><span class="label label-internet"> <i class="fas fa-desktop"></i> </span></a>{% endif %}
-     {% if lab.type == "code" %}<a href="{{lab.code}}"><span class="label label-data"> <i class="fas fa-code"></i></span></a>{% endif %}
-     {% if lab.type == "data" %}<a href="{{lab.data}}"><span class="label label-data"> <i class="fa fa-database"></i></span></a>{% endif %}
-     {% if lab.type == "cran" %}<a href="{{lab.cran}}}"><span class="label label-cran"> CRAN</span></a>{% endif %}
-     {% if lab.type == "github" %}<a href="{{lab.github}}"><span class="label label-github"> <i class="fas fa-github"></i>  </span></a>{% endif %}
-      {% if lab.type == "video" %}<a href="{{lab.video}}"><span class= "label label-video"> <i class="fas fa-video"></i></span></a>{% endif %}
-      {% if lab.type == "audio" %}<a href="{{lab.audio}}"><span class= "label label-audio"> <i class="fa fa-microphone"></i> </span> </a>{% endif %}
-    {% endfor %}
-    </div>
+    {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+    {{ p.date }}. <i> {{ p.journal }} </i>
   </div>
-</html>
+
+  <div class="one column resource-spacer"></div>
+  <div class="two columns text-right resource-actions">
+    {% for lab in p.labels %}
+    {% if lab.type == "pdf" %}<a href="{{lab.pdf}}"><span class="label label-pdf"> <i class="fas fa-file-pdf"></i> </span></a>{% endif %}
+    {% if lab.type == "doi" %}<a href="{{lab.doi}}"><span class="label label-internet"> <i class="fas fa-desktop"></i> </span></a>{% endif %}
+    {% if lab.type == "code" %}<a href="{{lab.code}}"><span class="label label-data"> <i class="fas fa-code"></i></span></a>{% endif %}
+    {% if lab.type == "data" %}<a href="{{lab.data}}"><span class="label label-data"> <i class="fa fa-database"></i></span></a>{% endif %}
+    {% if lab.type == "cran" %}<a href="{{lab.cran}}"><span class="label label-cran"> CRAN</span></a>{% endif %}
+    {% if lab.type == "github" %}<a href="{{lab.github}}"><span class="label label-github"> <i class="fas fa-github"></i>  </span></a>{% endif %}
+    {% if lab.type == "video" %}<a href="{{lab.video}}"><span class= "label label-video"> <i class="fas fa-video"></i></span></a>{% endif %}
+    {% if lab.type == "audio" %}<a href="{{lab.audio}}"><span class= "label label-audio"> <i class="fa fa-microphone"></i> </span> </a>{% endif %}
+    {% endfor %}
+  </div>
+</div>

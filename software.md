@@ -17,8 +17,8 @@ title: Software
 
 <div class="pure-g" markdown="1">
 
-<div class="pure-u-1-2 l-box"  markdown="1">
-<img src ="../resources/metacom.png" width="150" align="middle"> 
+<div class="pure-u-1 pure-u-md-1-2 l-box software-card" markdown="1">
+<img class="software-image" src ="../resources/metacom.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/taddallas/metacom"><i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/metacom/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
@@ -36,9 +36,9 @@ If you find a bug, please [report it](https://github.com/taddallas/metacom/issue
 
 
 
-<div class="pure-u-1-2 l-box"  markdown="1">
+<div class="pure-u-1 pure-u-md-1-2 l-box software-card" markdown="1">
 
-<img src ="../resources/helminthR.png" width="150" align="middle">
+<img class="software-image" src ="../resources/helminthR.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/ropensci/helminthR"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/helminthR/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
@@ -50,15 +50,15 @@ If you find a bug, please [report it](https://github.com/taddallas/metacom/issue
 
 If you find a bug, please [report it](https://github.com/ropensci/helminthR/issues).
 
-<a href="http://ropensci.org"> <img src= "http://ropensci.org/public_images/github_footer.png"  style="width: 450px;"> </a>
+<a href="http://ropensci.org"> <img class="software-partner-image" src="http://ropensci.org/public_images/github_footer.png" alt="rOpenSci" /> </a>
 </div>
 
 
 
 
-<div class="pure-u-1-2 l-box"  markdown="1">
+<div class="pure-u-1 pure-u-md-1-2 l-box software-card" markdown="1">
 
-<img src ="../resources/insectDisease.png" width="150" align="middle">
+<img class="software-image" src ="../resources/insectDisease.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/viralemergence/insectDisease"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/insectDisease/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
@@ -78,9 +78,9 @@ If you find a bug, please [report it](https://github.com/viralemergence/insectDi
 
 
 
-<div class="pure-u-1-2 l-box"  markdown="1">
+<div class="pure-u-1 pure-u-md-1-2 l-box software-card" markdown="1">
 
-<img src ="../resources/hmsc.png" width="150" align="middle">
+<img class="software-image" src ="../resources/hmsc.png" width="150" align="middle">
 <br/>
 <a href="https://github.com/hmsc-r/hmsc"> <i style="color:Black" class="fab fa-2x fa-github"></i></a>
 <a href="https://cran.r-project.org/web/packages/Hmsc/index.html"> <i style="color:Black" class="fa-brands fa-r-project fa-2x"></i></a>
