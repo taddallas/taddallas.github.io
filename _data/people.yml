@@ -110,7 +110,7 @@
 - name: "Madison Meek"
   title: "undergraduate researcher"
   picture: madison.png
-  bio: "Callie is an undergraduate researcher interested in bird community shifts across elevational ranges."
+  bio: "Madison is an undergraduate researcher interested in bird community shifts across elevational ranges."
   labels:
     - type: email
       email: "mailto:MMMEEK@email.sc.edu"
