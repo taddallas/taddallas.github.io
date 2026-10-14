@@ -98,6 +98,8 @@ formatPub <- function(x){
   if(inherits(doi, 'try-error')){
     doi <- NULL
   }
+  doi <- gsub("_", "-", doi)
+
   return(paste0(c("\\item ", 
         auth, '. \\textbf{', x$date,'}. ', x$title, '.  \\textit{',x$journal, '} . doi: ', doi), 
           collapse='')
@@ -343,10 +345,12 @@ if(any(ugmentoring$Start==ugmentoring$End)){
   ugmentoring$DateRange[inds] <- paste(ugmentoring$Start[inds], sep='')
 }
 
+ugmentoring$Student[which(ugmentoring$HonorsThesis == "Yes")] <- paste(ugmentoring$Student[which(ugmentoring$HonorsThesis == "Yes")], " (Honor's thesis student)")
+
 vitae::detailed_entries(data=ugmentoring,  
   what = Student, 
   when = DateRange,
-  with= Major) |> 
+  with = Major) |> 
   arrange(desc(when))
 
 ```

@@ -66,8 +66,6 @@
       email: "mailto:@email.sc.edu"
 
 
-
-
 - name: "Nicholas Christov"
   title: "undergraduate researcher"
   picture: user.png
@@ -99,3 +97,22 @@
   labels:
     - type: email
       email: "mailto:AJMCCANN@email.sc.edu"
+      
+- name: "Callie Barger"
+  title: "undergraduate researcher"
+  picture: callie.png
+  bio: "Callie is an undergraduate in the honors college, interested in infectious disease ecology."
+  labels:
+    - type: email
+      email: "mailto:CEBARGER@email.sc.edu"
+
+
+- name: "Madison Meek"
+  title: "undergraduate researcher"
+  picture: madison.png
+  bio: "Callie is an undergraduate researcher interested in bird community shifts across elevational ranges."
+  labels:
+    - type: email
+      email: "mailto:MMMEEK@email.sc.edu"
+
+
